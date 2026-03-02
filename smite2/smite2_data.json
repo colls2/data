@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-02-27T08:51:16Z",
+    "generated_at": "2026-03-02T06:07:42Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data"
   },
@@ -168,7 +168,7 @@
           "attack_range": "Ranged",
           "lore": "Morgan Le Fay, Enchantress of Avalon and once a cherished figure of Camelot, learned her craft beside Merlin and walked proudly among Arthur's court. Yet jealousy and whispered deceit turned admiration into condemnation, casting her from the kingdom she served. Heartbreak became resolve, and the sorceress who left Camelot returned as a master of arcane might, wielding illusion and shadow with absolute precision. Those that worship her seek dominance through control and cunning, bending the battlefield to their will with calculated magic and overwhelming presence.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:38Z",
+          "scraped_at": "2026-03-02T06:06:50Z",
           "skins": {
             "morgan-le-fay-morgan-le-fay": {
               "id": "morgan-le-fay-morgan-le-fay",
@@ -204,6 +204,27 @@
               "card_art_url": "https://wiki.smite2.com/images/T_Morgan_Le_Fay%28S2%29_Default.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "morgan-le-fay-default-skin": {
+              "id": "morgan-le-fay-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "morgan-le-fay-ascension-reward": {
+              "id": "morgan-le-fay-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "morgan-le-fay-rare": {
+              "id": "morgan-le-fay-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         }
@@ -262,7 +283,7 @@
           "attack_range": "Both",
           "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature's strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:39Z",
+          "scraped_at": "2026-03-02T06:06:56Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -298,6 +319,27 @@
               "card_art_url": "https://wiki.smite2.com/images/T_Artio%28S2%29_Default.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "artio-default-skin": {
+              "id": "artio-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artio-ascension-reward": {
+              "id": "artio-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "artio-rare": {
+              "id": "artio-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -806,7 +848,7 @@
           "attack_range": "Melee",
           "lore": "Ne Zha, the Third Lotus Prince, was born not of flesh, but of divine magic and rebellion. Gifted with power even in childhood, he defied both gods and demons, wielding his flaming spear and fiery wheels with unmatched speed and grace. When his strength brought calamity to those he loved, Ne Zha sacrificed himself to restore balance - only to be reborn from a lotus blossom, purified and renewed. Now a symbol of redemption and youthful courage, Ne Zha fights with playful confidence and relentless energy. Players drawn to Ne Zha thrive on precision, agility, and the thrill of striking fast and true, dancing between life and death with every spin of his flaming rings.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:43Z",
+          "scraped_at": "2026-03-02T06:07:01Z",
           "skins": {
             "ne-zha-ne-zha": {
               "id": "ne-zha-ne-zha",
@@ -842,6 +884,27 @@
               "card_art_url": "https://wiki.smite2.com/images/T_Ne_Zha%28S2%29_Default.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "ne-zha-default-skin": {
+              "id": "ne-zha-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ne-zha-ascension-reward": {
+              "id": "ne-zha-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "ne-zha-rare": {
+              "id": "ne-zha-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -1024,7 +1087,7 @@
           "attack_range": "Ranged",
           "lore": "Anhur, the lion-headed Egyptian God of war, slays his enemies with spear and guile. Weapons equally as sharp! As a son of Ra, Anhur, and his sister Bastet, rode in the golden barge their father sailed across the sky each day. They protected the ship at dawn and dusk from the world serpent, Apep, who lurked at the horizon. Courageous, formidable, and above all, intelligent, Anhur defended the vessel with his spear and wits, outsmarting and distracting the serpent until feral Bastet delivered a killing blow. With Apep gone, Ra became Pharaoh, Bastet, the Goddess of Cats and Women, and Anhur donned the mantle of the God of War. This is how he became known as the Slayer of Enemies. As time went on, another feline Goddess, Menhet, ran away from the Pantheon, spurning Ra. Anhur vowed to bring her back from the distant lands of Nubia to appease his father, but when he finally caught up with Menhet, he was enraptured and fell in love. He tied a rope to her neck and led her home, where he requested Menhet become his wife, a boon Ra happily granted. For Egyptians, warfare is more than bloody battle, it's a means to break the chains of tyranny. Anhur can be found at the head of any charge, crushing corruption and leading the people to freedom. While his spear is deadly, Anhur is cunning and clever, able to outmaneuver opponents in ways they least expect.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:44Z",
+          "scraped_at": "2026-03-02T06:07:03Z",
           "skins": {
             "anhur-anhur": {
               "id": "anhur-anhur",
@@ -1081,6 +1144,62 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "anhur-default-skin": {
+              "id": "anhur-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anhur-ascension-reward": {
+              "id": "anhur-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "anhur-rare": {
+              "id": "anhur-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anhur-reign-of-the-archfiend": {
+              "id": "anhur-reign-of-the-archfiend",
+              "name": "Reign of the Archfiend",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anhur-traveler-collection": {
+              "id": "anhur-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "anhur-classic": {
+              "id": "anhur-classic",
+              "name": "Classic",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anhur-standard": {
+              "id": "anhur-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "anhur-cross-gen": {
+              "id": "anhur-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -1099,7 +1218,7 @@
           "attack_range": "Ranged",
           "lore": "Jackal-headed Anubis holds the ultimate judgment over the dead, measuring every heart against the weight of Truth. Nephthys, wife of Set - the God of Darkness, desired a child, yet her husband was infertile, so Nephthys disguised herself as Eset, the wife of Set’s brother Osiris, and seduced him. From that union, Anubis was born. Osiris cared for Anubis as his own, but when Osiris was murdered by his evil brother, Set, Anubis embalmed his adopted father and mummified the corpse so he would not rot. This preservation passed down to the Faithful, for if it was good enough for the Gods, it was good enough for man. None enter the abyss of the Underworld without first being tested by Anubis. When corpses are preserved, he is the embalmer. When time for judgment comes, he is the final arbiter. In his realm, he keeps legendary weighing scales. On one side, the massive weight of Ma’at – truth and order. On the other side, he places the heart of the deceased. Should the weight of Ma’at prove infinitely heavier than that of the heart, Anubis casts the soul deep into the darkness of the Underworld, where it is forgotten, never to be reborn.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:45Z",
+          "scraped_at": "2026-03-02T06:07:04Z",
           "skins": {
             "anubis-anubis": {
               "id": "anubis-anubis",
@@ -1163,6 +1282,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Anubis.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "anubis-default-skin": {
+              "id": "anubis-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anubis-ascension-reward": {
+              "id": "anubis-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "anubis-rare": {
+              "id": "anubis-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anubis-cross-gen": {
+              "id": "anubis-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anubis-standard": {
+              "id": "anubis-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "anubis-traveler-collection": {
+              "id": "anubis-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "anubis-prisms-available": {
+              "id": "anubis-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anubis-prism": {
+              "id": "anubis-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "anubis-legacy": {
+              "id": "anubis-legacy",
+              "name": "Legacy",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
             }
           }
         },
@@ -1746,7 +1928,7 @@
           "attack_range": "Melee",
           "lore": "King Agamemnon brought his fury to bear against gilded Troy, for Prince Paris had stolen his Helen, his wife, whose beauty rivaled that of Athena and Aphrodite. To famed Achilles, invincible warrior, the king gave command of a thousand ships. Across stormy seas and salted beach, soldiers sieged the city. Arrow and stone, blade and barb bounced from Achilles' skin. Bathed as a babe in the River Styx by his Nereid mother, his hide was hardened, imperviously made. Through every charge, every death-defying battle, Achilles was at the fore. Troy hung poised to crumble. Until Agamemnon gave slight to the mighty myrmidon. In grave offense, Achilles pulled his forces from the field. Hector, boldest, bravest, eldest of the Trojan princes seized the chance to push the Greeks to the sea. Water's reflection mirrored scorching sails as Hector fired their ships. All seemed lost until Achilles rose to meet him. Fierce and fast the two titans fought, but Hector's spear felled Achilles fair. Though Patroclus, it was, in the armor of Achilles, not Achilles who lay dead. Wrathful at the loss of his faithful lover, Achilles donned armor newly-made and challenged Hector alone. Spear and blade and amor rang, but Achilles could not be harmed. Hector, prince of Troy, died in battle that day. Paris, brother lost, tearful-eyed, let arrow loose, guided by divine envy. For there were Gods that could not suffer Achilles to survive. Straight and true the arrow flew and harpooned Achilles' heel, where his mother held him when submerged. The wound was deep, his weakness found, Achilles met his end. A decade thence, from Hades' depths, Achilles has been drawn. Armored now, upon the heel, revenge his only aim. For envious Gods stole from him his glory and his life. Now they tremble at the wrath of the man who cannot be harmed.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:49Z",
+          "scraped_at": "2026-03-02T06:07:09Z",
           "skins": {
             "achilles-achilles": {
               "id": "achilles-achilles",
@@ -1796,6 +1978,55 @@
               "card_art_url": null,
               "rarity": "Common",
               "obtain_method": "Event"
+            },
+            "achilles-default-skin": {
+              "id": "achilles-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "achilles-ascension-reward": {
+              "id": "achilles-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "achilles-rare": {
+              "id": "achilles-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "achilles-traveler-collection": {
+              "id": "achilles-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "achilles-classic": {
+              "id": "achilles-classic",
+              "name": "Classic",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "achilles-prisms-available": {
+              "id": "achilles-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "achilles-prism": {
+              "id": "achilles-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -1814,7 +2045,7 @@
           "attack_range": "Ranged",
           "lore": "There are too few words to describe the radiance, the magnificence, the inequitable glory of Aphrodite, Goddess of Beauty. So wondrous is she to behold that one look can inspire tears, desire, jealousy, and love. Yet, beneath her flawless exterior resides a heart burdened with insecurity. Inattentive and hideous to look upon, her husband, Hephaestus, unknowingly leaves Aphrodite feeling lonely and worthless. She finds consolation in the arms of other men such as Ares, or validation by competing in any contest of beauty she encounters. At a wedding attended by all the Gods, a golden apple appeared, inscribed with the words \"to the fairest.\" Immediately Aphrodite, her mother Hera, and sister Athena quarreled over it. Zeus elected Paris, Prince of Troy, to choose a victor. In exchange for being named the fairest, Aphrodite offered any woman in the world as his wife, so Paris agreed. However, he chose Helen as his wife, and their love began the catastrophic Trojan War. Now, a new war brews, but this one between Gods, not men. While the battlefield is no place for the fairest of all, Aphrodite recalls the destruction between the Greeks and Trojans. Perhaps, this time, her beauty can be used to stop a war instead of start one. Perhaps, this time, she will discover the beauty within.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:49Z",
+          "scraped_at": "2026-03-02T06:07:10Z",
           "skins": {
             "aphrodite-aphrodite": {
               "id": "aphrodite-aphrodite",
@@ -1878,6 +2109,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Aphrodite.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "aphrodite-default-skin": {
+              "id": "aphrodite-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-ascension-reward": {
+              "id": "aphrodite-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "aphrodite-rare": {
+              "id": "aphrodite-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-traveler-collection": {
+              "id": "aphrodite-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "aphrodite-prisms-available": {
+              "id": "aphrodite-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-special": {
+              "id": "aphrodite-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-prism": {
+              "id": "aphrodite-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-cross-gen": {
+              "id": "aphrodite-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aphrodite-standard": {
+              "id": "aphrodite-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
             }
           }
         },
@@ -1896,7 +2190,7 @@
           "attack_range": "Ranged",
           "lore": "Apollo, the God of Music, is a cavalier force of brilliance and artistry. With his legendary bow and golden lyre, he inspires armies and dazzles even the gods. From slaying the great serpent Pylos as a mere child to outshining Hermes' son Pan in a contest of music. Apollo's life has been one big triumph. His faith runs deep among soldiers, musicians, and kings who sing his praises, each melody a hymn to his name. Now, as gods clash, Apollo takes the field for one last performance, his light unyielding and his aim true.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:50Z",
+          "scraped_at": "2026-03-02T06:07:11Z",
           "skins": {
             "apollo-apollo": {
               "id": "apollo-apollo",
@@ -1939,6 +2233,55 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Apollo.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "apollo-default-skin": {
+              "id": "apollo-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "apollo-ascension-reward": {
+              "id": "apollo-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "apollo-rare": {
+              "id": "apollo-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "apollo-cross-gen": {
+              "id": "apollo-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "apollo-prisms-available": {
+              "id": "apollo-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "apollo-standard": {
+              "id": "apollo-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "apollo-prism": {
+              "id": "apollo-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -1957,7 +2300,7 @@
           "attack_range": "Melee",
           "lore": "Feared by his enemies, reviled by his father, adored by the Goddess of Beauty, and worshipped by warriors, Ares, a tortured and lonely soul, is the bloodthirsty Greek God of War. Ares is not loved by the people. He represents everything they fear and despise: war, strife, chaos, and murder. It’s said that the sky darkens when Ares takes the field. That he rides to battle on a chariot drawn by fire-breathing steeds and delights only in the clash of battle and smell of bloodshed. Ares is not loved by his father. Zeus has many sons, but only two with his wife Hera. However, the thunder God has long suspected Hera of having an affair that led to the birth of Ares, perhaps as revenge for all of Zeus’ infidelity. For this, Zeus is disgusted by him. Ares is not loved by his sister. Athena and Ares are both Gods of War. Where Ares represents violence, force, and slaughter, Athena is the embodiment of intelligence, strategy, and leadership. Ares is quick to act and leave a bloody trail. Athena is thoughtful and careful with lives. Often they have been on the opposite sides, most notably at the Battle of Troy, where Athena viciously wounded him and forced Ares to retreat. Ares is the lover of the Goddess of Beauty. Though Aphrodite is married to Ares’ brother, Hephaestus, Ares takes what he wants, and Aphrodite gives in willingly. Their union created offspring almost as terrible as Ares himself: Phobos and Deimos, Fear and Terror. Ares is loved only by the Spartans, who revere the God for his masculinity, his merciless warrior spirit, and tenacity against all odds. The Spartans, however, know the unpredictable fury of their patron, and bind his statues in chains. This is, in part, to prevent Ares’ spirit of victory from escaping Sparta, and a vain effort to keep the God of War contained.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:50Z",
+          "scraped_at": "2026-03-02T06:07:12Z",
           "skins": {
             "ares-ares": {
               "id": "ares-ares",
@@ -2014,6 +2357,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Ares.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "ares-default-skin": {
+              "id": "ares-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ares-ascension-reward": {
+              "id": "ares-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "ares-rare": {
+              "id": "ares-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ares-classic": {
+              "id": "ares-classic",
+              "name": "Classic",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ares-standard": {
+              "id": "ares-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "ares-cross-gen": {
+              "id": "ares-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ares-traveler-collection": {
+              "id": "ares-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "ares-prisms-available": {
+              "id": "ares-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "ares-prism": {
+              "id": "ares-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -2032,7 +2438,7 @@
           "attack_range": "Ranged",
           "lore": "Armed with a magical bow, Artemis is the unrivaled Goddess of the Hunt! Daughter of Zeus and Leta, Artemis and her twin brother Apollo are products of Zeus' infidelity to his wife Hera. Insulted, Hera cursed Leta while she was pregnant, forbidding her to give birth on land or sea. Fortunately, she found an island that did not touch the ocean floor, so it was neither land nor sea, and thus bore her children. Artemis was born first, then miraculously aided as midwife in the birthing of her brother. Artemis spent her childhood in the hills and forests, training with her bow and hunting beasts. As she grew older and more beautiful, she also grew proud and ruthless when slighted or dishonored, especially against those that claimed to be better hunters than she. Adonis boasted this very thing and Artemis sent a wild boar to skewer him. The twin demigods Otos and Ephialtes, who could not be killed except by each other, threatened to kidnap Artemis and force her to marry one of them, but were tricked when Artemis, appearing as a doe, dashed between them. As they thrust with their spears they impaled each other. Finally, Actaeon, after peeping at Artemis while she bathed, was transformed into a stag and devoured by his own hunting dogs. Such is the wrath of Artemis. Her name is invoked by hunters seeking prey and by midwives during childbirth. Sacrifices are made in her name before a new military campaign. Adolescent girls are sent to her shrine to serve for one year. Beautiful, deadly, and chaste, Artemis is a focused woman and a fearsome warrior.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:51Z",
+          "scraped_at": "2026-03-02T06:07:13Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -2096,6 +2502,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Artemis.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "artemis-default-skin": {
+              "id": "artemis-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-ascension-reward": {
+              "id": "artemis-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "artemis-rare": {
+              "id": "artemis-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-cross-gen": {
+              "id": "artemis-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-standard": {
+              "id": "artemis-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "artemis-saga-skin": {
+              "id": "artemis-saga-skin",
+              "name": "Saga Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-the-frostwaden-saga": {
+              "id": "artemis-the-frostwaden-saga",
+              "name": "The Frostwaden Saga",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-prisms-available": {
+              "id": "artemis-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "artemis-prism": {
+              "id": "artemis-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -2114,7 +2583,7 @@
           "attack_range": "Melee",
           "lore": "In war, there are two kinds of soldiers: those that fight for blood, and those that fight for honor. The first crave the clash of steel and smell of slaughter, the latter know the wisdom of justice, the kindness of mercy, and that life should never be taken wantonly. These different warriors seek different Gods. Ares, God of War revels in the bloodletting, but his sister, Athena, Goddess of Wisdom, is patron to those who fight with dignity, and only when there is no other alternative. Favored daughter of Zeus, wise as ten thousand scholars, just as the scales themselves; Athena is a paragon of incorruptible virtue, and worshipped with righteous fervor. So revered is she that Athens, greatest city in all the world, is named for her, and regal temples adorn the countryside in her honor, each tended by loyal priestesses. To Athena, a life is a precious thing that need not be wasted in frivolous battle. Bloodthirsty Ares, on the other hand, is reviled by their father and chained by his ravenous subjects. At the Siege of Troy, Ares disobeyed Zeus and joined with the battle, fighting for the mortal Trojans. Athena rose to stop him, indirectly championing the Greeks, but directly keeping the order of divine law. Their fierce battle clashed in unspeakable proportions, ending only when Ares limped from the battle field, cowed by his sister and rival. With Ares diminished, the tide of the war shifted and the heroes of the Greek Army toppled Troy. In times of war, prayers are sent to both Gods. Ares, for bloodstained victory, Athena for honor, valor, and the wisdom to fight with dignity. Make no mistake, these are times of war, and Ares has already answered the call to arms. Athena, ever cautious with lives, goes to battle without eagerness, but solemn necessity, for the Goddess of Wisdom knows honor is for the living. The dead have no need of it.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:52Z",
+          "scraped_at": "2026-03-02T06:07:14Z",
           "skins": {
             "athena-athena": {
               "id": "athena-athena",
@@ -2171,6 +2640,76 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Athena.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "athena-default-skin": {
+              "id": "athena-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-ascension-reward": {
+              "id": "athena-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "athena-rare": {
+              "id": "athena-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-traveler-collection": {
+              "id": "athena-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "athena-prisms-available": {
+              "id": "athena-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-prism": {
+              "id": "athena-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-cross-gen": {
+              "id": "athena-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-standard": {
+              "id": "athena-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "athena-special-effects": {
+              "id": "athena-special-effects",
+              "name": "Special Effects",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "athena-special": {
+              "id": "athena-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -2283,7 +2822,7 @@
           "attack_range": "Ranged",
           "lore": "Chiron, the Great Teacher, stands apart from his kin as a centaur of wisdom rather than savagery. Scholar, poet, and master of the stars, he devoted his long life to shaping heroes, training legends such as Achilles, Perseus, and Ajax not only in combat, but in discipline and restraint. Yet time and again, the world has chosen to sing of war over knowledge, forcing Chiron to set aside his scrolls for bow and armor. Now, as chaos threatens all he cherishes, the mentor steps onto the battlefield himself. Those who choose Chiron value precision, foresight, and mastery, striking from range with calculated power while guiding the fight with the calm of a true teacher.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:53Z",
+          "scraped_at": "2026-03-02T06:07:16Z",
           "skins": {
             "chiron-chiron": {
               "id": "chiron-chiron",
@@ -2319,6 +2858,27 @@
               "card_art_url": "https://wiki.smite2.com/images/T_Chiron%28S2%29_Default.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "chiron-default-skin": {
+              "id": "chiron-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "chiron-ascension-reward": {
+              "id": "chiron-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "chiron-rare": {
+              "id": "chiron-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -2916,7 +3476,7 @@
           "attack_range": "Ranged",
           "lore": "There are few elements as destructive or as purifying as fire. Agni, God of Fire, embodies both of these qualities, with a head for each. Though the source of his origin warrants debate - for there are many tales of his parentage ranging from two simple sticks rubbed together to the cosmic energy that made all things at the beginning of time - Agni is a pivotal and important God with many duties to the Pantheon. He is the twin brother to Indra, God of the Heavens and Rains, and chief among warriors. Conversely, Agni is chief among priests, acting as a messenger between mortals and gods. Every Hindu ritual and prayer is performed in front of a fire of some kind, so Agni carries the words and sacrifices, traveling between the Earth and the Heavens. He is welcome in every home and every hearth and much beloved by the Faithful. Through his flames, Agni provides heat and light but also cleanses impurities. Smoke from his pyres creates the air and holds the Heavens aloft. The sun, a source of fire itself, brings life-giving energy to the world, and his lightning streaks the sky during storms. For all his kindness and service, Agni has two faces. One is the face of kindness and purity, turned towards the people and Gods. His other face, grim and resolute, guides the God of Fire to play his role in the cosmic cycle of creation and destruction, to burn and blacken all the atrocities of the world to ash.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:57Z",
+          "scraped_at": "2026-03-02T06:07:22Z",
           "skins": {
             "agni-agni": {
               "id": "agni-agni",
@@ -2959,6 +3519,48 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Agni.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "agni-default-skin": {
+              "id": "agni-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "agni-ascension-reward": {
+              "id": "agni-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "agni-rare": {
+              "id": "agni-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "agni-traveler-collection": {
+              "id": "agni-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "agni-prisms-available": {
+              "id": "agni-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "agni-prism": {
+              "id": "agni-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -3181,7 +3783,7 @@
           "attack_range": "Melee",
           "lore": "As the first rays of dawn cross the horizon, before all else they touch the land of the rising sun. A realm of islands painted with the careful brush strokes of its deities. That morning light, which brings warmth and life is Amaterasu, the benevolent Goddess of the sun. Universally, she is adored. Less so are her brothers, namely Susano-o, bringer of storms, whose jealousy of his sister's popularity drove him to burn her golden rice fields and shatter the sacred looms of her people. Grief stricken at the destruction, Amaterasu sealed herself inside a deep cavern. Her people suffered and the realm fell into crushing darkness. For an unknown time, she stayed there, hidden away from the atrocities of the world. Until, one day, came a thumping from outside. At first, she tried to ignore it, but curiosity called. Moving aside the great stone sealing the cavern, she peered cautiously out, only to stare into a polished bronze mirror. Blinded by her own reflection, Amaterasu was forced to creep further out to find the source of the sound. Hands grabbed her from either side and pulled her free of the cave. Gathered around were hundreds of friends and loved ones. Atop a wide tub danced Usume, Goddess of Mirth, creating the erratic drumming to the joy of all. Amaterasu smiled and light came back to the world. Seeing all those that depended on her, all those that loved her, Amaterasu vowed never again to hide away from calamity. She would, instead, face it, just as the dawn rises each new day.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:50:59Z",
+          "scraped_at": "2026-03-02T06:07:24Z",
           "skins": {
             "amaterasu-amaterasu": {
               "id": "amaterasu-amaterasu",
@@ -3245,6 +3847,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Amaterasu.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "amaterasu-default-skin": {
+              "id": "amaterasu-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-ascension-reward": {
+              "id": "amaterasu-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "amaterasu-rare": {
+              "id": "amaterasu-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-wandering-market": {
+              "id": "amaterasu-wandering-market",
+              "name": "Wandering Market",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-special": {
+              "id": "amaterasu-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-classic": {
+              "id": "amaterasu-classic",
+              "name": "Classic",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-standard": {
+              "id": "amaterasu-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "amaterasu-cross-gen": {
+              "id": "amaterasu-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "amaterasu-special-effects": {
+              "id": "amaterasu-special-effects",
+              "name": "Special Effects",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         },
@@ -3659,7 +4324,7 @@
           "attack_range": "Melee",
           "lore": "Pale white shines the light from her sentinel high above Earth. She watches, the eye that pierces shadow, and listens with the ears of birds and beasts that use the darkness to hunt and revel. As Queen of the Night, she is known; the Goddess of the Moon, Awilix. They say the sun is her lover, and from his light does she shine, but those that say so have never beheld her. Left unrestrained, the sun burns skin, scorches the land, blinds the eyes. Moonlight does no such thing. Like soft white petals it blankets the night, casting the world into mystical illumination. Never has it brought calamity or ruin, only the chance to see where once there was none. She is no different. Her mysterious radiance needs no other to shine. These days, the night is less welcoming. Those loyal followers, the jaguars, whose whispered roars bellow into the silence of her domain, prowl at her command. While it is, no doubt, beyond the understanding of mortals, the very moonlight is threatened. A war unlike any before it would end all things. For once that pale white will glimmer on the ugliness of bloodshed, for the night belongs to Awilix.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:51:03Z",
+          "scraped_at": "2026-03-02T06:07:29Z",
           "skins": {
             "awilix-awilix": {
               "id": "awilix-awilix",
@@ -3709,6 +4374,69 @@
               "card_art_url": "https://wiki.smite2.com/images/GodCard_Awilix.png",
               "rarity": "Default",
               "obtain_method": "Mastery"
+            },
+            "awilix-default-skin": {
+              "id": "awilix-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-ascension-reward": {
+              "id": "awilix-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "awilix-rare": {
+              "id": "awilix-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-traveler-collection": {
+              "id": "awilix-traveler-collection",
+              "name": "Traveler Collection",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
+            },
+            "awilix-prisms-available": {
+              "id": "awilix-prisms-available",
+              "name": "Prisms Available",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-special": {
+              "id": "awilix-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-prism": {
+              "id": "awilix-prism",
+              "name": "Prism",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-cross-gen": {
+              "id": "awilix-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "awilix-standard": {
+              "id": "awilix-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
             }
           }
         },
@@ -4805,7 +5533,7 @@
           "attack_range": "Melee",
           "lore": "Eat, drink, and be merry, for tomorrow you may die. None adhere more vigorously to this creed than Bacchus, the Roman God of Wine, lewd behavior, and madness. After spending much of his formative years with his impressively intoxicated mentor Solinus, whom Bacchus loves like a father, the God of Wine is now a wanderer and teacher. He’s journeyed across all of Asia, through India, and finally back to Rome, spreading the “Mysteries of the Vine,” a ritual involving incredible amounts of wine to lower inhibitions, freeing one from social constraints, oppression of gender, sexual taboos, and the stresses of life. Quite the successful ritual, if ever there was one. Much of this ritual seems to have come from Solinus, who is widely known to have vast, secret knowledge and the ability to predict the future, though only while completely drunk. The king Midas, covetous of this knowledge, captured Solinus, endeavoring to extract it by providing the scholar the finest food, drink, and entertainment he could muster. Bacchus finally tracked down his mentor in the court of Midas and discovered him well fed and cared for. Quickly, Midas lied, claiming Solinus had been lost and the king had taken him in. Seeing through the ruse, Bacchus offered the monarch a boon. Midas asked that anything he touched be turned to gold. Without hesitation, Bacchus granted this. He tested his new gift on a twig and stone and found them turned completely to gold. Elated, Midas called a feast, but found his food turned to gold in his hands and his daughter solidified at his touch. Starving and crazed, Midas begged Bacchus to remove the “gift.” Bacchus acquiesced, allowing the greedy king to wash his hands in the Pactolus river. As the golden touch left his hands, the river sands transformed to glittering gold. Of course, the product of continuous overindulgence in alcohol and deviant behavior, Bacchus could simply be insane.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:51:10Z",
+          "scraped_at": "2026-03-02T06:07:37Z",
           "skins": {
             "bacchus-bacchus": {
               "id": "bacchus-bacchus",
@@ -4869,6 +5597,62 @@
               "card_art_url": null,
               "rarity": "Common",
               "obtain_method": "Unknown"
+            },
+            "bacchus-default-skin": {
+              "id": "bacchus-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "bacchus-ascension-reward": {
+              "id": "bacchus-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "bacchus-rare": {
+              "id": "bacchus-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "bacchus-special-effects": {
+              "id": "bacchus-special-effects",
+              "name": "Special Effects",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "bacchus-special": {
+              "id": "bacchus-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "bacchus-cross-gen": {
+              "id": "bacchus-cross-gen",
+              "name": "Cross-Gen",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "bacchus-standard": {
+              "id": "bacchus-standard",
+              "name": "Standard",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "DirectPurchase"
+            },
+            "bacchus-legacy": {
+              "id": "bacchus-legacy",
+              "name": "Legacy",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Event"
             }
           }
         },
@@ -5180,7 +5964,7 @@
           "attack_range": "Ranged",
           "lore": "Janus, God of Portals and Transitions, stands at every threshold, watching both past and future unfold. With two faces ever turned to what was and what will be, Janus is the keeper of change itself. Doorways, seasons, and the shifting tides of fate all bend to his will. His followers seek him in times of uncertainty, knowing he alone can open the way forward. In battle, Janus is a master of space, bending reality with portals and passages unseen. For him, life is not a straight path but an endless series of doors — and he alone holds the keys.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:51:13Z",
+          "scraped_at": "2026-03-02T06:07:40Z",
           "skins": {
             "janus-default-skin": {
               "id": "janus-default-skin",
@@ -5438,7 +6222,7 @@
           "attack_range": "Melee",
           "lore": "From a resourceful street urchin scraping by with his mother, to a Sultan guided by powerful Genies, Aladdin's journey spans poverty, deception, magic, and unexpected fortune. Once an aimless youth known more for his misdeeds than his ambition, Aladdin found himself caught in the web of a cunning sorcerer. Disguised as a caring uncle, this sorcerer promised Aladdin wealth if he would retrieve a mysterious Lamp from a dangerous, trap-filled cave. Expecting the young man to meet his end, the sorcerer underestimated Aladdin's resilience – and the power of a lesser Genie hidden within a simple ring he provided. Through this Genie's aid, Aladdin not only survived but secured the Lamp and the powerful Genie within it. That moment set him on a path from impoverished mischief-maker to a leader of his people, gaining wealth, influence, and ultimately earning his place as the Sultan. In Smite 2, Aladdin has reached this pinnacle. Surrounded by loyal followers drawn to his optimism and charisma, he rules with the Lamp's Genie at his side. Yet uncertainty looms. Whether it's the sorcerer's machinations or the watchful eyes of the gods, Aladdin will face these trials head-on. His past has prepared him to make the most of any opportunity, and the Genies ensure he won't face the struggle alone.",
           "unreleased": false,
-          "scraped_at": "2026-02-27T08:51:15Z",
+          "scraped_at": "2026-03-02T06:07:42Z",
           "skins": {
             "aladdin-aladdin": {
               "id": "aladdin-aladdin",
@@ -5495,6 +6279,41 @@
               "card_art_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase"
+            },
+            "aladdin-default-skin": {
+              "id": "aladdin-default-skin",
+              "name": "Default Skin",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aladdin-ascension-reward": {
+              "id": "aladdin-ascension-reward",
+              "name": "Ascension Reward",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "BattlePass"
+            },
+            "aladdin-rare": {
+              "id": "aladdin-rare",
+              "name": "Rare",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aladdin-special": {
+              "id": "aladdin-special",
+              "name": "Special",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
+            },
+            "aladdin-yulefest": {
+              "id": "aladdin-yulefest",
+              "name": "Yulefest",
+              "card_art_url": null,
+              "rarity": "Common",
+              "obtain_method": "Unknown"
             }
           }
         }
