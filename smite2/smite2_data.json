@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-03T08:58:34Z",
+    "generated_at": "2026-03-04T05:35:22Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 79,
-      "total_skins": 611
+      "total_skins": 619
     }
   },
   "pantheons": {
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-03T08:56:36Z",
+          "scraped_at": "2026-03-04T05:35:03Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -2313,7 +2313,7 @@
           "attack_range": "Ranged",
           "lore": "Nut, Mistress of the Sky, stretches across the heavens, her body a canopy of stars guarding all beneath her. She is the mother of gods, including Osiris, Set, Eset, and Nephthys, and the eternal protector of Ra as he journeys through the night. To mortals, she is both comfort and mystery, offering safe passage to souls traveling to the afterlife. Though separated from her husband Geb by the decree of Ra, her love bridges even the vast distance between earth and sky. Worshippers call upon Nut for peace, renewal, and the prmise of dawn after darkness. On the battlefield, she is serene yet unyielding, her celestial power shielding allies and dispelling the chaos that dares to threaten the cosmic order.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:05Z",
+          "scraped_at": "2026-03-04T05:35:14Z",
           "skins": {
             "nut-nut": {
               "id": "nut-nut",
@@ -2324,7 +2324,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             },
             "nut-solstice-sky": {
@@ -2336,7 +2336,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "February 14, 2025",
               "parent_skin_id": null
             },
             "nut-shadow-nut": {
@@ -2348,7 +2348,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             },
             "nut-onyx-nut": {
@@ -2360,7 +2360,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             },
             "nut-opal-nut": {
@@ -2372,7 +2372,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             },
             "nut-radiant-nut": {
@@ -2384,7 +2384,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             }
           }
@@ -2406,7 +2406,7 @@
           "attack_range": "Melee",
           "lore": "Osiris, God of the Afterlife, once ruled Egypt with unmatched wisdom and benevolence. Betrayed by his jealous brother Set, he was murdered and torn apart, his remains scattered across the land. Through the devotion of his wife, Eset, Osiris was reassembled and given new life, though incomplete. No longer king of the living, he took his throne in the underworld, guiding souls with the same fairness he once gave his people. Worshiped by those seeking justice beyond death, Osiris is steadfast and unyielding. Even broken, he rises again to challenge the darkness, a guardian of life, death, and balanve. For those who value persistence, resilience, and unwavering justice, Osiris stands eternal.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:07Z",
+          "scraped_at": "2026-03-04T05:35:17Z",
           "skins": {
             "osiris-osiris": {
               "id": "osiris-osiris",
@@ -2417,31 +2417,31 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
             },
             "osiris-black-knight": {
               "id": "osiris-black-knight",
               "name": "Black Knight",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight.png?afb78",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight.png/20px-SkinArt_OsirisS2_BlackKnight.png?afb78",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight.png?426d5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight.png/20px-SkinArt_OsirisS2_BlackKnight.png?426d5",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "December 2, 2025",
               "parent_skin_id": null
             },
             "osiris-noble-knight": {
               "id": "osiris-noble-knight",
               "name": "Noble Knight",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_WhiteKnight.png?dd10b",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_WhiteKnight.png/20px-SkinArt_OsirisS2_WhiteKnight.png?dd10b",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_WhiteKnight.png?7b2e9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_WhiteKnight.png/20px-SkinArt_OsirisS2_WhiteKnight.png?7b2e9",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "December 2, 2025",
               "parent_skin_id": null
             },
             "osiris-shadow-osiris": {
@@ -2453,7 +2453,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
             },
             "osiris-onyx-osiris": {
@@ -2465,7 +2465,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
             },
             "osiris-opal-osiris": {
@@ -2477,7 +2477,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
             },
             "osiris-radiant-osiris": {
@@ -2489,8 +2489,104 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
+            },
+            "osiris-false-word": {
+              "id": "osiris-false-word",
+              "name": "False Word",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?31059",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png/20px-SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?31059",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-black-knight"
+            },
+            "osiris-toxic-oath": {
+              "id": "osiris-toxic-oath",
+              "name": "Toxic Oath",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?62f99",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png/20px-SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?62f99",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-black-knight"
+            },
+            "osiris-bloody-vow": {
+              "id": "osiris-bloody-vow",
+              "name": "Bloody Vow",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?81aac",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png/20px-SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?81aac",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-black-knight"
+            },
+            "osiris-frigid-promise": {
+              "id": "osiris-frigid-promise",
+              "name": "Frigid Promise",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "osiris-black-knight"
+            },
+            "osiris-golden-word": {
+              "id": "osiris-golden-word",
+              "name": "Golden Word",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?34c3e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png/20px-SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?34c3e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-noble-knight"
+            },
+            "osiris-emerald-oath": {
+              "id": "osiris-emerald-oath",
+              "name": "Emerald Oath",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?b021e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png/20px-SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?b021e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-noble-knight"
+            },
+            "osiris-holy-vow": {
+              "id": "osiris-holy-vow",
+              "name": "Holy Vow",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?5eafa",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png/20px-SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?5eafa",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 2, 2025",
+              "parent_skin_id": "osiris-noble-knight"
+            },
+            "osiris-dark-promise": {
+              "id": "osiris-dark-promise",
+              "name": "Dark Promise",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "osiris-noble-knight"
             }
           }
         },
@@ -3822,7 +3918,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-03T08:57:21Z",
+          "scraped_at": "2026-03-04T05:35:22Z",
           "skins": {
             "charon-charon": {
               "id": "charon-charon",
