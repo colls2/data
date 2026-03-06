@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-04T05:35:22Z",
+    "generated_at": "2026-03-06T05:37:43Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 79,
-      "total_skins": 619
+      "total_skins": 623
     }
   },
   "pantheons": {
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-04T05:35:03Z",
+          "scraped_at": "2026-03-06T05:37:00Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -1868,7 +1868,7 @@
           "attack_range": "Ranged",
           "lore": "Eset, Goddess of Magic and Motherhood, is the devoted protector of Egypt. Beloved for her wisdom and compassion, she is worshipped by those seeking healing, guidance, and the strength to endure hardship. When her husband Osiris was betrayed and slain by Set, Eset scoured the earth to gather his scattered remains, restoring him through her unmatched sorcery. From this devotion came Horus, destined to challenge Set and reclaim Egypt's throne. As a goddess, Eset embodies resilience and hope, shielding the vulnerable and empowering the faithful. Those drawn to her command the battlefield through protection and support, turning the tide with both strength and sacrifice.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:56:59Z",
+          "scraped_at": "2026-03-06T05:37:09Z",
           "skins": {
             "eset-eset": {
               "id": "eset-eset",
@@ -1879,19 +1879,19 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "eset-crimson-mist": {
               "id": "eset-crimson-mist",
               "name": "Crimson Mist",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_EsetS2_CrimsonMist.png?a4b9d",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_EsetS2_CrimsonMist.png/20px-SkinArt_EsetS2_CrimsonMist.png?a4b9d",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_EsetS2_CrimsonMist.png?0f630",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_EsetS2_CrimsonMist.png/20px-SkinArt_EsetS2_CrimsonMist.png?0f630",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "January 13, 2025",
               "parent_skin_id": null
             },
             "eset-shadow-eset": {
@@ -1903,7 +1903,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "eset-onyx-eset": {
@@ -1915,7 +1915,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "eset-opal-eset": {
@@ -1927,7 +1927,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "eset-radiant-eset": {
@@ -1939,7 +1939,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             }
           }
@@ -3918,7 +3918,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-04T05:35:22Z",
+          "scraped_at": "2026-03-06T05:37:17Z",
           "skins": {
             "charon-charon": {
               "id": "charon-charon",
@@ -6945,7 +6945,7 @@
           "attack_range": "Ranged",
           "lore": "Jormungandr, the World Serpent, is the prophesied herald of Ragnarok, massive enough to encircle Midgard and poison the sky. Born of Loki, he is doom made flesh, destined to clash with Thor in a final battle that will shake the cosmos. Worshiped by cults who revere the end of all things, he is a force of destruction beyond gods or mortals. Players drawn to overwhelming area control and relentless pressure will revel in Jormungandr's presence. When the trumpets of Ragnarok sound, he rises, not to conquer, but to end.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:03Z",
+          "scraped_at": "2026-03-06T05:37:33Z",
           "skins": {
             "jormungandr-jormungandr": {
               "id": "jormungandr-jormungandr",
@@ -6954,21 +6954,21 @@
               "thumb_url": "https://wiki.smite2.com/images/thumb/T_JormungandrS2_Default.png/20px-T_JormungandrS2_Default.png?eb42a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
-              "rarity": "Default",
-              "obtain_method": "Default",
-              "release_date": null,
+              "rarity": "Classic",
+              "obtain_method": "Unknown",
+              "release_date": "August 16, 2025",
               "parent_skin_id": null
             },
             "jormungandr-world-kitty": {
               "id": "jormungandr-world-kitty",
               "name": "World Kitty",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_JormungandrS2_WorldKitty.png?d720c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_JormungandrS2_WorldKitty.png/20px-SkinArt_JormungandrS2_WorldKitty.png?d720c",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_JormungandrS2_WorldKitty.png?b64f6",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_JormungandrS2_WorldKitty.png/20px-SkinArt_JormungandrS2_WorldKitty.png?b64f6",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "December 16, 2025",
               "parent_skin_id": null
             },
             "jormungandr-shadow-jormungandr": {
@@ -6980,7 +6980,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "August 16, 2025",
               "parent_skin_id": null
             },
             "jormungandr-onyx-jormungandr": {
@@ -6992,7 +6992,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "August 16, 2025",
               "parent_skin_id": null
             },
             "jormungandr-opal-jormungandr": {
@@ -7004,7 +7004,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "August 16, 2025",
               "parent_skin_id": null
             },
             "jormungandr-radiant-jormungandr": {
@@ -7016,8 +7016,56 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "August 16, 2025",
               "parent_skin_id": null
+            },
+            "jormungandr-baron": {
+              "id": "jormungandr-baron",
+              "name": "Baron",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?4860c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?4860c",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 16, 2025",
+              "parent_skin_id": "jormungandr-world-kitty"
+            },
+            "jormungandr-ginger": {
+              "id": "jormungandr-ginger",
+              "name": "Ginger",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?2f8e3",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?2f8e3",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 16, 2025",
+              "parent_skin_id": "jormungandr-world-kitty"
+            },
+            "jormungandr-dipper": {
+              "id": "jormungandr-dipper",
+              "name": "Dipper",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "jormungandr-world-kitty"
+            },
+            "jormungandr-snowball": {
+              "id": "jormungandr-snowball",
+              "name": "Snowball",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?07f5a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?07f5a",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 16, 2025",
+              "parent_skin_id": "jormungandr-world-kitty"
             }
           }
         },
@@ -8480,7 +8528,7 @@
           "attack_range": "Ranged",
           "lore": "Janus, God of Portals and Transitions, stands at every threshold, watching both past and future unfold. With two faces ever turned to what was and what will be, Janus is the keeper of change itself. Doorways, seasons, and the shifting tides of fate all bend to his will. His followers seek him in times of uncertainty, knowing he alone can open the way forward. In battle, Janus is a master of space, bending reality with portals and passages unseen. For him, life is not a straight path but an endless series of doors — and he alone holds the keys.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:24Z",
+          "scraped_at": "2026-03-06T05:37:41Z",
           "skins": {
             "janus-janus": {
               "id": "janus-janus",
@@ -8702,7 +8750,7 @@
           "attack_range": "Ranged",
           "lore": "Sylvanus, Keeper of the Wilds, is the spirit of field and forest, a guardian whose laughter is heard in the rustling leaves and whose touch coaxes blossoms from the soil. Gentle and wise, he walks beside fawns, wolves, and even trees that stir to life at his call. Worshiped by farmers, sheperds, and those who seek harmony with nature, Sylvanus nurtures all who respect his domain. Yet his kindness carries sorrow-for it was his grief that birthed the cypress tree from the boy Cyparissus. Slow to anger, he is rarely seen on battlefields, but with war spilling into his sacred groves, Sylvanus rises, bringing the calm and fury of nature iteself. For those who value patience, protection, and the steady strength of the natural world, Sylvanus offers roots that hold firm when all else falters.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:27Z",
+          "scraped_at": "2026-03-06T05:37:43Z",
           "skins": {
             "sylvanus-sylvanus": {
               "id": "sylvanus-sylvanus",
@@ -8713,7 +8761,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "November 4, 2025",
               "parent_skin_id": null
             },
             "sylvanus-harvest-keeper": {
@@ -8723,9 +8771,9 @@
               "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SylvanusS2_HarvestKeeper.png/20px-SkinArt_SylvanusS2_HarvestKeeper.png?8b649",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
-              "rarity": "Legendary",
-              "obtain_method": "Promotional",
-              "release_date": null,
+              "rarity": "Heroic",
+              "obtain_method": "Event",
+              "release_date": "November 8, 2025",
               "parent_skin_id": null
             },
             "sylvanus-shadow-sylvanus": {
@@ -8737,7 +8785,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 4, 2025",
               "parent_skin_id": null
             },
             "sylvanus-onyx-sylvanus": {
@@ -8749,7 +8797,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 4, 2025",
               "parent_skin_id": null
             },
             "sylvanus-opal-sylvanus": {
@@ -8761,7 +8809,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 4, 2025",
               "parent_skin_id": null
             },
             "sylvanus-radiant-sylvanus": {
@@ -8773,7 +8821,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 4, 2025",
               "parent_skin_id": null
             }
           }
