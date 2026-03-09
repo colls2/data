@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-06T05:37:43Z",
+    "generated_at": "2026-03-09T06:13:56Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 79,
-      "total_skins": 623
+      "total_skins": 654
     }
   },
   "pantheons": {
@@ -242,7 +242,7 @@
           "attack_range": "Ranged",
           "lore": "Morgan Le Fay, Enchantress of Avalon and once a cherished figure of Camelot, learned her craft beside Merlin and walked proudly among Arthur's court. Yet jealousy and whispered deceit turned admiration into condemnation, casting her from the kingdom she served. Heartbreak became resolve, and the sorceress who left Camelot returned as a master of arcane might, wielding illusion and shadow with absolute precision. Those that worship her seek dominance through control and cunning, bending the battlefield to their will with calculated magic and overwhelming presence.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:56:36Z",
+          "scraped_at": "2026-03-09T06:12:54Z",
           "skins": {
             "morgan-le-fay-morgan-le-fay": {
               "id": "morgan-le-fay-morgan-le-fay",
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-06T05:37:00Z",
+          "scraped_at": "2026-03-09T06:12:55Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -369,7 +369,7 @@
           "attack_range": "Both",
           "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature's strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:56:38Z",
+          "scraped_at": "2026-03-09T06:12:57Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -1240,7 +1240,7 @@
           "attack_range": "Melee",
           "lore": "Ne Zha, the Third Lotus Prince, was born not of flesh, but of divine magic and rebellion. Gifted with power even in childhood, he defied both gods and demons, wielding his flaming spear and fiery wheels with unmatched speed and grace. When his strength brought calamity to those he loved, Ne Zha sacrificed himself to restore balance - only to be reborn from a lotus blossom, purified and renewed. Now a symbol of redemption and youthful courage, Ne Zha fights with playful confidence and relentless energy. Players drawn to Ne Zha thrive on precision, agility, and the thrill of striking fast and true, dancing between life and death with every spin of his flaming rings.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:56:51Z",
+          "scraped_at": "2026-03-09T06:13:03Z",
           "skins": {
             "ne-zha-ne-zha": {
               "id": "ne-zha-ne-zha",
@@ -3918,7 +3918,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-06T05:37:17Z",
+          "scraped_at": "2026-03-09T06:13:13Z",
           "skins": {
             "charon-charon": {
               "id": "charon-charon",
@@ -3951,7 +3951,7 @@
           "attack_range": "Ranged",
           "lore": "Chiron, the Great Teacher, stands apart from his kin as a centaur of wisdom rather than savagery. Scholar, poet, and master of the stars, he devoted his long life to shaping heroes, training legends such as Achilles, Perseus, and Ajax not only in combat, but in discipline and restraint. Yet time and again, the world has chosen to sing of war over knowledge, forcing Chiron to set aside his scrolls for bow and armor. Now, as chaos threatens all he cherishes, the mentor steps onto the battlefield himself. Those who choose Chiron value precision, foresight, and mastery, striking from range with calculated power while guiding the fight with the calm of a true teacher.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:22Z",
+          "scraped_at": "2026-03-09T06:13:16Z",
           "skins": {
             "chiron-chiron": {
               "id": "chiron-chiron",
@@ -4011,6 +4011,18 @@
               "rarity": "Heroic",
               "obtain_method": "Mastery",
               "release_date": "January 27, 2026",
+              "parent_skin_id": null
+            },
+            "chiron-sagittarius": {
+              "id": "chiron-sagittarius",
+              "name": "Sagittarius",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChironS2_Sagittarius.png?86ab6",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChironS2_Sagittarius.png/20px-SkinArt_ChironS2_Sagittarius.png?86ab6",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Event",
+              "release_date": "March 14, 2026",
               "parent_skin_id": null
             }
           }
@@ -4674,7 +4686,7 @@
           "attack_range": "Melee",
           "lore": "Inevitably, all mortals must die. They cling to life with fevered desperation, for death is a cold unknown, filled with uncertainty and bleak, everlasting finality. Some accept fate with grace, others are dragged, kicking and screaming, though in truth, no mortal would go to Hades willingly. They are reaped by the nightmarish God of Death, whose grim visage strikes strange against the gleeful satisfaction he feels at performing his work. Thanatos is the very face of death. Yet, to Thanatos, Mortals are easy prey. Their end is preordained, harvesting them but a game to pass the eons, but a God, a being beyond the mortal coil, now there is a creature Thanatos eyes with greedy longing. He despises the immortality other Gods covet. To him, it is a perversion and defiance of his very purpose. But can a God truly die? As the Heavens clash and immortal blood spills on the Earth, Thanatos hungers to find out. War is but the preamble to death, a battlefield of souls rent from their bodies, listlessly waiting to be taken by the God of Death. A war between Gods, a war of this magnitude can mean only one thing. Thanatos is about to be very, very busy.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:33Z",
+          "scraped_at": "2026-03-09T06:13:21Z",
           "skins": {
             "thanatos-thanatos": {
               "id": "thanatos-thanatos",
@@ -5056,7 +5068,7 @@
           "attack_range": "Melee",
           "lore": "Ganesha, the Elephant-Headed Remover of Obstacles, brings wisdom, prosperity, and clarity to his followers. His devotees, from merchants seeking fortune to students striving for knowledge, honour him before new endeavours. With a generous heart, Ganesha clears paths for the diligent and honest while humbling the arrogant. Reluctantly taking up arms, he now enters the battleground of the gods to determine who is worthy to remain.\n\nOn the field, Ganesha protects his allies and disrupts foes, embodying strategic support and unwavering resolve as he determines which paths shall be opened and which shall remain closed.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:38Z",
+          "scraped_at": "2026-03-09T06:13:24Z",
           "skins": {
             "ganesha-ganesha": {
               "id": "ganesha-ganesha",
@@ -5067,19 +5079,19 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "June 16, 2025",
               "parent_skin_id": null
             },
             "ganesha-plushie": {
               "id": "ganesha-plushie",
               "name": "Plushie",
-              "card_art_url": "https://wiki.smite2.com/images/Plushie_Ganesha.png?ee60c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Plushie_Ganesha.png/20px-Plushie_Ganesha.png?ee60c",
+              "card_art_url": "https://wiki.smite2.com/images/Plushie_Ganesha.png?9d2ef",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/Plushie_Ganesha.png/20px-Plushie_Ganesha.png?9d2ef",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "August 12, 2025",
               "parent_skin_id": null
             },
             "ganesha-guiding-light": {
@@ -5091,7 +5103,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "September 9, 2025",
               "parent_skin_id": null
             },
             "ganesha-shadow-ganesha": {
@@ -5103,7 +5115,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "June 16, 2025",
               "parent_skin_id": null
             },
             "ganesha-onyx-ganesha": {
@@ -5115,7 +5127,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "June 16, 2025",
               "parent_skin_id": null
             },
             "ganesha-opal-ganesha": {
@@ -5127,7 +5139,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "June 16, 2025",
               "parent_skin_id": null
             },
             "ganesha-radiant-ganesha": {
@@ -5139,8 +5151,104 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "June 16, 2025",
               "parent_skin_id": null
+            },
+            "ganesha-cursed-doll": {
+              "id": "ganesha-cursed-doll",
+              "name": "Cursed Doll",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-yellow": {
+              "id": "ganesha-yellow",
+              "name": "Yellow",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Yellow.png?9c063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Yellow.png/20px-SkinArt_GaneshaS2_Plushie_-_Yellow.png?9c063",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-red": {
+              "id": "ganesha-red",
+              "name": "Red",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Red.png?31d03",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Red.png/20px-SkinArt_GaneshaS2_Plushie_-_Red.png?31d03",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-green": {
+              "id": "ganesha-green",
+              "name": "Green",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Green.png?ef6bf",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Green.png/20px-SkinArt_GaneshaS2_Plushie_-_Green.png?ef6bf",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-orange": {
+              "id": "ganesha-orange",
+              "name": "Orange",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Orange.png?7c992",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Orange.png/20px-SkinArt_GaneshaS2_Plushie_-_Orange.png?7c992",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-violet": {
+              "id": "ganesha-violet",
+              "name": "Violet",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Violet.png?de379",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Violet.png/20px-SkinArt_GaneshaS2_Plushie_-_Violet.png?de379",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-indigo": {
+              "id": "ganesha-indigo",
+              "name": "Indigo",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Indigo.png?76707",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Indigo.png/20px-SkinArt_GaneshaS2_Plushie_-_Indigo.png?76707",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 12, 2025",
+              "parent_skin_id": "ganesha-plushie"
+            },
+            "ganesha-monochrome": {
+              "id": "ganesha-monochrome",
+              "name": "Monochrome",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "ganesha-plushie"
             }
           }
         },
@@ -5161,7 +5269,7 @@
           "attack_range": "Melee",
           "lore": "Kali, the Goddess of Destruction, thrives in chaos and bloodshed. Born from the brow of Durga to end a demon's reign, Kali is wrath incarnate, adorned in a garland of skulls and wielding weapons in every hand. Yet, beneath her terrifying visage lies a sacred duty — to cleanse corruption and rebalance the scales of life and death. Worshipped by those who embrace the cycle of destruction and rebirth, Kali rewards fearless devotion. In battle, she is relentless, overwhelming foes with flurries of strikes, fueled by every fallen adversary. For Kali, destruction is not cruelty — it is liberation.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:39Z",
+          "scraped_at": "2026-03-09T06:13:26Z",
           "skins": {
             "kali-kali": {
               "id": "kali-kali",
@@ -5207,7 +5315,7 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
+              "obtain_method": "Mastery",
               "release_date": null,
               "parent_skin_id": null
             },
@@ -5219,7 +5327,7 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
+              "obtain_method": "Mastery",
               "release_date": null,
               "parent_skin_id": null
             },
@@ -5231,7 +5339,7 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
+              "obtain_method": "Mastery",
               "release_date": null,
               "parent_skin_id": null
             },
@@ -5243,7 +5351,7 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
+              "obtain_method": "Mastery",
               "release_date": null,
               "parent_skin_id": null
             }
@@ -6223,7 +6331,7 @@
           "attack_range": "Melee",
           "lore": "Feel the earth trembling beneath your feet? Only a titan of tremendous power could cause such fear. He is the Render of Stone, the Earthsunder. He is Cabrakan, Destroyer of Mountains.\n\nProud, boastful, confident to the point of arrogance, Cabrakan revels in his strength, tearing down what the earth has labored to rise. These traits – and worse - he inherited from his sire, the demon bird Seven Macaw.\n\nSeeking to end Seven Macaw's entire lineage, the Hero Twins tracked Cabrakan by his quaking footfalls. They found him in a valley, surrounded by great peaks, shattering rock into dust.\n\n\"How mighty you are,\" they told him, playing to his pride.\n\n\"I am,\" he boasted.\n\n\"Can you shatter that distant mountain?\" they asked.\n\n\"Of course,\" Cabrakan roared.\n\n\"You must be hungry,\" the Hero Twins offered.\n\n\"Always!\"\n\nAnd so they shot a bird from the sky for the giant to feast upon, yet as they turned the carcass over the flame, Hun-apu coated it with poisonous mud.\n\nWithout a thought, Cabrakan devoured the feast and rose, but already the poison had taken him. Teetering, losing sight, the Earthsunder collapsed. Mountains crumbled a final time. The valley became his tomb.\n\nYet vengeance is a cycle. Blood for blood, and a Titan is not so easily slain. The destroyer of mountains cannot be buried beneath stone, and Cabrakan's pained slumber is at an end. Bursting free, he now thunders across the field of war, seeking the Twins that played him the fool. Why stop at mountains when Cabrakan can destroy Gods.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:57:54Z",
+          "scraped_at": "2026-03-09T06:13:32Z",
           "skins": {
             "cabrakan-cabrakan": {
               "id": "cabrakan-cabrakan",
@@ -6234,31 +6342,31 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "January 21, 2025",
               "parent_skin_id": null
             },
             "cabrakan-fat-loki": {
               "id": "cabrakan-fat-loki",
               "name": "Fat Loki",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_FatLoki.png?7d25e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_FatLoki.png/20px-SkinArt_CabrakanS2_FatLoki.png?7d25e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_FatLoki.png?fcf95",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_FatLoki.png/20px-SkinArt_CabrakanS2_FatLoki.png?fcf95",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "cabrakan-nerd-rage": {
               "id": "cabrakan-nerd-rage",
               "name": "Nerd Rage",
-              "card_art_url": "https://wiki.smite2.com/images/Nerd_Rage_Cabrakan.png?607e9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Nerd_Rage_Cabrakan.png/20px-Nerd_Rage_Cabrakan.png?607e9",
+              "card_art_url": "https://wiki.smite2.com/images/Nerd_Rage_Cabrakan.png?81923",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/Nerd_Rage_Cabrakan.png/20px-Nerd_Rage_Cabrakan.png?81923",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
-              "obtain_method": "Unknown",
-              "release_date": null,
+              "obtain_method": "Event",
+              "release_date": "July 15, 2025",
               "parent_skin_id": null
             },
             "cabrakan-shadow-cabrakan": {
@@ -6270,7 +6378,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 21, 2025",
               "parent_skin_id": null
             },
             "cabrakan-onyx-cabrakan": {
@@ -6282,7 +6390,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 21, 2025",
               "parent_skin_id": null
             },
             "cabrakan-opal-cabrakan": {
@@ -6294,7 +6402,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 21, 2025",
               "parent_skin_id": null
             },
             "cabrakan-radiant-cabrakan": {
@@ -6306,8 +6414,92 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "January 21, 2025",
               "parent_skin_id": null
+            },
+            "cabrakan-joki": {
+              "id": "cabrakan-joki",
+              "name": "Joki",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_FatLoki_-_Joki.png?862c9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_FatLoki_-_Joki.png/20px-SkinArt_CabrakanS2_FatLoki_-_Joki.png?862c9",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cabrakan-fat-loki"
+            },
+            "cabrakan-grim-mariachi": {
+              "id": "cabrakan-grim-mariachi",
+              "name": "Grim Mariachi",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_FatLoki_-_GrimMariachi.png?bc599",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_FatLoki_-_GrimMariachi.png/20px-SkinArt_CabrakanS2_FatLoki_-_GrimMariachi.png?bc599",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cabrakan-fat-loki"
+            },
+            "cabrakan-loki-charms": {
+              "id": "cabrakan-loki-charms",
+              "name": "Loki Charms",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_FatLoki_-_LokiCharms.png?03475",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_FatLoki_-_LokiCharms.png/20px-SkinArt_CabrakanS2_FatLoki_-_LokiCharms.png?03475",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cabrakan-fat-loki"
+            },
+            "cabrakan-assistant": {
+              "id": "cabrakan-assistant",
+              "name": "Assistant",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_NerdRage_-_Assistant.png?9440c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_NerdRage_-_Assistant.png/20px-SkinArt_CabrakanS2_NerdRage_-_Assistant.png?9440c",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "July 15, 2025",
+              "parent_skin_id": "cabrakan-nerd-rage"
+            },
+            "cabrakan-neowave": {
+              "id": "cabrakan-neowave",
+              "name": "Neowave",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_NerdRage_-_Neowave.png?e0901",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_NerdRage_-_Neowave.png/20px-SkinArt_CabrakanS2_NerdRage_-_Neowave.png?e0901",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "July 15, 2025",
+              "parent_skin_id": "cabrakan-nerd-rage"
+            },
+            "cabrakan-lo-rez": {
+              "id": "cabrakan-lo-rez",
+              "name": "Lo-Rez",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_NerdRage_-_LoRez.png?cb8ff",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_NerdRage_-_LoRez.png/20px-SkinArt_CabrakanS2_NerdRage_-_LoRez.png?cb8ff",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "July 15, 2025",
+              "parent_skin_id": "cabrakan-nerd-rage"
+            },
+            "cabrakan-data-logger": {
+              "id": "cabrakan-data-logger",
+              "name": "Data Logger",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CabrakanS2_NerdRage_-_DataLogger.png?5c772",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CabrakanS2_NerdRage_-_DataLogger.png/20px-SkinArt_CabrakanS2_NerdRage_-_DataLogger.png?5c772",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "July 15, 2025",
+              "parent_skin_id": "cabrakan-nerd-rage"
             }
           }
         },
@@ -7086,7 +7278,7 @@
           "attack_range": "Melee",
           "lore": "Villain. It’s a word used to describe those that break the rules, that take what they want, and care nothing for those hurt along the way. Loki, the trickster God, would say villainy is nothing more than a point of view. The point of view of fools too mindless to seize opportunity. Of course, with Loki now on the loose, the implications are dire. The end of times may be at hand. The final battle, Ragnarok, possibly on the horizon, for it was foretold that Loki would break free of his prison and herald the horrific final battle that would leave the Gods slain, the heavens sundered, and the world in ashes. None are more eager for that time of chaos than Loki. Before his confinement, Loki’s malicious mischief managed to affect every God in ways both beneficial and terrible. Yet Loki’s most heinous act was in the death of the God of light, Baldr. Baldr’s prophetic dreams showcased his own death. Fearful for her son, Frigg forced all objects of the world to swear never to harm him. All save mistletoe. \n\nCruelly amused, Loki forged a spear from the plant and provided it to Baldr’s brother Hodr. The Gods had a new favorite game, hurling objects at Baldr and laughing as they harmlessly ricocheted. So Hodr threw the spear, but, to everyone’s horror Baldr was impaled. Hel agreed to release Baldr from the underworld if all creatures of the world mourned the God of Light. And all did, save one crone who refused. So Baldr died. When it was discovered the crone was Loki in disguise, the furious Gods bound him in entrails and hung a venomous serpent overhead. Loki’s wife, Sigyn, collected the dripping venom in a bowl, but when she was forced to empty it, Loki was struck, causing such anguish his thrashing would shake the world. But now Loki is free and already wreaking havoc. If the prophetic Volva are correct, and they always are, then the end of all things has finally come.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:05Z",
+          "scraped_at": "2026-03-09T06:13:37Z",
           "skins": {
             "loki-loki": {
               "id": "loki-loki",
@@ -7097,7 +7289,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-eliminator": {
@@ -7109,7 +7301,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Legacy",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-joki": {
@@ -7121,7 +7313,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "August 27, 2024",
               "parent_skin_id": null
             },
             "loki-slasher": {
@@ -7133,7 +7325,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-shadow-loki": {
@@ -7145,7 +7337,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-onyx-loki": {
@@ -7157,7 +7349,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-opal-loki": {
@@ -7169,7 +7361,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "loki-radiant-loki": {
@@ -7181,8 +7373,56 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
+            },
+            "loki-loki-charms": {
+              "id": "loki-loki-charms",
+              "name": "Loki Charms",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_LokiS2_LokiCharms.png?9bb13",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_LokiS2_LokiCharms.png/20px-SkinArt_LokiS2_LokiCharms.png?9bb13",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": null
+            },
+            "loki-razzle-dazzle": {
+              "id": "loki-razzle-dazzle",
+              "name": "Razzle Dazzle",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_LokiS2_LokiCharms_-_RazzleDazzle.png?ca9e0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_LokiS2_LokiCharms_-_RazzleDazzle.png/20px-SkinArt_LokiS2_LokiCharms_-_RazzleDazzle.png?ca9e0",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "loki-loki-charms"
+            },
+            "loki-dapper-dandy": {
+              "id": "loki-dapper-dandy",
+              "name": "Dapper Dandy",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_LokiS2_LokiCharms_-_DapperDandy.png?4f05c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_LokiS2_LokiCharms_-_DapperDandy.png/20px-SkinArt_LokiS2_LokiCharms_-_DapperDandy.png?4f05c",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "loki-loki-charms"
+            },
+            "loki-master-magician": {
+              "id": "loki-master-magician",
+              "name": "Master Magician",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_LokiS2_LokiCharms_-_MasterMagician.png?9bebb",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_LokiS2_LokiCharms_-_MasterMagician.png/20px-SkinArt_LokiS2_LokiCharms_-_MasterMagician.png?9bebb",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "loki-loki-charms"
             }
           }
         },
@@ -7203,7 +7443,7 @@
           "attack_range": "Melee",
           "lore": "Mightiest of the Aesir, warrior and king, the All-Father is a doomed God. It seems strange to imagine a God concerned with his fate, but Odin regularly consults the volva, the seers in the North. They speak of a final war, Ragnarok, when the mightiest Gods are slain and the world is consumed by the sea. For this day, Odin constantly prepares. The All-Father can trace his lineage to the evil Frost Giant, Ymir, whom he slew with the aid of his two brothers, Vili and Ve, and with his remains forged the world. Atop Asgard, where Odin presides, he is known as the bringer of war, a sage of wisdom, and the keeper of souls slain in battle. \n\nAs a warrior, Odin rides his eight legged steed, Sleipnir, and wields the mighty spear Gungnir. Accompanying him are two wolves and his two trusted ravens, Huginn (thought) and Muninn (memory), who fly around Midgard and return to Odin with all they see and hear. As a sage, Odin travels disguised as a simple wanderer, seeking wisdom. His thirst for knowledge has come at great personal cost, having been hanged from the branches of Yggdrasil, the world tree, for nine days and nights and sacrificed one of his eyes to the Well of Wisdom. As keeper of souls, Odin welcomes slain warriors to his mighty hall of Valhalla on the agreement they will aid him at Ragnarok. Favored female warriors become his elite Valkyrie that usher those worthy of entry to Valhalla. It is in preparation for the final days of Ragnarok he does all this. For the seers claim his death will come at the fangs of the great wolf Fenrir, and like anyone, Odin seeks to change his fate. Yet, never once have the volva been mistaken.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:06Z",
+          "scraped_at": "2026-03-09T06:13:39Z",
           "skins": {
             "odin-odin": {
               "id": "odin-odin",
@@ -7320,7 +7560,7 @@
           "attack_range": "Ranged",
           "lore": "Sol and her brother came into this world radiant, glorious beings. So enamored with them, their father arrogantly named each after a sacred heavenly body, he for the moon and she, the sun. As they grew, each child proved their namesake. Mani, of the moon, was contemplative, obedient, calm. Sol, conversely, became willful, spirited, passionate. His children were everything a father could dream, but Odin and his ilk were not pleased. For a father's hubris, Mani and Sol were punished. To the sky, they were sent, each to lead the chariot that dragged the sun or the moon. At their heels were loosed the bloodthirsty sons of Fenrir. Hungry wolves, relentless in pursuit of their prey. Resigned, Mani guided his steeds through the night, ever ahead of his hunter, but Sol did not accept her fate. Furious at the Gods, she taunts and challenges the wolf Skoll as she blazes across the sky, unleashing her spite on the only opponent she can reach. \n\nOdin has never shown signs of regret for his decision, but now war is upon the land. His attentions are turned. Sol, normally confined to her chariot has found a way to send her flaming essence to the battlefield. To the casual observer, the combat, the bloodshed, may all seem just a game to Sol, but she is driven by an age old grudge and a desire to be free.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:08Z",
+          "scraped_at": "2026-03-09T06:13:41Z",
           "skins": {
             "sol-sol": {
               "id": "sol-sol",
@@ -7331,7 +7571,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "May 30, 2024",
               "parent_skin_id": null
             },
             "sol-meltdown": {
@@ -7343,7 +7583,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "August 27, 2024",
               "parent_skin_id": null
             },
             "sol-firefly": {
@@ -7355,19 +7595,19 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "August 27, 2024",
               "parent_skin_id": null
             },
             "sol-vampiress": {
               "id": "sol-vampiress",
               "name": "Vampiress",
-              "card_art_url": "https://wiki.smite2.com/images/Vampiress_Sol.png?b6c71",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Vampiress_Sol.png/20px-Vampiress_Sol.png?b6c71",
+              "card_art_url": "https://wiki.smite2.com/images/Vampiress_Sol.png?c2ed9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/Vampiress_Sol.png/20px-Vampiress_Sol.png?c2ed9",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
-              "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "obtain_method": "Event",
+              "release_date": "September 9, 2025",
               "parent_skin_id": null
             },
             "sol-shadow-sol": {
@@ -7379,7 +7619,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 30, 2024",
               "parent_skin_id": null
             },
             "sol-onyx-sol": {
@@ -7391,7 +7631,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 30, 2024",
               "parent_skin_id": null
             },
             "sol-opal-sol": {
@@ -7403,7 +7643,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 30, 2024",
               "parent_skin_id": null
             },
             "sol-radiant-sol": {
@@ -7415,8 +7655,104 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 30, 2024",
               "parent_skin_id": null
+            },
+            "sol-the-magnificent": {
+              "id": "sol-the-magnificent",
+              "name": "The Magnificent",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_TheMagnificent.png?af6cb",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_TheMagnificent.png/20px-SkinArt_SolS2_TheMagnificent.png?af6cb",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": null
+            },
+            "sol-emerald-trickster": {
+              "id": "sol-emerald-trickster",
+              "name": "Emerald Trickster",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_TheMagnificent_-_EmeraldTrickster.png?76e6e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_TheMagnificent_-_EmeraldTrickster.png/20px-SkinArt_SolS2_TheMagnificent_-_EmeraldTrickster.png?76e6e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "sol-the-magnificent"
+            },
+            "sol-pink-prestige": {
+              "id": "sol-pink-prestige",
+              "name": "Pink Prestige",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_TheMagnificent_-_PinkPrestige.png?a000b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_TheMagnificent_-_PinkPrestige.png/20px-SkinArt_SolS2_TheMagnificent_-_PinkPrestige.png?a000b",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "sol-the-magnificent"
+            },
+            "sol-grand-noir": {
+              "id": "sol-grand-noir",
+              "name": "Grand Noir",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_TheMagnificent_-_GrandNoir.png?d70a5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_TheMagnificent_-_GrandNoir.png/20px-SkinArt_SolS2_TheMagnificent_-_GrandNoir.png?d70a5",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 10, 2026",
+              "parent_skin_id": "sol-the-magnificent"
+            },
+            "sol-moonlit-mistress": {
+              "id": "sol-moonlit-mistress",
+              "name": "Moonlit Mistress",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?96a19",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png/20px-SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?96a19",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "September 9, 2025",
+              "parent_skin_id": "sol-vampiress"
+            },
+            "sol-blood-rose": {
+              "id": "sol-blood-rose",
+              "name": "Blood Rose",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_BloodRose.png?639af",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_BloodRose.png/20px-SkinArt_SolS2_Vampiress_-_BloodRose.png?639af",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "September 9, 2025",
+              "parent_skin_id": "sol-vampiress"
+            },
+            "sol-ultraviolent": {
+              "id": "sol-ultraviolent",
+              "name": "Ultraviolent",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_Ultraviolent.png?2fc7d",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_Ultraviolent.png/20px-SkinArt_SolS2_Vampiress_-_Ultraviolent.png?2fc7d",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": "September 9, 2025",
+              "parent_skin_id": "sol-vampiress"
+            },
+            "sol-twilight-glimmer": {
+              "id": "sol-twilight-glimmer",
+              "name": "Twilight Glimmer",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "sol-vampiress"
             }
           }
         },
@@ -7647,7 +7983,7 @@
           "attack_range": "Melee",
           "lore": "As far as it is known, Ymir has long been dead. In Midgard, in the North, it is believed that Ymir’s skull is the sky, his flesh the earth, and his blood the sea. Though, these claims could merely be the boasting of proud Odin and his brothers, who take credit for slaying the first jotunn and fashioning the earth from his body parts. At the beginning of time, the Realm of Fire, Muspell, and the Realm of Ice, Niflheim met at the place called Ginnungagap; the void of space. Steam rose and froze again, and from that primordial mixture, Ymir, King of the Frost Giants took shape. From his body dripped other beings that would become the ancestors of Gods, Men, Dwarves, and of course, Giants. Even the mighty Odin must claim Ymir as his grandfather. Yet Ymir, like all giants, was an evil creature and led his Giant brethren against the Gods. \n\nAfter ages of warfare, Odin and his brothers slew the Giant-King and forged the world from his remains. Yet there are other whispers. Rumors that Ymir, though not a God, was still a Primeval Being, and as such cannot truly be destroyed. Perhaps he only lies dormant in Niflheim, the realm of ice, eager to return and wreak vengeance upon Odin in his kin.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:12Z",
+          "scraped_at": "2026-03-09T06:13:44Z",
           "skins": {
             "ymir-ymir": {
               "id": "ymir-ymir",
@@ -7795,7 +8131,7 @@
           "attack_range": "Melee",
           "lore": "Pele is the goddess of Fire, of Dance and Wind, of Volcanoes and Violence. Those who worship Pele speak of her as Madame Pele or Tutu Pele, while others know her as Ka wahine 'ai honua, “the woman who devours the land”. Though she is capable of great acts of destruction, and possesses the temper to provoke such acts, Pele is both destroyer and creator. It was through her mastery over the world's molten core that she wrought the Hawaiian Islands into being, forging them from the lava that ruptured forth from the mouths of her volcanoes. They are places of immense beauty, lush and brimming with life, and by looking upon and revelling in such beauty, you offer Pele worship.\n\nBorn of Kane Milohai, who wrought the earth, sky and heavens, and the Earth goddess Haumea, Pele is one of fourteen children, seven sisters and seven brothers. It is from the enmity between these siblings that Pele arrived in Hawaii, after her exile at the hands of Kane Milohai for her fiery temper and conflict with her sister Namakaokahai, goddess of the Sea. Pursued across the oceans by Namakaikahai, Pele wrought Hawaii into a paradise, making her home within the great calderas of the volcanoes that stand sentinel across the island chain.\n\nTo worship Pele is to grant one's devotion to a goddess of terrible power, one who can shape and render a grand, vibrant world into being at her slightest whim, and burn it to ashes just as quickly. But just as her worshippers are devoted to Pele, she devotes herself to them as a force of divine protection and care. She is a tireless defender of life and the people that dwell upon her islands, and any that seek to threaten them shall surely taste Pele's fire.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:14Z",
+          "scraped_at": "2026-03-09T06:13:46Z",
           "skins": {
             "pele-pele": {
               "id": "pele-pele",
@@ -8036,7 +8372,7 @@
           "attack_range": "Melee",
           "lore": "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshipers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshipers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. \n\n\"March on Rome,\" Bellona quietly urged, \"and you shall rise as no other. \"Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:18Z",
+          "scraped_at": "2026-03-09T06:13:49Z",
           "skins": {
             "bellona-bellona": {
               "id": "bellona-bellona",
@@ -8047,7 +8383,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "bellona-miss-senshi": {
@@ -8058,8 +8394,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
-              "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "obtain_method": "Event",
+              "release_date": "May 5, 2025",
               "parent_skin_id": null
             },
             "bellona-jade-dragons": {
@@ -8070,7 +8406,7 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
-              "obtain_method": "DirectPurchase",
+              "obtain_method": "Event",
               "release_date": null,
               "parent_skin_id": null
             },
@@ -8082,8 +8418,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
-              "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "obtain_method": "Event",
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "bellona-shadow-bellona": {
@@ -8095,7 +8431,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "bellona-onyx-bellona": {
@@ -8107,7 +8443,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "bellona-opal-bellona": {
@@ -8119,7 +8455,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "bellona-radiant-bellona": {
@@ -8131,8 +8467,44 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
+            },
+            "bellona-neowave": {
+              "id": "bellona-neowave",
+              "name": "Neowave",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "May 5, 2025",
+              "parent_skin_id": "bellona-miss-senshi"
+            },
+            "bellona-golden-grad": {
+              "id": "bellona-golden-grad",
+              "name": "Golden Grad",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "May 5, 2025",
+              "parent_skin_id": "bellona-miss-senshi"
+            },
+            "bellona-varsity": {
+              "id": "bellona-varsity",
+              "name": "Varsity",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "May 5, 2025",
+              "parent_skin_id": "bellona-miss-senshi"
             }
           }
         },
@@ -8657,7 +9029,7 @@
           "attack_range": "Melee",
           "lore": "Mercurial. A word that evokes volatility, quickness, and cunning. But to compare anything to the speed and wit of the Messenger God Mercury would be to compare a hot day to the searing forge of Vulcan, or a blooming rose to the glory of Venus. It is but a pale comparison. Mercury can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.As an infant, Mercury escaped the watchful eye of his half-brother, Apollo, stole his cattle, fashioned a lyre from a tortoise shell, and snuck in a nap, all before Apollo found him missing. His father, Jupiter, found the child’s mischief boisterously entertaining, and awarded him the task of delivering messages for the Gods, traveling between the Heavens, the Earth, and even to the depths of the Underworld.Now war looms and Mercury races to keep the lines of communication open, though he is often caught in the thick of battle. No stranger to combat, he once slew the monster Argus, the demon with one hundred watchful eyes, using speed and guile alone. But this war is different. The foes are stronger, the stakes higher, and Mercury a pivotal cog in the machine. Should he fail to deliver even a single order the balance could tip, and the time left for this world would be truly mercurial.",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:25Z",
+          "scraped_at": "2026-03-09T06:13:53Z",
           "skins": {
             "mercury-mercury": {
               "id": "mercury-mercury",
@@ -8668,7 +9040,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "July 1, 2025",
               "parent_skin_id": null
             },
             "mercury-hells-fury": {
@@ -8680,7 +9052,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "mercury-shadow-mercury": {
@@ -8691,8 +9063,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
-              "release_date": null,
+              "obtain_method": "Mastery",
+              "release_date": "July 1, 2025",
               "parent_skin_id": null
             },
             "mercury-onyx-mercury": {
@@ -8703,8 +9075,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
-              "release_date": null,
+              "obtain_method": "Mastery",
+              "release_date": "July 1, 2025",
               "parent_skin_id": null
             },
             "mercury-opal-mercury": {
@@ -8715,8 +9087,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
-              "release_date": null,
+              "obtain_method": "Mastery",
+              "release_date": "July 1, 2025",
               "parent_skin_id": null
             },
             "mercury-radiant-mercury": {
@@ -8727,8 +9099,8 @@
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
-              "obtain_method": "BattlePass",
-              "release_date": null,
+              "obtain_method": "Mastery",
+              "release_date": "July 1, 2025",
               "parent_skin_id": null
             }
           }
@@ -9055,7 +9427,7 @@
           "attack_range": "Ranged",
           "lore": "Death. If you think that it means the end, then allow me to introduce you to someone.\n\nYou thought it was all over, but Baron Samedi is going to change your mind. The only fire here is in the water, so share a drink with him. Let the sights and sounds entrance you. Join the celebration, feel your pulse pounding so hard you've forgotten your heart stopped beating.\n\nForget what you think you know. There is a life after death, and Baron Samedi will be your guide. So come along and let Baron Samedi show you the wonders of a whole new world, and that even a god of death can be the life of the party.\n\nAfter all, what have you got to lose?",
           "unreleased": false,
-          "scraped_at": "2026-03-03T08:58:32Z",
+          "scraped_at": "2026-03-09T06:13:56Z",
           "skins": {
             "baron-samedi-baron-samedi": {
               "id": "baron-samedi-baron-samedi",
@@ -9066,7 +9438,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "baron-samedi-nano-mancer": {
@@ -9078,14 +9450,14 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "February 24, 2025",
               "parent_skin_id": null
             },
             "baron-samedi-gingersnap": {
               "id": "baron-samedi-gingersnap",
               "name": "Gingersnap",
-              "card_art_url": "https://wiki.smite2.com/images/Adobe_Express_-_file.png?c3a5c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Adobe_Express_-_file.png/20px-Adobe_Express_-_file.png?c3a5c",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_BaronSamediS2_Gingersnap.png?54914",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_BaronSamediS2_Gingersnap.png/20px-SkinArt_BaronSamediS2_Gingersnap.png?54914",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -9102,7 +9474,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "baron-samedi-onyx-baron-samedi": {
@@ -9114,7 +9486,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "baron-samedi-opal-baron-samedi": {
@@ -9126,7 +9498,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "baron-samedi-radiant-baron-samedi": {
@@ -9138,7 +9510,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             }
           }
