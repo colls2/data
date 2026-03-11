@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-10T14:54:08Z",
+    "generated_at": "2026-03-11T05:40:36Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-10T14:52:09Z",
+          "scraped_at": "2026-03-11T05:40:36Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
