@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-13T05:39:39Z",
+    "generated_at": "2026-03-16T07:56:34Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 79,
-      "total_skins": 657
+      "total_skins": 661
     }
   },
   "pantheons": {
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-13T05:39:39Z",
+          "scraped_at": "2026-03-16T07:55:53Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -3815,18 +3815,18 @@
           "attack_range": "Melee",
           "lore": "Cerberus, the Hound of Hell, guards the gates of the underworld with unmatched ferocity. With three ravenous heads, a serpentine tail, and molten eyes, he ensures none of the living may enter and none of the dead may escape. Once chained to the dark abyss, Cerberus now prowls the battleground of the gods, eager to drag those who defy death into eternal damnation. Beware the hound's gaze—it sees only prey.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:18Z",
+          "scraped_at": "2026-03-16T07:56:09Z",
           "skins": {
             "cerberus-cerberus": {
               "id": "cerberus-cerberus",
               "name": "Cerberus",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Cerberus.png?ac80c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Cerberus.png/20px-GodCard_Cerberus.png?ac80c",
+              "card_art_url": "https://wiki.smite2.com/images/T_CerberusS2_Default.png?6aeee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_CerberusS2_Default.png/20px-T_CerberusS2_Default.png?6aeee",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "April 4, 2025",
               "parent_skin_id": null
             },
             "cerberus-shadow-sentry": {
@@ -3836,70 +3836,118 @@
               "thumb_url": "https://wiki.smite2.com/images/thumb/Shadow_Sentry_Cerberus.jpg/20px-Shadow_Sentry_Cerberus.jpg?2201f",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
-              "rarity": "Default",
-              "obtain_method": "Default",
-              "release_date": null,
+              "rarity": "Epic",
+              "obtain_method": "DirectPurchase",
+              "release_date": "May 5, 2025",
               "parent_skin_id": null
             },
             "cerberus-infinite-overseer": {
               "id": "cerberus-infinite-overseer",
               "name": "Infinite Overseer",
-              "card_art_url": "https://wiki.smite2.com/images/Infinite_Overseer_Cerberus.png?1e941",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Infinite_Overseer_Cerberus.png/20px-Infinite_Overseer_Cerberus.png?1e941",
+              "card_art_url": "https://wiki.smite2.com/images/Infinite_Overseer_Cerberus.png?51523",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/Infinite_Overseer_Cerberus.png/20px-Infinite_Overseer_Cerberus.png?51523",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "August 26, 2025",
               "parent_skin_id": null
             },
             "cerberus-shadow-cerberus": {
               "id": "cerberus-shadow-cerberus",
               "name": "Shadow Cerberus",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Cerberus.png?ac80c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Cerberus.png/20px-GodCard_Cerberus.png?ac80c",
+              "card_art_url": "https://wiki.smite2.com/images/T_CerberusS2_Default.png?6aeee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_CerberusS2_Default.png/20px-T_CerberusS2_Default.png?6aeee",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "April 4, 2025",
               "parent_skin_id": null
             },
             "cerberus-onyx-cerberus": {
               "id": "cerberus-onyx-cerberus",
               "name": "Onyx Cerberus",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Cerberus.png?ac80c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Cerberus.png/20px-GodCard_Cerberus.png?ac80c",
+              "card_art_url": "https://wiki.smite2.com/images/T_CerberusS2_Default.png?6aeee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_CerberusS2_Default.png/20px-T_CerberusS2_Default.png?6aeee",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "April 4, 2025",
               "parent_skin_id": null
             },
             "cerberus-opal-cerberus": {
               "id": "cerberus-opal-cerberus",
               "name": "Opal Cerberus",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Cerberus.png?ac80c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Cerberus.png/20px-GodCard_Cerberus.png?ac80c",
+              "card_art_url": "https://wiki.smite2.com/images/T_CerberusS2_Default.png?6aeee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_CerberusS2_Default.png/20px-T_CerberusS2_Default.png?6aeee",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "April 4, 2025",
               "parent_skin_id": null
             },
             "cerberus-radiant-cerberus": {
               "id": "cerberus-radiant-cerberus",
               "name": "Radiant Cerberus",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Cerberus.png?ac80c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Cerberus.png/20px-GodCard_Cerberus.png?ac80c",
+              "card_art_url": "https://wiki.smite2.com/images/T_CerberusS2_Default.png?6aeee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_CerberusS2_Default.png/20px-T_CerberusS2_Default.png?6aeee",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "April 4, 2025",
               "parent_skin_id": null
+            },
+            "cerberus-obsidian-supernova": {
+              "id": "cerberus-obsidian-supernova",
+              "name": "Obsidian Supernova",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png?a0c6b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png?a0c6b",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 26, 2025",
+              "parent_skin_id": "cerberus-infinite-overseer"
+            },
+            "cerberus-forest-guardian": {
+              "id": "cerberus-forest-guardian",
+              "name": "Forest Guardian",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?7990a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?7990a",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 26, 2025",
+              "parent_skin_id": "cerberus-infinite-overseer"
+            },
+            "cerberus-abyss-walker": {
+              "id": "cerberus-abyss-walker",
+              "name": "Abyss Walker",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?df10e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?df10e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "August 26, 2025",
+              "parent_skin_id": "cerberus-infinite-overseer"
+            },
+            "cerberus-dark-void": {
+              "id": "cerberus-dark-void",
+              "name": "Dark Void",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "cerberus-infinite-overseer"
             }
           }
         },
@@ -9353,7 +9401,7 @@
           "attack_range": "Melee",
           "lore": "From a resourceful street urchin scraping by with his mother, to a Sultan guided by powerful Genies, Aladdin's journey spans poverty, deception, magic, and unexpected fortune. Once an aimless youth known more for his misdeeds than his ambition, Aladdin found himself caught in the web of a cunning sorcerer. Disguised as a caring uncle, this sorcerer promised Aladdin wealth if he would retrieve a mysterious Lamp from a dangerous, trap-filled cave. Expecting the young man to meet his end, the sorcerer underestimated Aladdin's resilience – and the power of a lesser Genie hidden within a simple ring he provided.\n\nThrough this Genie's aid, Aladdin not only survived but secured the Lamp and the powerful Genie within it. That moment set him on a path from impoverished mischief-maker to a leader of his people, gaining wealth, influence, and ultimately earning his place as the Sultan.\n\nIn Smite 2, Aladdin has reached this pinnacle. Surrounded by loyal followers drawn to his optimism and charisma, he rules with the Lamp's Genie at his side. Yet uncertainty looms. Whether it's the sorcerer's machinations or the watchful eyes of the gods, Aladdin will face these trials head-on. His past has prepared him to make the most of any opportunity, and the Genies ensure he won't face the struggle alone.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:29Z",
+          "scraped_at": "2026-03-16T07:56:34Z",
           "skins": {
             "aladdin-aladdin": {
               "id": "aladdin-aladdin",
