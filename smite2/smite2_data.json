@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-16T07:56:34Z",
+    "generated_at": "2026-03-18T06:43:24Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
-      "total_gods": 79,
-      "total_skins": 661
+      "total_gods": 82,
+      "total_skins": 664
     }
   },
   "pantheons": {
@@ -328,11 +328,42 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-16T07:55:53Z",
+          "scraped_at": "2026-03-18T06:42:44Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
               "name": "Gilgamesh",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
+        },
+        "ishtar": {
+          "id": "ishtar",
+          "name": "Ishtar",
+          "title": null,
+          "pantheon": "Babylonian",
+          "page_url": "https://wiki.smite2.com/w/Ishtar",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Ishtar_Default_Icon.png?26054",
+          "card_art_url": null,
+          "roles": [],
+          "role_icon_url": null,
+          "damage_type": null,
+          "scaling": null,
+          "attack_range": null,
+          "lore": null,
+          "unreleased": true,
+          "scraped_at": "2026-03-18T06:42:45Z",
+          "skins": {
+            "ishtar-ishtar": {
+              "id": "ishtar-ishtar",
+              "name": "Ishtar",
               "card_art_url": null,
               "thumb_url": null,
               "screenshot_url": null,
@@ -450,7 +481,7 @@
           "attack_range": "Ranged",
           "lore": "Standing upon the edge of the wooded realm of Cernunnos, one can feel the invitation and the threat. “Come and feast,” it calls. “Nature provides an abundance of crops and wild game.” Yet, the same voice turns dark. “Treat everything with due respect,” it warns. “This is not your home.” And, should one peer intently enough through the shadowed branches, a figure can be seen, horned as a stag, clothed in moss and leaves, eyes burning like untended embers. Cernunnos is master here, and although he has much to offer, he will not tolerate greed. Time turns on the Sacred Wheel, Spring to Summer, Summer to Autumn and Autumn at last to Winter. \n\nCernunnos was there at the shaping of the wheel, born of the womb of the All Mother before Gods were Gods, when the land was shapeless. This wheel is not of his making. He is both master of it and slave to it, transforming with the seasons like the world beneath his feet. He bears a heavy metal torc around his neck as a permanent pledge of loyalty to this cycle of life and death that only he can drive. Once, it was said, there was no break between his realm and this world. They were the same. Perhaps a time will come when the world shall once again be his. Then, all can walk among the whispering leaves. So long as they remain humble. For the arrogant, Cernunnos hunts. What are these other Gods? Guest or prey?",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:37Z",
+          "scraped_at": "2026-03-18T06:42:48Z",
           "skins": {
             "cernunnos-cernunnos": {
               "id": "cernunnos-cernunnos",
@@ -461,7 +492,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "cernunnos-crimson-stalker": {
@@ -485,7 +516,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "cernunnos-shadow-cernunnos": {
@@ -497,7 +528,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "cernunnos-onyx-cernunnos": {
@@ -509,7 +540,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "cernunnos-opal-cernunnos": {
@@ -521,7 +552,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "cernunnos-radiant-cernunnos": {
@@ -533,7 +564,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             }
           }
@@ -5000,6 +5031,37 @@
               "parent_skin_id": null
             }
           }
+        },
+        "atlas": {
+          "id": "atlas",
+          "name": "Atlas",
+          "title": null,
+          "pantheon": "Greek",
+          "page_url": "https://wiki.smite2.com/w/Atlas",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Atlas_Default_Icon.png?b208a",
+          "card_art_url": null,
+          "roles": [],
+          "role_icon_url": null,
+          "damage_type": null,
+          "scaling": null,
+          "attack_range": null,
+          "lore": null,
+          "unreleased": true,
+          "scraped_at": "2026-03-18T06:43:06Z",
+          "skins": {
+            "atlas-atlas": {
+              "id": "atlas-atlas",
+              "name": "Atlas",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
         }
       }
     },
@@ -8192,6 +8254,37 @@
               "parent_skin_id": null
             }
           }
+        },
+        "ratatoskr": {
+          "id": "ratatoskr",
+          "name": "Ratatoskr",
+          "title": null,
+          "pantheon": "Norse",
+          "page_url": "https://wiki.smite2.com/w/Ratatoskr",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Ratatoskr_Default_Icon.png?98b1b",
+          "card_art_url": null,
+          "roles": [],
+          "role_icon_url": null,
+          "damage_type": null,
+          "scaling": null,
+          "attack_range": null,
+          "lore": null,
+          "unreleased": true,
+          "scraped_at": "2026-03-18T06:43:19Z",
+          "skins": {
+            "ratatoskr-ratatoskr": {
+              "id": "ratatoskr-ratatoskr",
+              "name": "Ratatoskr",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
         }
       }
     },
@@ -8986,7 +9079,7 @@
           "attack_range": "Ranged",
           "lore": "Janus, God of Portals and Transitions, stands at every threshold, watching both past and future unfold. With two faces ever turned to what was and what will be, Janus is the keeper of change itself. Doorways, seasons, and the shifting tides of fate all bend to his will. His followers seek him in times of uncertainty, knowing he alone can open the way forward. In battle, Janus is a master of space, bending reality with portals and passages unseen. For him, life is not a straight path but an endless series of doors — and he alone holds the keys.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:22Z",
+          "scraped_at": "2026-03-18T06:43:24Z",
           "skins": {
             "janus-janus": {
               "id": "janus-janus",
