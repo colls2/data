@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-20T04:44:33Z",
+    "generated_at": "2026-03-23T05:00:57Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 82,
-      "total_skins": 664
+      "total_skins": 676
     }
   },
   "pantheons": {
@@ -328,7 +328,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-20T04:43:59Z",
+          "scraped_at": "2026-03-23T05:00:17Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -359,7 +359,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-20T04:44:00Z",
+          "scraped_at": "2026-03-23T05:00:18Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -400,7 +400,7 @@
           "attack_range": "Both",
           "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature's strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:35Z",
+          "scraped_at": "2026-03-23T05:00:21Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -461,6 +461,54 @@
               "obtain_method": "Mastery",
               "release_date": "December 2, 2025",
               "parent_skin_id": null
+            },
+            "artio-fiend-hunter": {
+              "id": "artio-fiend-hunter",
+              "name": "Fiend Hunter",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtioS2_FiendHunter.png?10422",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtioS2_FiendHunter.png/20px-SkinArt_ArtioS2_FiendHunter.png?10422",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "artio-cursed-blood": {
+              "id": "artio-cursed-blood",
+              "name": "Cursed Blood",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtioS2_FiendHunter_-_CursedBlood.png?4e9d5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtioS2_FiendHunter_-_CursedBlood.png/20px-SkinArt_ArtioS2_FiendHunter_-_CursedBlood.png?4e9d5",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artio-fiend-hunter"
+            },
+            "artio-paragon": {
+              "id": "artio-paragon",
+              "name": "Paragon",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtioS2_FiendHunter_-_Paragon.png?829e0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtioS2_FiendHunter_-_Paragon.png/20px-SkinArt_ArtioS2_FiendHunter_-_Paragon.png?829e0",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artio-fiend-hunter"
+            },
+            "artio-violet-stalker": {
+              "id": "artio-violet-stalker",
+              "name": "Violet Stalker",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtioS2_FiendHunter_-_VioletStalker.png?35123",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtioS2_FiendHunter_-_VioletStalker.png/20px-SkinArt_ArtioS2_FiendHunter_-_VioletStalker.png?35123",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artio-fiend-hunter"
             }
           }
         },
@@ -3504,7 +3552,7 @@
           "attack_range": "Ranged",
           "lore": "Armed with a magical bow, Artemis is the unrivaled Goddess of the Hunt!Daughter of Zeus and Leta, Artemis and her twin brother Apollo are products of Zeus' infidelity to his wife Hera. Insulted, Hera cursed Leta while she was pregnant, forbidding her to give birth on land or sea. Fortunately, she found an island that did not touch the ocean floor, so it was neither land nor sea, and thus bore her children. Artemis was born first, then miraculously aided as midwife in the birthing of her brother.\n\nArtemis spent her childhood in the hills and forests, training with her bow and hunting beasts. As she grew older and more beautiful, she also grew proud and ruthless when slighted or dishonored, especially against those that claimed to be better hunters than she. Adonis boasted this very thing and Artemis sent a wild boar to skewer him. The twin demigods Otos and Ephialtes, who could not be killed except by each other, threatened to kidnap Artemis and force her to marry one of them, but were tricked when Artemis, appearing as a doe, dashed between them. As they thrust with their spears they impaled each other. Finally, Actaeon, after peeping at Artemis while she bathed, was transformed into a stag and devoured by his own hunting dogs. Such is the wrath of Artemis.Her name is invoked by hunters seeking prey and by midwives during childbirth. Sacrifices are made in her name before a new military campaign. Adolescent girls are sent to her shrine to serve for one year. Beautiful, deadly, and chaste, Artemis is a focused woman and a fearsome warrior.''",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:15Z",
+          "scraped_at": "2026-03-23T05:00:35Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -3661,6 +3709,54 @@
               "obtain_method": "DirectPurchase",
               "release_date": "September 23, 2025",
               "parent_skin_id": null
+            },
+            "artemis-warrenborn": {
+              "id": "artemis-warrenborn",
+              "name": "Warrenborn",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_Warrenborn.png?1e5ca",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_Warrenborn.png/20px-SkinArt_ArtemisS2_Warrenborn.png?1e5ca",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Epic",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "artemis-bramble": {
+              "id": "artemis-bramble",
+              "name": "Bramble",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_Warrenborn_-_Bramble.png?0fd07",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_Warrenborn_-_Bramble.png/20px-SkinArt_ArtemisS2_Warrenborn_-_Bramble.png?0fd07",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artemis-warrenborn"
+            },
+            "artemis-lotus": {
+              "id": "artemis-lotus",
+              "name": "Lotus",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_Warrenborn_-_Lotus.png?e5c01",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_Warrenborn_-_Lotus.png/20px-SkinArt_ArtemisS2_Warrenborn_-_Lotus.png?e5c01",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artemis-warrenborn"
+            },
+            "artemis-starbound": {
+              "id": "artemis-starbound",
+              "name": "Starbound",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_Warrenborn_-_Starbound.png?2af33",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_Warrenborn_-_Starbound.png/20px-SkinArt_ArtemisS2_Warrenborn_-_Starbound.png?2af33",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "artemis-warrenborn"
             }
           }
         },
@@ -5047,7 +5143,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-20T04:44:20Z",
+          "scraped_at": "2026-03-23T05:00:42Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -6126,7 +6222,7 @@
           "attack_range": "Melee",
           "lore": "Tsukuyomi, God of the Moon, rules the night with cold pride and ruthless precision. Where others plead for harmony, he imposes order. Wielding twin tonfa with deadly grace, he cuts down disrespect as swiftly as his enemies. Once cast from the heavens for his merciless justice, he now walks the battlefield with purpose. Worshipped by those who seek discipline, control, and fearsome strength, Tsukuyomi is the answer to chaos. For players who crave calculated power and punishing aggression, the moon has never shone brighter. The long night has come, and Tsukuyomi stands at its peak.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:47Z",
+          "scraped_at": "2026-03-23T05:00:49Z",
           "skins": {
             "tsukuyomi-tsukuyomi": {
               "id": "tsukuyomi-tsukuyomi",
@@ -6187,6 +6283,54 @@
               "obtain_method": "Mastery",
               "release_date": "September 9, 2025",
               "parent_skin_id": null
+            },
+            "tsukuyomi-silver-bullet": {
+              "id": "tsukuyomi-silver-bullet",
+              "name": "Silver Bullet",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_TsukuyomiS2_SilverBullet.png?c8b5f",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_TsukuyomiS2_SilverBullet.png/20px-SkinArt_TsukuyomiS2_SilverBullet.png?c8b5f",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "tsukuyomi-cursed-blood": {
+              "id": "tsukuyomi-cursed-blood",
+              "name": "Cursed Blood",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_TsukuyomiS2_SilverBullet_-_CursedBlood.png?22f67",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_TsukuyomiS2_SilverBullet_-_CursedBlood.png/20px-SkinArt_TsukuyomiS2_SilverBullet_-_CursedBlood.png?22f67",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "tsukuyomi-silver-bullet"
+            },
+            "tsukuyomi-paragon": {
+              "id": "tsukuyomi-paragon",
+              "name": "Paragon",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_TsukuyomiS2_SilverBullet_-_Paragon.png?69c20",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_TsukuyomiS2_SilverBullet_-_Paragon.png/20px-SkinArt_TsukuyomiS2_SilverBullet_-_Paragon.png?69c20",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "tsukuyomi-silver-bullet"
+            },
+            "tsukuyomi-shadow-stalker": {
+              "id": "tsukuyomi-shadow-stalker",
+              "name": "Shadow Stalker",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_TsukuyomiS2_SilverBullet_-_ShadowStalker.png?d9175",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_TsukuyomiS2_SilverBullet_-_ShadowStalker.png/20px-SkinArt_TsukuyomiS2_SilverBullet_-_ShadowStalker.png?d9175",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": "tsukuyomi-silver-bullet"
             }
           }
         }
@@ -8270,7 +8414,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-20T04:44:33Z",
+          "scraped_at": "2026-03-23T05:00:57Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
