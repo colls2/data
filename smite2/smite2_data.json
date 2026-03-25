@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-23T05:00:57Z",
+    "generated_at": "2026-03-25T04:52:02Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 82,
-      "total_skins": 676
+      "total_skins": 680
     }
   },
   "pantheons": {
@@ -311,35 +311,85 @@
     "babylonian": {
       "id": "babylonian",
       "name": "Babylonian",
-      "icon_url": null,
+      "icon_url": "https://wiki.smite2.com/images/NewUI_Pantheon2_Babylonian.png?71551",
       "gods": {
         "gilgamesh": {
           "id": "gilgamesh",
           "name": "Gilgamesh",
-          "title": null,
+          "title": "King of Uruk",
           "pantheon": "Babylonian",
           "page_url": "https://wiki.smite2.com/w/Gilgamesh",
-          "thumbnail_url": "https://wiki.smite2.com/images/T_Gilgamesh_Default_Icon.png?fce95",
-          "card_art_url": null,
-          "roles": [],
-          "role_icon_url": null,
-          "damage_type": null,
-          "scaling": null,
-          "attack_range": null,
-          "lore": null,
-          "unreleased": true,
-          "scraped_at": "2026-03-23T05:00:17Z",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default_Icon.png?ccff0",
+          "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+          "roles": [
+            "Solo"
+          ],
+          "role_icon_url": "https://wiki.smite2.com/images/S2_Role_Solo.png?bf151",
+          "damage_type": "Physical",
+          "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
+          "attack_range": "Melee",
+          "lore": "Gilgamesh, the two-thirds divine King of Uruk, is both hero and tyrant, his story a blend of arrogance and redemption. Worshiped by adventurers and rulers alike, his name is synonymous with strength and relentless ambition. From his friendship with Enkidu to his quest for immortality, Gilgamesh has battled monsters and toppled kings, carving his legend across the sands of time. Now, as Tiamat rises, Gilgamesh seeks to unite the gods against her, hoping that victory might finally grant him the divine recognition he craves. On the battefield, he combines raw power with indomitable determination, a relentless force driven by destiny.",
+          "unreleased": false,
+          "scraped_at": "2026-03-25T04:51:20Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
               "name": "Gilgamesh",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Gilgamesh%28S2%29_Default.png/20px-T_Gilgamesh%28S2%29_Default.png?4b063",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "gilgamesh-shadow-gilgamesh": {
+              "id": "gilgamesh-shadow-gilgamesh",
+              "name": "Shadow Gilgamesh",
+              "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Gilgamesh%28S2%29_Default.png/20px-T_Gilgamesh%28S2%29_Default.png?4b063",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "gilgamesh-onyx-gilgamesh": {
+              "id": "gilgamesh-onyx-gilgamesh",
+              "name": "Onyx Gilgamesh",
+              "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Gilgamesh%28S2%29_Default.png/20px-T_Gilgamesh%28S2%29_Default.png?4b063",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "gilgamesh-opal-gilgamesh": {
+              "id": "gilgamesh-opal-gilgamesh",
+              "name": "Opal Gilgamesh",
+              "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Gilgamesh%28S2%29_Default.png/20px-T_Gilgamesh%28S2%29_Default.png?4b063",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "March 24, 2026",
+              "parent_skin_id": null
+            },
+            "gilgamesh-radiant-gilgamesh": {
+              "id": "gilgamesh-radiant-gilgamesh",
+              "name": "Radiant Gilgamesh",
+              "card_art_url": "https://wiki.smite2.com/images/T_Gilgamesh%28S2%29_Default.png?4b063",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Gilgamesh%28S2%29_Default.png/20px-T_Gilgamesh%28S2%29_Default.png?4b063",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "March 24, 2026",
               "parent_skin_id": null
             }
           }
@@ -359,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-23T05:00:18Z",
+          "scraped_at": "2026-03-25T04:51:21Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -875,7 +925,7 @@
           "attack_range": "Melee",
           "lore": "Guan Yu, the Saint of War and embodiment of loyalty and honor, stands as a symbol of justice for the downtrodden and the righteous. His worshipers—warriors, merchants, and villagers—seek his protection, trusting his unwavering integrity. Once a mortal general who swore a sacred oath to create a just world, Guan Yu became a god revered for his valor and virtue. In combat, his massive guan dao cleaves through evil, and his red-faced likeness wards against dishonesty. On the battlefield, Guan Yu is a steadfast guardian of righteousness, leading his allies to victory with unshakable resolve and peerless might.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:43Z",
+          "scraped_at": "2026-03-25T04:51:25Z",
           "skins": {
             "guan-yu-guan-yu": {
               "id": "guan-yu-guan-yu",
@@ -2040,7 +2090,7 @@
           "attack_range": "Melee",
           "lore": "Behold the rumble from the deep, for it is the bellow of rock and stone. A titan of immortal ages has awoken from fitful slumber to crush all who tread upon his realm. A lumbering giant, patient, deliberate, unmovable; he is Geb, God of Earth.\n\nWhen a mortal's heart is weighed in the halls of Ma'at, Geb sits among the Gods in judgment. Those burdened with guilt and regret are claimed by Geb and dragged through the earthen crust to the underworld. Hearts free of such heaviness are taught words of power and ascend to the sky.\n\nAh, the sky.\n\nIt is but the one thing Geb longs for. In his eye, she is glorious sapphire, an unreachable object. But it was not always so. Once, the earth and sky were as one, Geb and Nut, Goddess of the Sky, locked in a lover's embrace. Ra deemed their union unfit and sent Shu, God of Wind, between them. In his rage, Geb thundered and broke the earth, but for naught, Nut was now forever out of reach.\n\nThough his desire has not weathered with the ages, Geb has rested peacefully for time immemorial, nurturing Mankind through bountiful harvest and stable ground for pyramids and palaces. It is the clash of Gods upon his surface that stirs him. He has risen to war, though his motives are unclear. Does he fight to prevent the destruction of his realm, or will he seize the chance to shatter the wind and reunite the earth and sky? Whatever the outcome, the earth will always remain.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:58Z",
+          "scraped_at": "2026-03-25T04:51:32Z",
           "skins": {
             "geb-geb": {
               "id": "geb-geb",
@@ -3552,7 +3602,7 @@
           "attack_range": "Ranged",
           "lore": "Armed with a magical bow, Artemis is the unrivaled Goddess of the Hunt!Daughter of Zeus and Leta, Artemis and her twin brother Apollo are products of Zeus' infidelity to his wife Hera. Insulted, Hera cursed Leta while she was pregnant, forbidding her to give birth on land or sea. Fortunately, she found an island that did not touch the ocean floor, so it was neither land nor sea, and thus bore her children. Artemis was born first, then miraculously aided as midwife in the birthing of her brother.\n\nArtemis spent her childhood in the hills and forests, training with her bow and hunting beasts. As she grew older and more beautiful, she also grew proud and ruthless when slighted or dishonored, especially against those that claimed to be better hunters than she. Adonis boasted this very thing and Artemis sent a wild boar to skewer him. The twin demigods Otos and Ephialtes, who could not be killed except by each other, threatened to kidnap Artemis and force her to marry one of them, but were tricked when Artemis, appearing as a doe, dashed between them. As they thrust with their spears they impaled each other. Finally, Actaeon, after peeping at Artemis while she bathed, was transformed into a stag and devoured by his own hunting dogs. Such is the wrath of Artemis.Her name is invoked by hunters seeking prey and by midwives during childbirth. Sacrifices are made in her name before a new military campaign. Adolescent girls are sent to her shrine to serve for one year. Beautiful, deadly, and chaste, Artemis is a focused woman and a fearsome warrior.''",
           "unreleased": false,
-          "scraped_at": "2026-03-23T05:00:35Z",
+          "scraped_at": "2026-03-25T04:51:40Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -4806,7 +4856,7 @@
           "attack_range": "Ranged",
           "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorised sailors for centuries. Legends say she was either a cursed naiad or born of gods' envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity. \n\nScylla embodies primal hunger and relentless destruction. Now freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:30Z",
+          "scraped_at": "2026-03-25T04:51:47Z",
           "skins": {
             "scylla-scylla": {
               "id": "scylla-scylla",
@@ -5143,7 +5193,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-23T05:00:42Z",
+          "scraped_at": "2026-03-25T04:51:49Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -8414,7 +8464,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-23T05:00:57Z",
+          "scraped_at": "2026-03-25T04:52:02Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
