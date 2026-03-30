@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-27T05:04:51Z",
+    "generated_at": "2026-03-30T05:21:38Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-27T05:04:18Z",
+          "scraped_at": "2026-03-30T05:21:05Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -5193,7 +5193,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-27T05:04:38Z",
+          "scraped_at": "2026-03-30T05:21:25Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -8464,7 +8464,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-27T05:04:51Z",
+          "scraped_at": "2026-03-30T05:21:38Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
