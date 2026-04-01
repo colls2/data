@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-03-30T05:21:38Z",
+    "generated_at": "2026-04-01T05:21:56Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
-      "total_gods": 82,
-      "total_skins": 680
+      "total_gods": 83,
+      "total_skins": 681
     }
   },
   "pantheons": {
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-30T05:21:05Z",
+          "scraped_at": "2026-04-01T05:21:19Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -4856,7 +4856,7 @@
           "attack_range": "Ranged",
           "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorised sailors for centuries. Legends say she was either a cursed naiad or born of gods' envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity. \n\nScylla embodies primal hunger and relentless destruction. Now freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
           "unreleased": false,
-          "scraped_at": "2026-03-25T04:51:47Z",
+          "scraped_at": "2026-04-01T05:21:39Z",
           "skins": {
             "scylla-scylla": {
               "id": "scylla-scylla",
@@ -5193,12 +5193,45 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-30T05:21:25Z",
+          "scraped_at": "2026-04-01T05:21:41Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
               "name": "Atlas",
               "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
+        },
+        "charybdis": {
+          "id": "charybdis",
+          "name": "Charybdis",
+          "title": "The Ceaseless Whirlpool",
+          "pantheon": "Greek",
+          "page_url": "https://wiki.smite2.com/w/Charybdis",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Charybdis%28S2%29_Default_Icon.png?335ae",
+          "card_art_url": "https://wiki.smite2.com/images/GodCard_Charybdis.png?8bb84",
+          "roles": [
+            "Carry"
+          ],
+          "role_icon_url": "https://wiki.smite2.com/images/S2_Role_Carry.png?5387b",
+          "damage_type": "Physical",
+          "scaling": "100% Strength + 30% Intelligence + 100% Basic Attack Power",
+          "attack_range": "Ranged",
+          "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\nPoor Charybdis.\n\n(This is a April Fool, so anything below is not real)",
+          "unreleased": false,
+          "scraped_at": "2026-04-01T05:21:43Z",
+          "skins": {
+            "charybdis-charybdis": {
+              "id": "charybdis-charybdis",
+              "name": "Charybdis",
+              "card_art_url": "https://wiki.smite2.com/images/GodCard_Charybdis.png?8bb84",
               "thumb_url": null,
               "screenshot_url": null,
               "screenshot_thumb_url": null,
@@ -8464,7 +8497,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-03-30T05:21:38Z",
+          "scraped_at": "2026-04-01T05:21:56Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
