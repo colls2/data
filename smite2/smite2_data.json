@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-01T05:21:56Z",
+    "generated_at": "2026-04-03T05:02:29Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
-      "total_gods": 83,
-      "total_skins": 681
+      "total_gods": 85,
+      "total_skins": 683
     }
   },
   "pantheons": {
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-01T05:21:19Z",
+          "scraped_at": "2026-04-03T05:01:42Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -4856,7 +4856,7 @@
           "attack_range": "Ranged",
           "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorised sailors for centuries. Legends say she was either a cursed naiad or born of gods' envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity. \n\nScylla embodies primal hunger and relentless destruction. Now freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
           "unreleased": false,
-          "scraped_at": "2026-04-01T05:21:39Z",
+          "scraped_at": "2026-04-03T05:02:02Z",
           "skins": {
             "scylla-scylla": {
               "id": "scylla-scylla",
@@ -5193,7 +5193,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-01T05:21:41Z",
+          "scraped_at": "2026-04-03T05:02:04Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5224,9 +5224,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 30% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\nPoor Charybdis.\n\n(This is a April Fool, so anything below is not real)",
+          "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
           "unreleased": false,
-          "scraped_at": "2026-04-01T05:21:43Z",
+          "scraped_at": "2026-04-03T05:02:06Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -8497,7 +8497,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-01T05:21:56Z",
+          "scraped_at": "2026-04-03T05:02:19Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
@@ -9528,7 +9528,7 @@
           "attack_range": "Ranged",
           "lore": "Sylvanus, Keeper of the Wilds, is the spirit of field and forest, a guardian whose laughter is heard in the rustling leaves and whose touch coaxes blossoms from the soil. Gentle and wise, he walks beside fawns, wolves, and even trees that stir to life at his call. Worshiped by farmers, sheperds, and those who seek harmony with nature, Sylvanus nurtures all who respect his domain. Yet his kindness carries sorrow-for it was his grief that birthed the cypress tree from the boy Cyparissus. Slow to anger, he is rarely seen on battlefields, but with war spilling into his sacred groves, Sylvanus rises, bringing the calm and fury of nature iteself. For those who value patience, protection, and the steady strength of the natural world, Sylvanus offers roots that hold firm when all else falters.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:25Z",
+          "scraped_at": "2026-04-03T05:02:26Z",
           "skins": {
             "sylvanus-sylvanus": {
               "id": "sylvanus-sylvanus",
@@ -10028,6 +10028,75 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
+        }
+      }
+    },
+    "lovecraftian": {
+      "id": "lovecraftian",
+      "name": "Lovecraftian",
+      "icon_url": null,
+      "gods": {
+        "cthulhu": {
+          "id": "cthulhu",
+          "name": "Cthulhu",
+          "title": null,
+          "pantheon": "Lovecraftian",
+          "page_url": "https://wiki.smite2.com/w/Cthulhu",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Cthulhu%28S2%29_Default_Icon.png?df7df",
+          "card_art_url": null,
+          "roles": [],
+          "role_icon_url": null,
+          "damage_type": null,
+          "scaling": null,
+          "attack_range": null,
+          "lore": null,
+          "unreleased": true,
+          "scraped_at": "2026-04-03T05:02:28Z",
+          "skins": {
+            "cthulhu-cthulhu": {
+              "id": "cthulhu-cthulhu",
+              "name": "Cthulhu",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
+              "release_date": null,
+              "parent_skin_id": null
+            }
+          }
+        },
+        "hastur": {
+          "id": "hastur",
+          "name": "Hastur",
+          "title": null,
+          "pantheon": "Lovecraftian",
+          "page_url": "https://wiki.smite2.com/w/Hastur",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Hastur%28S2%29_Default_Icon.png?b227c",
+          "card_art_url": null,
+          "roles": [],
+          "role_icon_url": null,
+          "damage_type": null,
+          "scaling": null,
+          "attack_range": null,
+          "lore": null,
+          "unreleased": true,
+          "scraped_at": "2026-04-03T05:02:29Z",
+          "skins": {
+            "hastur-hastur": {
+              "id": "hastur-hastur",
+              "name": "Hastur",
+              "card_art_url": null,
+              "thumb_url": null,
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Default",
+              "obtain_method": "Default",
               "release_date": null,
               "parent_skin_id": null
             }
