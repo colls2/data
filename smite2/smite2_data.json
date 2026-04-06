@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-03T05:02:29Z",
+    "generated_at": "2026-04-06T05:21:33Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 85,
-      "total_skins": 683
+      "total_skins": 687
     }
   },
   "pantheons": {
@@ -330,7 +330,7 @@
           "attack_range": "Melee",
           "lore": "Gilgamesh, the two-thirds divine King of Uruk, is both hero and tyrant, his story a blend of arrogance and redemption. Worshiped by adventurers and rulers alike, his name is synonymous with strength and relentless ambition. From his friendship with Enkidu to his quest for immortality, Gilgamesh has battled monsters and toppled kings, carving his legend across the sands of time. Now, as Tiamat rises, Gilgamesh seeks to unite the gods against her, hoping that victory might finally grant him the divine recognition he craves. On the battefield, he combines raw power with indomitable determination, a relentless force driven by destiny.",
           "unreleased": false,
-          "scraped_at": "2026-03-25T04:51:20Z",
+          "scraped_at": "2026-04-06T05:20:24Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-03T05:01:42Z",
+          "scraped_at": "2026-04-06T05:20:25Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -1820,7 +1820,7 @@
           "attack_range": "Ranged",
           "lore": "Jackal-headed Anubis holds the ultimate judgment over the dead, measuring every heart against the weight of Truth. Nephthys, wife of Set - the God of Darkness, desired a child, yet her husband was infertile, so Nephthys disguised herself as Eset, the wife of Set’s brother Osiris, and seduced him. From that union, Anubis was born. Osiris cared for Anubis as his own, but when Osiris was murdered by his evil brother, Set, Anubis embalmed his adopted father and mummified the corpse so he would not rot. This preservation passed down to the Faithful, for if it was good enough for the Gods, it was good enough for man. None enter the abyss of the Underworld without first being tested by Anubis. When corpses are preserved, he is the embalmer. When time for judgment comes, he is the final arbiter. \n\nIn his realm, he keeps legendary weighing scales. On one side, the massive weight of Ma’at – truth and order. On the other side, he places the heart of the deceased. Should the weight of Ma’at prove infinitely heavier than that of the heart, Anubis casts the soul deep into the darkness of the Underworld, where it is forgotten, never to be reborn.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:55Z",
+          "scraped_at": "2026-04-06T05:20:34Z",
           "skins": {
             "anubis-anubis": {
               "id": "anubis-anubis",
@@ -1897,8 +1897,8 @@
             "anubis-festive-knit-wit": {
               "id": "anubis-festive-knit-wit",
               "name": "Festive Knit-Wit",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnubisS2_FestiveKnitWit.png?8ba8e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnubisS2_FestiveKnitWit.png/20px-SkinArt_AnubisS2_FestiveKnitWit.png?8ba8e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnubisS2_FestiveKnitWit.png?d6fdd",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnubisS2_FestiveKnitWit.png/20px-SkinArt_AnubisS2_FestiveKnitWit.png?d6fdd",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
@@ -1909,8 +1909,8 @@
             "anubis-holly-berry": {
               "id": "anubis-holly-berry",
               "name": "Holly Berry",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png?5e111",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png/20px-SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png?5e111",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png?ef79e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png/20px-SkinArt_Anubis_S2_FestiveKnitWit_-_Holly_Berry.png?ef79e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -1921,8 +1921,8 @@
             "anubis-frosty-woods": {
               "id": "anubis-frosty-woods",
               "name": "Frosty Woods",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnubisS2_Festive_Knit-Wit_-_Frosty_Woods.png?5cec2",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnubisS2_Festive_Knit-Wit_-_Frosty_Woods.png/20px-SkinArt_AnubisS2_Festive_Knit-Wit_-_Frosty_Woods.png?5cec2",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -1933,8 +1933,8 @@
             "anubis-krampus": {
               "id": "anubis-krampus",
               "name": "Krampus",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png?57d0e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png/20px-SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png?57d0e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png?e1edb",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png/20px-SkinArt_Anubis_S2_FestiveKnitWit_-_Krampus.png?e1edb",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -1945,8 +1945,8 @@
             "anubis-grumbles": {
               "id": "anubis-grumbles",
               "name": "Grumbles",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnubisS2_Festive_Knit-Wit_-_Grumbles.png?0ec6d",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnubisS2_Festive_Knit-Wit_-_Grumbles.png/20px-SkinArt_AnubisS2_Festive_Knit-Wit_-_Grumbles.png?0ec6d",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2090,7 +2090,7 @@
           "attack_range": "Melee",
           "lore": "Behold the rumble from the deep, for it is the bellow of rock and stone. A titan of immortal ages has awoken from fitful slumber to crush all who tread upon his realm. A lumbering giant, patient, deliberate, unmovable; he is Geb, God of Earth.\n\nWhen a mortal's heart is weighed in the halls of Ma'at, Geb sits among the Gods in judgment. Those burdened with guilt and regret are claimed by Geb and dragged through the earthen crust to the underworld. Hearts free of such heaviness are taught words of power and ascend to the sky.\n\nAh, the sky.\n\nIt is but the one thing Geb longs for. In his eye, she is glorious sapphire, an unreachable object. But it was not always so. Once, the earth and sky were as one, Geb and Nut, Goddess of the Sky, locked in a lover's embrace. Ra deemed their union unfit and sent Shu, God of Wind, between them. In his rage, Geb thundered and broke the earth, but for naught, Nut was now forever out of reach.\n\nThough his desire has not weathered with the ages, Geb has rested peacefully for time immemorial, nurturing Mankind through bountiful harvest and stable ground for pyramids and palaces. It is the clash of Gods upon his surface that stirs him. He has risen to war, though his motives are unclear. Does he fight to prevent the destruction of his realm, or will he seize the chance to shatter the wind and reunite the earth and sky? Whatever the outcome, the earth will always remain.",
           "unreleased": false,
-          "scraped_at": "2026-03-25T04:51:32Z",
+          "scraped_at": "2026-04-06T05:20:37Z",
           "skins": {
             "geb-geb": {
               "id": "geb-geb",
@@ -2535,7 +2535,7 @@
           "attack_range": "Melee",
           "lore": "Osiris, God of the Afterlife, once ruled Egypt with unmatched wisdom and benevolence. Betrayed by his jealous brother Set, he was murdered and torn apart, his remains scattered across the land. Through the devotion of his wife, Eset, Osiris was reassembled and given new life, though incomplete. No longer king of the living, he took his throne in the underworld, guiding souls with the same fairness he once gave his people. Worshiped by those seeking justice beyond death, Osiris is steadfast and unyielding. Even broken, he rises again to challenge the darkness, a guardian of life, death, and balanve. For those who value persistence, resilience, and unwavering justice, Osiris stands eternal.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:04Z",
+          "scraped_at": "2026-04-06T05:20:40Z",
           "skins": {
             "osiris-osiris": {
               "id": "osiris-osiris",
@@ -2600,8 +2600,8 @@
             "osiris-black-knight": {
               "id": "osiris-black-knight",
               "name": "Black Knight",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight.png?426d5",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight.png/20px-SkinArt_OsirisS2_BlackKnight.png?426d5",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight.png?5bd9a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight.png/20px-SkinArt_OsirisS2_BlackKnight.png?5bd9a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -2612,8 +2612,8 @@
             "osiris-false-word": {
               "id": "osiris-false-word",
               "name": "False Word",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?31059",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png/20px-SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?31059",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?6cf82",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_FalseWord.png/20px-SkinArt_OsirisS2_BlackKnight_-_FalseWord.png?6cf82",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2624,8 +2624,8 @@
             "osiris-toxic-oath": {
               "id": "osiris-toxic-oath",
               "name": "Toxic Oath",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?62f99",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png/20px-SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?62f99",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?2ba71",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png/20px-SkinArt_OsirisS2_BlackKnight_-_ToxicOath.png?2ba71",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2636,8 +2636,8 @@
             "osiris-bloody-vow": {
               "id": "osiris-bloody-vow",
               "name": "Bloody Vow",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?81aac",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png/20px-SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?81aac",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?9b373",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png/20px-SkinArt_OsirisS2_BlackKnight_-_BloodyVow.png?9b373",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2648,8 +2648,8 @@
             "osiris-frigid-promise": {
               "id": "osiris-frigid-promise",
               "name": "Frigid Promise",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_Black_Knight_-_Frigid_Promise.png?eb629",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_Black_Knight_-_Frigid_Promise.png/20px-SkinArt_OsirisS2_Black_Knight_-_Frigid_Promise.png?eb629",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2660,8 +2660,8 @@
             "osiris-noble-knight": {
               "id": "osiris-noble-knight",
               "name": "Noble Knight",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_WhiteKnight.png?7b2e9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_WhiteKnight.png/20px-SkinArt_OsirisS2_WhiteKnight.png?7b2e9",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_WhiteKnight.png?670b8",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_WhiteKnight.png/20px-SkinArt_OsirisS2_WhiteKnight.png?670b8",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -2672,8 +2672,8 @@
             "osiris-golden-word": {
               "id": "osiris-golden-word",
               "name": "Golden Word",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?34c3e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png/20px-SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?34c3e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?3f1da",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png/20px-SkinArt_OsirisS2_NobleKnight_-_GoldenWord.png?3f1da",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2684,8 +2684,8 @@
             "osiris-emerald-oath": {
               "id": "osiris-emerald-oath",
               "name": "Emerald Oath",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?b021e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png/20px-SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?b021e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?8bf87",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png/20px-SkinArt_OsirisS2_NobleKnight_-_EmeraldOath.png?8bf87",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2696,8 +2696,8 @@
             "osiris-holy-vow": {
               "id": "osiris-holy-vow",
               "name": "Holy Vow",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?5eafa",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png/20px-SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?5eafa",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?2f748",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_NobleKnight_-_HolyVow.png/20px-SkinArt_OsirisS2_NobleKnight_-_HolyVow.png?2f748",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2708,8 +2708,8 @@
             "osiris-dark-promise": {
               "id": "osiris-dark-promise",
               "name": "Dark Promise",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_OsirisS2_Noble_Knight_-_Dark_Promise.png?c0b82",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_OsirisS2_Noble_Knight_-_Dark_Promise.png/20px-SkinArt_OsirisS2_Noble_Knight_-_Dark_Promise.png?c0b82",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -2965,7 +2965,7 @@
           "attack_range": "Melee",
           "lore": "King Agamemnon brought his fury to bear against gilded Troy, for Prince Paris had stolen his Helen, his wife, whose beauty rivaled that of Athena and Aphrodite. To famed Achilles, invincible warrior, the king gave command of a thousand ships.Across stormy seas and salted beach, soldiers sieged the city. Arrow and stone, blade and barb bounced from Achilles' skin. Bathed as a babe in the River Styx by his Nereid mother, his hide was hardened, imperviously made. Through every charge, every death-defying battle, Achilles was at the fore. Troy hung poised to crumble.\n\nUntil Agamemnon gave slight to the mighty myrmidon. In grave offense, Achilles pulled his forces from the field. Hector, boldest, bravest, eldest of the Trojan princes seized the chance to push the Greeks to the sea. Water's reflection mirrored scorching sails as Hector fired their ships. All seemed lost until Achilles rose to meet him. Fierce and fast the two titans fought, but Hector's spear felled Achilles fair. Though Patroclus, it was, in the armor of Achilles, not Achilles who lay dead.Wrathful at the loss of his faithful lover, Achilles donned armor newly-made and challenged Hector alone. Spear and blade and amor rang, but Achilles could not be harmed. Hector, prince of Troy, died in battle that day.\n\nParis, brother lost, tearful-eyed, let arrow loose, guided by divine envy. For there were Gods that could not suffer Achilles to survive. Straight and true the arrow flew and harpooned Achilles' heel, where his mother held him when submerged. The wound was deep, his weakness found, Achilles met his end.A decade thence, from Hades' depths, Achilles has been drawn. Armored now, upon the heel, revenge his only aim. For envious Gods stole from him his glory and his life. Now they tremble at the wrath of the man who cannot be harmed.''",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:09Z",
+          "scraped_at": "2026-04-06T05:20:43Z",
           "skins": {
             "achilles-achilles": {
               "id": "achilles-achilles",
@@ -3030,8 +3030,8 @@
             "achilles-soul-piercer": {
               "id": "achilles-soul-piercer",
               "name": "Soul Piercer",
-              "card_art_url": "https://wiki.smite2.com/images/Soul_Piercer_Achilles.jpg?1a6a9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Soul_Piercer_Achilles.jpg/20px-Soul_Piercer_Achilles.jpg?1a6a9",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AchillesS2_Soul_Piercer.png?497ca",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AchillesS2_Soul_Piercer.png/20px-SkinArt_AchillesS2_Soul_Piercer.png?497ca",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -3042,8 +3042,8 @@
             "achilles-veil-strider": {
               "id": "achilles-veil-strider",
               "name": "Veil Strider",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AchillesS2_Soul_Piercer_-_Veil_Strider.png?840fa",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AchillesS2_Soul_Piercer_-_Veil_Strider.png/20px-SkinArt_AchillesS2_Soul_Piercer_-_Veil_Strider.png?840fa",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3054,8 +3054,8 @@
             "achilles-frigid-warden": {
               "id": "achilles-frigid-warden",
               "name": "Frigid Warden",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AchillesS2_Soul_Piercer_-_Frigid_Warden.png?15d28",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AchillesS2_Soul_Piercer_-_Frigid_Warden.png/20px-SkinArt_AchillesS2_Soul_Piercer_-_Frigid_Warden.png?15d28",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3066,8 +3066,8 @@
             "achilles-golden-wrath": {
               "id": "achilles-golden-wrath",
               "name": "Golden Wrath",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AchillesS2_Soul_Piercer_-_Golden_Wrath.png?d4cd0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AchillesS2_Soul_Piercer_-_Golden_Wrath.png/20px-SkinArt_AchillesS2_Soul_Piercer_-_Golden_Wrath.png?d4cd0",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3095,7 +3095,7 @@
           "attack_range": "Ranged",
           "lore": "There are too few words to describe the radiance, the magnificence, the inequitable glory of Aphrodite, Goddess of Beauty. So wondrous is she to behold that one look can inspire tears, desire, jealousy, and love. Yet, beneath her flawless exterior resides a heart burdened with insecurity.\n\nInattentive and hideous to look upon, her husband, Hephaestus, unknowingly leaves Aphrodite feeling lonely and worthless. She finds consolation in the arms of other men such as Ares, or validation by competing in any contest of beauty she encounters.\n\nAt a wedding attended by all the Gods, a golden apple appeared, inscribed with the words \"to the fairest.\" Immediately Aphrodite, her mother Hera, and sister Athena quarreled over it. Zeus elected Paris, Prince of Troy, to choose a victor. In exchange for being named the fairest, Aphrodite offered any woman in the world as his wife, so Paris agreed. However, he chose Helen as his wife, and their love began the catastrophic Trojan War.\n\nNow, a new war brews, but this one between Gods, not men. While the battlefield is no place for the fairest of all, Aphrodite recalls the destruction between the Greeks and Trojans. Perhaps, this time, her beauty can be used to stop a war instead of start one. Perhaps, this time, she will discover the beauty within.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:11Z",
+          "scraped_at": "2026-04-06T05:20:45Z",
           "skins": {
             "aphrodite-aphrodite": {
               "id": "aphrodite-aphrodite",
@@ -3208,8 +3208,8 @@
             "aphrodite-yule-cheer": {
               "id": "aphrodite-yule-cheer",
               "name": "Yule Cheer",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer.png?69aa8",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer.png/20px-SkinArt_AphroditeS2_YuleCheer.png?69aa8",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer.png?100b8",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer.png/20px-SkinArt_AphroditeS2_YuleCheer.png?100b8",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -3220,8 +3220,8 @@
             "aphrodite-snowfall": {
               "id": "aphrodite-snowfall",
               "name": "Snowfall",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png?7fbe0",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png/20px-SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png?7fbe0",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png?b031c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png/20px-SkinArt_AphroditeS2_YuleCheer_-_Snowfall.png?b031c",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3232,8 +3232,8 @@
             "aphrodite-mistletoe": {
               "id": "aphrodite-mistletoe",
               "name": "Mistletoe",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png?d450e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png/20px-SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png?d450e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png?b77f0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png/20px-SkinArt_AphroditeS2_YuleCheer_-_Mistletoe.png?b77f0",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3244,8 +3244,8 @@
             "aphrodite-winterberry": {
               "id": "aphrodite-winterberry",
               "name": "Winterberry",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_Winterberry.png?bf90b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_Winterberry.png/20px-SkinArt_AphroditeS2_YuleCheer_-_Winterberry.png?bf90b",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3256,8 +3256,8 @@
             "aphrodite-dark-noel": {
               "id": "aphrodite-dark-noel",
               "name": "Dark Noel",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png?b7ced",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png/20px-SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png?b7ced",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png?5cd1a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png/20px-SkinArt_AphroditeS2_YuleCheer_-_DarkNoel.png?5cd1a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3602,7 +3602,7 @@
           "attack_range": "Ranged",
           "lore": "Armed with a magical bow, Artemis is the unrivaled Goddess of the Hunt!Daughter of Zeus and Leta, Artemis and her twin brother Apollo are products of Zeus' infidelity to his wife Hera. Insulted, Hera cursed Leta while she was pregnant, forbidding her to give birth on land or sea. Fortunately, she found an island that did not touch the ocean floor, so it was neither land nor sea, and thus bore her children. Artemis was born first, then miraculously aided as midwife in the birthing of her brother.\n\nArtemis spent her childhood in the hills and forests, training with her bow and hunting beasts. As she grew older and more beautiful, she also grew proud and ruthless when slighted or dishonored, especially against those that claimed to be better hunters than she. Adonis boasted this very thing and Artemis sent a wild boar to skewer him. The twin demigods Otos and Ephialtes, who could not be killed except by each other, threatened to kidnap Artemis and force her to marry one of them, but were tricked when Artemis, appearing as a doe, dashed between them. As they thrust with their spears they impaled each other. Finally, Actaeon, after peeping at Artemis while she bathed, was transformed into a stag and devoured by his own hunting dogs. Such is the wrath of Artemis.Her name is invoked by hunters seeking prey and by midwives during childbirth. Sacrifices are made in her name before a new military campaign. Adolescent girls are sent to her shrine to serve for one year. Beautiful, deadly, and chaste, Artemis is a focused woman and a fearsome warrior.''",
           "unreleased": false,
-          "scraped_at": "2026-03-25T04:51:40Z",
+          "scraped_at": "2026-04-06T05:20:49Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -3691,8 +3691,8 @@
             "artemis-black-ice": {
               "id": "artemis-black-ice",
               "name": "Black Ice",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png?890b7",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png?890b7",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png?b3df5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_BlackIce.png?b3df5",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3703,8 +3703,8 @@
             "artemis-ember-herald": {
               "id": "artemis-ember-herald",
               "name": "Ember Herald",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png?217eb",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png?217eb",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png?b3151",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_EmberHerald.png?b3151",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3715,8 +3715,8 @@
             "artemis-neon-mirage": {
               "id": "artemis-neon-mirage",
               "name": "Neon Mirage",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png?7eae4",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png?7eae4",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png?015d8",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_NeonMirage.png?015d8",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3727,8 +3727,8 @@
             "artemis-astral-empress": {
               "id": "artemis-astral-empress",
               "name": "Astral Empress",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png?359e2",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png?359e2",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png?3c52a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png/20px-SkinArt_ArtemisS2_WhitefrostSentry_-_AstralEmpress.png?3c52a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3751,8 +3751,8 @@
             "artemis-frostwarden---whitefrost-sentry": {
               "id": "artemis-frostwarden---whitefrost-sentry",
               "name": "Frostwarden - Whitefrost Sentry",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtemisS2_Whitefrost_Sentry.png?102ea",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtemisS2_Whitefrost_Sentry.png/20px-SkinArt_ArtemisS2_Whitefrost_Sentry.png?102ea",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -3827,7 +3827,7 @@
           "attack_range": "Melee",
           "lore": "In war, there are two kinds of soldiers: those that fight for blood, and those that fight for honor. The first crave the clash of steel and smell of slaughter, the latter know the wisdom of justice, the kindness of mercy, and that life should never be taken wantonly. These different warriors seek different Gods. Ares, God of War revels in the bloodletting, but his sister, Athena, Goddess of Wisdom, is patron to those who fight with dignity, and only when there is no other alternative. Favored daughter of Zeus, wise as ten thousand scholars, just as the scales themselves; Athena is a paragon of incorruptible virtue, and worshipped with righteous fervor. So revered is she that Athens, greatest city in all the world, is named for her, and regal temples adorn the countryside in her honor, each tended by loyal priestesses. To Athena, a life is a precious thing that need not be wasted in frivolous battle. Bloodthirsty Ares, on the other hand, is reviled by their father and chained by his ravenous subjects. \n\nAt the Siege of Troy, Ares disobeyed Zeus and joined with the battle, fighting for the mortal Trojans. Athena rose to stop him, indirectly championing the Greeks, but directly keeping the order of divine law. Their fierce battle clashed in unspeakable proportions, ending only when Ares limped from the battle field, cowed by his sister and rival. With Ares diminished, the tide of the war shifted and the heroes of the Greek Army toppled Troy. In times of war, prayers are sent to both Gods. Ares, for bloodstained victory, Athena for honor, valor, and the wisdom to fight with dignity. Make no mistake, these are times of war, and Ares has already answered the call to arms. Athena, ever cautious with lives, goes to battle without eagerness, but solemn necessity, for the Goddess of Wisdom knows honor is for the living. The dead have no need of it.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:17Z",
+          "scraped_at": "2026-04-06T05:20:51Z",
           "skins": {
             "athena-athena": {
               "id": "athena-athena",
@@ -3892,8 +3892,8 @@
             "athena-mystic-guardian": {
               "id": "athena-mystic-guardian",
               "name": "Mystic Guardian",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Athena_MysticGuardian.jpg?d4b29",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Athena_MysticGuardian.jpg/20px-SkinArt_Athena_MysticGuardian.jpg?d4b29",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AthenaS2_Mystic_Guardian.png?ea31b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AthenaS2_Mystic_Guardian.png/20px-SkinArt_AthenaS2_Mystic_Guardian.png?ea31b",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -3904,8 +3904,8 @@
             "athena-starflare": {
               "id": "athena-starflare",
               "name": "Starflare",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AthenaS2_Mystic_Guardian_-_Starflare.png?11b80",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AthenaS2_Mystic_Guardian_-_Starflare.png/20px-SkinArt_AthenaS2_Mystic_Guardian_-_Starflare.png?11b80",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3916,8 +3916,8 @@
             "athena-nightshade": {
               "id": "athena-nightshade",
               "name": "Nightshade",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AthenaS2_Mystic_Guardian_-_Nightshade.png?dcdea",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AthenaS2_Mystic_Guardian_-_Nightshade.png/20px-SkinArt_AthenaS2_Mystic_Guardian_-_Nightshade.png?dcdea",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3928,8 +3928,8 @@
             "athena-lunarveil": {
               "id": "athena-lunarveil",
               "name": "Lunarveil",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AthenaS2_Mystic_Guardian_-_Lunarveil.png?93ddc",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AthenaS2_Mystic_Guardian_-_Lunarveil.png/20px-SkinArt_AthenaS2_Mystic_Guardian_-_Lunarveil.png?93ddc",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3940,8 +3940,8 @@
             "athena-stardust": {
               "id": "athena-stardust",
               "name": "Stardust",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AthenaS2_Mystic_Guardian_-_Stardust.png?9472b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AthenaS2_Mystic_Guardian_-_Stardust.png/20px-SkinArt_AthenaS2_Mystic_Guardian_-_Stardust.png?9472b",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -3992,7 +3992,7 @@
           "attack_range": "Melee",
           "lore": "Cerberus, the Hound of Hell, guards the gates of the underworld with unmatched ferocity. With three ravenous heads, a serpentine tail, and molten eyes, he ensures none of the living may enter and none of the dead may escape. Once chained to the dark abyss, Cerberus now prowls the battleground of the gods, eager to drag those who defy death into eternal damnation. Beware the hound's gaze—it sees only prey.",
           "unreleased": false,
-          "scraped_at": "2026-03-16T07:56:09Z",
+          "scraped_at": "2026-04-06T05:20:53Z",
           "skins": {
             "cerberus-cerberus": {
               "id": "cerberus-cerberus",
@@ -4021,8 +4021,8 @@
             "cerberus-infinite-overseer": {
               "id": "cerberus-infinite-overseer",
               "name": "Infinite Overseer",
-              "card_art_url": "https://wiki.smite2.com/images/Infinite_Overseer_Cerberus.png?51523",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Infinite_Overseer_Cerberus.png/20px-Infinite_Overseer_Cerberus.png?51523",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_Infinite_Overseer.png?f4d68",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_Infinite_Overseer.png/20px-SkinArt_CerberusS2_Infinite_Overseer.png?f4d68",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -4081,8 +4081,8 @@
             "cerberus-obsidian-supernova": {
               "id": "cerberus-obsidian-supernova",
               "name": "Obsidian Supernova",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png?a0c6b",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_ObsidianSupernova.png?a0c6b",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_Infinite_Overseer_-_Obsidian_Supernova.png?09fbc",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_Infinite_Overseer_-_Obsidian_Supernova.png/20px-SkinArt_CerberusS2_Infinite_Overseer_-_Obsidian_Supernova.png?09fbc",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -4093,8 +4093,8 @@
             "cerberus-forest-guardian": {
               "id": "cerberus-forest-guardian",
               "name": "Forest Guardian",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?7990a",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?7990a",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?6253e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_ForestGuardian.png?6253e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -4105,8 +4105,8 @@
             "cerberus-abyss-walker": {
               "id": "cerberus-abyss-walker",
               "name": "Abyss Walker",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?df10e",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?df10e",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?9830a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png/20px-SkinArt_CerberusS2_InfiniteOverseer_-_AbyssWalker.png?9830a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -4117,8 +4117,8 @@
             "cerberus-dark-void": {
               "id": "cerberus-dark-void",
               "name": "Dark Void",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CerberusS2_Infinite_Overseer_-_Dark_Void.png?ec8d9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CerberusS2_Infinite_Overseer_-_Dark_Void.png/20px-SkinArt_CerberusS2_Infinite_Overseer_-_Dark_Void.png?ec8d9",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -4145,7 +4145,7 @@
           "attack_range": "Ranged",
           "lore": "Charon, Ferryman of the Styx, is the unwavering guardian of the threshold between life and death. For a single coin he guides souls across the shadowed waters, neither judge nor executioner, but a steadfast keeper of ancient laws. Those who honor the rites find in him a silent protector; those who defy them face his relentless wrath. As the underworld trembles and lost spirits wander, Charon leaves his familiar shores to restore order to the river of the dead. Those drawn to Charon command space and control the battlefield, enforcing boundaries, shielding allies, and punishing any who dare cross the line without paying the toll.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:19Z",
+          "scraped_at": "2026-04-06T05:20:54Z",
           "skins": {
             "charon-charon": {
               "id": "charon-charon",
@@ -5193,7 +5193,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-03T05:02:04Z",
+          "scraped_at": "2026-04-06T05:21:00Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5266,7 +5266,7 @@
           "attack_range": "Ranged",
           "lore": "There are few elements as destructive or as purifying as fire. Agni, God of Fire, embodies both of these qualities, with a head for each.\n\nThough the source of his origin warrants debate - for there are many tales of his parentage ranging from two simple sticks rubbed together to the cosmic energy that made all things at the beginning of time - Agni is a pivotal and important God with many duties to the Pantheon. He is the twin brother to Indra, God of the Heavens and Rains, and chief among warriors. Conversely, Agni is chief among priests, acting as a messenger between mortals and gods. Every Hindu ritual and prayer is performed in front of a fire of some kind, so Agni carries the words and sacrifices, traveling between the Earth and the Heavens. He is welcome in every home and every hearth and much beloved by the Faithful.\n\nThrough his flames, Agni provides heat and light but also cleanses impurities. Smoke from his pyres creates the air and holds the Heavens aloft. The sun, a source of fire itself, brings life-giving energy to the world, and his lightning streaks the sky during storms.\n\nFor all his kindness and service, Agni has two faces. One is the face of kindness and purity, turned towards the people and Gods. His other face, grim and resolute, guides the God of Fire to play his role in the cosmic cycle of creation and destruction, to burn and blacken all the atrocities of the world to ash.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:35Z",
+          "scraped_at": "2026-04-06T05:21:02Z",
           "skins": {
             "agni-agni": {
               "id": "agni-agni",
@@ -5379,8 +5379,8 @@
             "agni-solar-nebula": {
               "id": "agni-solar-nebula",
               "name": "Solar Nebula",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AgniS2_Infinite_Duality_-_Solar_Nebula.png?8df8b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AgniS2_Infinite_Duality_-_Solar_Nebula.png/20px-SkinArt_AgniS2_Infinite_Duality_-_Solar_Nebula.png?8df8b",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5407,7 +5407,7 @@
           "attack_range": "Melee",
           "lore": "Ganesha, the Elephant-Headed Remover of Obstacles, brings wisdom, prosperity, and clarity to his followers. His devotees, from merchants seeking fortune to students striving for knowledge, honour him before new endeavours. With a generous heart, Ganesha clears paths for the diligent and honest while humbling the arrogant. Reluctantly taking up arms, he now enters the battleground of the gods to determine who is worthy to remain.\n\nOn the field, Ganesha protects his allies and disrupts foes, embodying strategic support and unwavering resolve as he determines which paths shall be opened and which shall remain closed.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:36Z",
+          "scraped_at": "2026-04-06T05:21:04Z",
           "skins": {
             "ganesha-ganesha": {
               "id": "ganesha-ganesha",
@@ -5472,8 +5472,8 @@
             "ganesha-plushie": {
               "id": "ganesha-plushie",
               "name": "Plushie",
-              "card_art_url": "https://wiki.smite2.com/images/Plushie_Ganesha.png?9d2ef",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Plushie_Ganesha.png/20px-Plushie_Ganesha.png?9d2ef",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie.png?17692",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie.png/20px-SkinArt_GaneshaS2_Plushie.png?17692",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -5484,8 +5484,8 @@
             "ganesha-cursed-doll": {
               "id": "ganesha-cursed-doll",
               "name": "Cursed Doll",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Cursed_Doll.png?274c0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Cursed_Doll.png/20px-SkinArt_GaneshaS2_Plushie_-_Cursed_Doll.png?274c0",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5496,8 +5496,8 @@
             "ganesha-yellow": {
               "id": "ganesha-yellow",
               "name": "Yellow",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Yellow.png?9c063",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Yellow.png/20px-SkinArt_GaneshaS2_Plushie_-_Yellow.png?9c063",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Yellow.png?eeb02",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Yellow.png/20px-SkinArt_GaneshaS2_Plushie_-_Yellow.png?eeb02",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5508,8 +5508,8 @@
             "ganesha-red": {
               "id": "ganesha-red",
               "name": "Red",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Red.png?31d03",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Red.png/20px-SkinArt_GaneshaS2_Plushie_-_Red.png?31d03",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Red.png?e476a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Red.png/20px-SkinArt_GaneshaS2_Plushie_-_Red.png?e476a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5520,8 +5520,8 @@
             "ganesha-green": {
               "id": "ganesha-green",
               "name": "Green",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Green.png?ef6bf",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Green.png/20px-SkinArt_GaneshaS2_Plushie_-_Green.png?ef6bf",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Green.png?5bed9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Green.png/20px-SkinArt_GaneshaS2_Plushie_-_Green.png?5bed9",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5532,8 +5532,8 @@
             "ganesha-orange": {
               "id": "ganesha-orange",
               "name": "Orange",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Orange.png?7c992",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Orange.png/20px-SkinArt_GaneshaS2_Plushie_-_Orange.png?7c992",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Orange.png?099b0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Orange.png/20px-SkinArt_GaneshaS2_Plushie_-_Orange.png?099b0",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5544,8 +5544,8 @@
             "ganesha-violet": {
               "id": "ganesha-violet",
               "name": "Violet",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Violet.png?de379",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Violet.png/20px-SkinArt_GaneshaS2_Plushie_-_Violet.png?de379",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Violet.png?9b47a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Violet.png/20px-SkinArt_GaneshaS2_Plushie_-_Violet.png?9b47a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5556,8 +5556,8 @@
             "ganesha-indigo": {
               "id": "ganesha-indigo",
               "name": "Indigo",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Indigo.png?76707",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Indigo.png/20px-SkinArt_GaneshaS2_Plushie_-_Indigo.png?76707",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Indigo.png?f909f",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Indigo.png/20px-SkinArt_GaneshaS2_Plushie_-_Indigo.png?f909f",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -5568,8 +5568,8 @@
             "ganesha-monochrome": {
               "id": "ganesha-monochrome",
               "name": "Monochrome",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_Plushie_-_Monochrome.png?c8603",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_Plushie_-_Monochrome.png/20px-SkinArt_GaneshaS2_Plushie_-_Monochrome.png?c8603",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -6553,7 +6553,7 @@
           "attack_range": "Melee",
           "lore": "Pale white shines the light from her sentinel high above Earth. She watches, the eye that pierces shadow, and listens with the ears of birds and beasts that use the darkness to hunt and revel. As Queen of the Night, she is known; the Goddess of the Moon, Awilix.They say the sun is her lover, and from his light does she shine, but those that say so have never beheld her. Left unrestrained, the sun burns skin, scorches the land, blinds the eyes. Moonlight does no such thing. Like soft white petals it blankets the night, casting the world into mystical illumination. Never has it brought calamity or ruin, only the chance to see where once there was none. She is no different. Her mysterious radiance needs no other to shine.\n\nThese days, the night is less welcoming. Those loyal followers, the jaguars, whose whispered roars bellow into the silence of her domain, prowl at her command. While it is, no doubt, beyond the understanding of mortals, the very moonlight is threatened. A war unlike any before it would end all things. For once that pale white will glimmer on the ugliness of bloodshed, for the night belongs to Awilix.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:51Z",
+          "scraped_at": "2026-04-06T05:21:11Z",
           "skins": {
             "awilix-awilix": {
               "id": "awilix-awilix",
@@ -6618,8 +6618,8 @@
             "awilix-feline-fashion": {
               "id": "awilix-feline-fashion",
               "name": "Feline Fashion",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AwilixS2_FelineFashion.png?c8e92",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AwilixS2_FelineFashion.png/20px-SkinArt_AwilixS2_FelineFashion.png?c8e92",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AwilixS2_FelineFashion.png?333fc",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AwilixS2_FelineFashion.png/20px-SkinArt_AwilixS2_FelineFashion.png?333fc",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -6666,8 +6666,8 @@
             "awilix-spectral-stripes": {
               "id": "awilix-spectral-stripes",
               "name": "Spectral Stripes",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AwilixS2_Feline_Fashion_-_Spectral_Stripes.png?759be",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AwilixS2_Feline_Fashion_-_Spectral_Stripes.png/20px-SkinArt_AwilixS2_Feline_Fashion_-_Spectral_Stripes.png?759be",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -6895,115 +6895,163 @@
           "attack_range": "Melee",
           "lore": "Rain is life. Showers from above soak the earth, feeding seeds which grow into precious fruits and grains. Man and beast alike are sustained by this cycle. Without rain, this world would be barren and all living things would turn to dust. Thus is the power of Chaac, God of Rain. But, like all great power, it did not come without cost. In mankind’s earliest days there were no farmers, so they starved beneath the sun. For days, Chaac sought a way to feed them. Deep in the mountains he discovered a golden boulder and cleft it with his mighty axe. Within was Maize, the crop that would change the Maya people forever, and Chaac was worshipped and adored for it. Drunk with pride, Chaac sought the object of his deepest desire, the wife of his brother. For a time, their affair remained secret, but that was not to last. \n\nChaac’s brother, the Sun God, discovered them. Without a word, she dutifully returned to her husband and Chaac, realizing what he had done, let her go, but a rift formed between the two brothers that would never heal. In his grief, Chaac drove his axe into the sky, and from the wound tears of regret fell. Since then, Chaac has chosen a life free of pride and selfishness, devoting himself only to mankind. As a reminder of his greatest failing, he continues to cleave the heavens, washing the land in sustaining waters. Thus do crops grow. Thus do the people survive. Thus is the power of Chaac, God of Rain.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:54Z",
+          "scraped_at": "2026-04-06T05:21:13Z",
           "skins": {
             "chaac-chaac": {
               "id": "chaac-chaac",
               "name": "Chaac",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Chaac.png?381d1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Chaac.png/20px-GodCard_Chaac.png?381d1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Default.png?e145e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Default.png/20px-SkinArt_ChaacS2_Default.png?e145e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-infernal-mace": {
               "id": "chaac-infernal-mace",
               "name": "Infernal Mace",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_FallenArbiter.jpg?1622d",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_FallenArbiter.jpg/20px-SkinArt_ChaacS2_FallenArbiter.jpg?1622d",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Infernal_Mace.png?9c483",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Infernal_Mace.png/20px-SkinArt_ChaacS2_Infernal_Mace.png?9c483",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legacy",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-charred-soul": {
               "id": "chaac-charred-soul",
               "name": "Charred Soul",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_CharredSoul.jpg?ec8b5",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_CharredSoul.jpg/20px-SkinArt_ChaacS2_CharredSoul.jpg?ec8b5",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Charred_Soul.png?1f912",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Charred_Soul.png/20px-SkinArt_ChaacS2_Charred_Soul.png?1f912",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "August 27, 2024",
               "parent_skin_id": null
             },
             "chaac-deaths-rain": {
               "id": "chaac-deaths-rain",
               "name": "Death's Rain",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_DeathsRain.jpg?7afaa",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_DeathsRain.jpg/20px-SkinArt_ChaacS2_DeathsRain.jpg?7afaa",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Death%27s_Rain.png?74672",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Death%27s_Rain.png/20px-SkinArt_ChaacS2_Death%27s_Rain.png?74672",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-slaughterhouse": {
               "id": "chaac-slaughterhouse",
               "name": "Slaughterhouse",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse.png?ba070",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse.png/20px-SkinArt_ChaacS2_Slaughterhouse.png?ba070",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse.png?b62a1",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse.png/20px-SkinArt_ChaacS2_Slaughterhouse.png?b62a1",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "October 7, 2025",
               "parent_skin_id": null
             },
             "chaac-shadow-chaac": {
               "id": "chaac-shadow-chaac",
               "name": "Shadow Chaac",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Chaac.png?381d1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Chaac.png/20px-GodCard_Chaac.png?381d1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Default.png?e145e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Default.png/20px-SkinArt_ChaacS2_Default.png?e145e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-onyx-chaac": {
               "id": "chaac-onyx-chaac",
               "name": "Onyx Chaac",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Chaac.png?381d1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Chaac.png/20px-GodCard_Chaac.png?381d1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Default.png?e145e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Default.png/20px-SkinArt_ChaacS2_Default.png?e145e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-opal-chaac": {
               "id": "chaac-opal-chaac",
               "name": "Opal Chaac",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Chaac.png?381d1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Chaac.png/20px-GodCard_Chaac.png?381d1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Default.png?e145e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Default.png/20px-SkinArt_ChaacS2_Default.png?e145e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
             },
             "chaac-radiant-chaac": {
               "id": "chaac-radiant-chaac",
               "name": "Radiant Chaac",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Chaac.png?381d1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Chaac.png/20px-GodCard_Chaac.png?381d1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Default.png?e145e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Default.png/20px-SkinArt_ChaacS2_Default.png?e145e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "May 2, 2024",
               "parent_skin_id": null
+            },
+            "chaac-smiley-time": {
+              "id": "chaac-smiley-time",
+              "name": "Smiley Time",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse_-_Smiley_Time.png?e5a92",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse_-_Smiley_Time.png/20px-SkinArt_ChaacS2_Slaughterhouse_-_Smiley_Time.png?e5a92",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 7, 2025",
+              "parent_skin_id": "chaac-slaughterhouse"
+            },
+            "chaac-infernal-rider": {
+              "id": "chaac-infernal-rider",
+              "name": "Infernal Rider",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse_-_Infernal_Rider.png?98db7",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse_-_Infernal_Rider.png/20px-SkinArt_ChaacS2_Slaughterhouse_-_Infernal_Rider.png?98db7",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 7, 2025",
+              "parent_skin_id": "chaac-slaughterhouse"
+            },
+            "chaac-carnival-carnage": {
+              "id": "chaac-carnival-carnage",
+              "name": "Carnival Carnage",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse_-_Carnival_Carnage.png?aae91",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse_-_Carnival_Carnage.png/20px-SkinArt_ChaacS2_Slaughterhouse_-_Carnival_Carnage.png?aae91",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 7, 2025",
+              "parent_skin_id": "chaac-slaughterhouse"
+            },
+            "chaac-gilded-gore": {
+              "id": "chaac-gilded-gore",
+              "name": "Gilded Gore",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChaacS2_Slaughterhouse_-_Gilded_Gore.png?58af8",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChaacS2_Slaughterhouse_-_Gilded_Gore.png/20px-SkinArt_ChaacS2_Slaughterhouse_-_Gilded_Gore.png?58af8",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 7, 2025",
+              "parent_skin_id": "chaac-slaughterhouse"
             }
           }
         },
@@ -7512,7 +7560,7 @@
           "attack_range": "Ranged",
           "lore": "Jormungandr, the World Serpent, is the prophesied herald of Ragnarok, massive enough to encircle Midgard and poison the sky. Born of Loki, he is doom made flesh, destined to clash with Thor in a final battle that will shake the cosmos. Worshiped by cults who revere the end of all things, he is a force of destruction beyond gods or mortals. Players drawn to overwhelming area control and relentless pressure will revel in Jormungandr's presence. When the trumpets of Ragnarok sound, he rises, not to conquer, but to end.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:02Z",
+          "scraped_at": "2026-04-06T05:21:17Z",
           "skins": {
             "jormungandr-jormungandr": {
               "id": "jormungandr-jormungandr",
@@ -7577,8 +7625,8 @@
             "jormungandr-world-kitty": {
               "id": "jormungandr-world-kitty",
               "name": "World Kitty",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_JormungandrS2_WorldKitty.png?b64f6",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_JormungandrS2_WorldKitty.png/20px-SkinArt_JormungandrS2_WorldKitty.png?b64f6",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_JormungandrS2_WorldKitty.png?b073a",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_JormungandrS2_WorldKitty.png/20px-SkinArt_JormungandrS2_WorldKitty.png?b073a",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -7589,8 +7637,8 @@
             "jormungandr-baron": {
               "id": "jormungandr-baron",
               "name": "Baron",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?4860c",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?4860c",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?e664e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Baron.png?e664e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -7601,8 +7649,8 @@
             "jormungandr-ginger": {
               "id": "jormungandr-ginger",
               "name": "Ginger",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?2f8e3",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?2f8e3",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?ac8da",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Ginger.png?ac8da",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -7613,8 +7661,8 @@
             "jormungandr-dipper": {
               "id": "jormungandr-dipper",
               "name": "Dipper",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_JormungandrS2_World_Kitty_-_Dipper.png?1d671",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_JormungandrS2_World_Kitty_-_Dipper.png/20px-SkinArt_JormungandrS2_World_Kitty_-_Dipper.png?1d671",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -7625,8 +7673,8 @@
             "jormungandr-snowball": {
               "id": "jormungandr-snowball",
               "name": "Snowball",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?07f5a",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?07f5a",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?5ae13",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png/20px-SkinArt_Jormungandr_S2_WorldKitty_-_Snowball.png?5ae13",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -7935,7 +7983,7 @@
           "attack_range": "Ranged",
           "lore": "Sol and her brother came into this world radiant, glorious beings. So enamored with them, their father arrogantly named each after a sacred heavenly body, he for the moon and she, the sun. As they grew, each child proved their namesake. Mani, of the moon, was contemplative, obedient, calm. Sol, conversely, became willful, spirited, passionate. His children were everything a father could dream, but Odin and his ilk were not pleased. For a father's hubris, Mani and Sol were punished. To the sky, they were sent, each to lead the chariot that dragged the sun or the moon. At their heels were loosed the bloodthirsty sons of Fenrir. Hungry wolves, relentless in pursuit of their prey. Resigned, Mani guided his steeds through the night, ever ahead of his hunter, but Sol did not accept her fate. Furious at the Gods, she taunts and challenges the wolf Skoll as she blazes across the sky, unleashing her spite on the only opponent she can reach. \n\nOdin has never shown signs of regret for his decision, but now war is upon the land. His attentions are turned. Sol, normally confined to her chariot has found a way to send her flaming essence to the battlefield. To the casual observer, the combat, the bloodshed, may all seem just a game to Sol, but she is driven by an age old grudge and a desire to be free.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:06Z",
+          "scraped_at": "2026-04-06T05:21:20Z",
           "skins": {
             "sol-sol": {
               "id": "sol-sol",
@@ -8072,8 +8120,8 @@
             "sol-vampiress": {
               "id": "sol-vampiress",
               "name": "Vampiress",
-              "card_art_url": "https://wiki.smite2.com/images/Vampiress_Sol.png?c2ed9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Vampiress_Sol.png/20px-Vampiress_Sol.png?c2ed9",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress.png?aaba7",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress.png/20px-SkinArt_SolS2_Vampiress.png?aaba7",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
@@ -8084,8 +8132,8 @@
             "sol-moonlit-mistress": {
               "id": "sol-moonlit-mistress",
               "name": "Moonlit Mistress",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?96a19",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png/20px-SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?96a19",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?c5d12",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_MoonlitMistress.png/20px-SkinArt_SolS2_Vampiress_-_MoonlitMistress.png?c5d12",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8096,8 +8144,8 @@
             "sol-blood-rose": {
               "id": "sol-blood-rose",
               "name": "Blood Rose",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_BloodRose.png?639af",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_BloodRose.png/20px-SkinArt_SolS2_Vampiress_-_BloodRose.png?639af",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_BloodRose.png?9ca1e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_BloodRose.png/20px-SkinArt_SolS2_Vampiress_-_BloodRose.png?9ca1e",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8108,8 +8156,8 @@
             "sol-ultraviolent": {
               "id": "sol-ultraviolent",
               "name": "Ultraviolent",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_Ultraviolent.png?2fc7d",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_Ultraviolent.png/20px-SkinArt_SolS2_Vampiress_-_Ultraviolent.png?2fc7d",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_Ultraviolent.png?39571",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_Ultraviolent.png/20px-SkinArt_SolS2_Vampiress_-_Ultraviolent.png?39571",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8120,8 +8168,8 @@
             "sol-twilight-glimmer": {
               "id": "sol-twilight-glimmer",
               "name": "Twilight Glimmer",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_SolS2_Vampiress_-_Twilight_Glimmer.png?02a34",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_SolS2_Vampiress_-_Twilight_Glimmer.png/20px-SkinArt_SolS2_Vampiress_-_Twilight_Glimmer.png?02a34",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8497,7 +8545,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-03T05:02:19Z",
+          "scraped_at": "2026-04-06T05:21:23Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
@@ -8778,7 +8826,7 @@
           "attack_range": "Melee",
           "lore": "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshipers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshipers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. \n\n\"March on Rome,\" Bellona quietly urged, \"and you shall rise as no other. \"Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:16Z",
+          "scraped_at": "2026-04-06T05:21:26Z",
           "skins": {
             "bellona-bellona": {
               "id": "bellona-bellona",
@@ -8843,8 +8891,8 @@
             "bellona-miss-senshi": {
               "id": "bellona-miss-senshi",
               "name": "Miss Senshi",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_Bellona_MissSenshi.jpg?23e08",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_Bellona_MissSenshi.jpg/20px-SkinArt_Bellona_MissSenshi.jpg?23e08",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_BellonaS2_Miss_Senshi.png?2258d",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_BellonaS2_Miss_Senshi.png/20px-SkinArt_BellonaS2_Miss_Senshi.png?2258d",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -8855,8 +8903,8 @@
             "bellona-neowave": {
               "id": "bellona-neowave",
               "name": "Neowave",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_BellonaS2_Miss_Senshi_-_Neowave.png?1e8e5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_BellonaS2_Miss_Senshi_-_Neowave.png/20px-SkinArt_BellonaS2_Miss_Senshi_-_Neowave.png?1e8e5",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8867,8 +8915,8 @@
             "bellona-golden-grad": {
               "id": "bellona-golden-grad",
               "name": "Golden Grad",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_BellonaS2_Miss_Senshi_-_Golden_Grad.png?594bd",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_BellonaS2_Miss_Senshi_-_Golden_Grad.png/20px-SkinArt_BellonaS2_Miss_Senshi_-_Golden_Grad.png?594bd",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -8879,8 +8927,8 @@
             "bellona-varsity": {
               "id": "bellona-varsity",
               "name": "Varsity",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_BellonaS2_Miss_Senshi_-_Varsity.png?9bc16",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_BellonaS2_Miss_Senshi_-_Varsity.png/20px-SkinArt_BellonaS2_Miss_Senshi_-_Varsity.png?9bc16",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Prism",
@@ -10055,7 +10103,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-03T05:02:28Z",
+          "scraped_at": "2026-04-06T05:21:32Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10086,7 +10134,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-03T05:02:29Z",
+          "scraped_at": "2026-04-06T05:21:33Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
