@@ -1,12 +1,12 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-06T05:21:33Z",
+    "generated_at": "2026-04-08T05:09:14Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
       "total_gods": 85,
-      "total_skins": 687
+      "total_skins": 709
     }
   },
   "pantheons": {
@@ -328,9 +328,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Gilgamesh, the two-thirds divine King of Uruk, is both hero and tyrant, his story a blend of arrogance and redemption. Worshiped by adventurers and rulers alike, his name is synonymous with strength and relentless ambition. From his friendship with Enkidu to his quest for immortality, Gilgamesh has battled monsters and toppled kings, carving his legend across the sands of time. Now, as Tiamat rises, Gilgamesh seeks to unite the gods against her, hoping that victory might finally grant him the divine recognition he craves. On the battefield, he combines raw power with indomitable determination, a relentless force driven by destiny.",
+          "lore": "Gilgamesh, the two-thirds divine King of Uruk, is both hero and tyrant, his story a blend of arrogance and redemption. Worshiped by adventurers and rulers alike, his name is synonymous with strength and relentless ambition. From his friendship with Enkidu to his quest for immortality, Gilgamesh has battled monsters and toppled kings, carving his legend across the sands of time. Now, as Tiamat rises, Gilgamesh seeks to unite the gods against her, hoping that victory might finally grant him the divine recognition he craves. On the battlefield, he combines raw power with indomitable determination, a relentless force driven by destiny.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:24Z",
+          "scraped_at": "2026-04-08T05:08:06Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-06T05:20:25Z",
+          "scraped_at": "2026-04-08T05:08:07Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -450,7 +450,7 @@
           "attack_range": "Both",
           "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature's strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-03-23T05:00:21Z",
+          "scraped_at": "2026-04-08T05:08:09Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -559,6 +559,18 @@
               "obtain_method": "Event",
               "release_date": "March 24, 2026",
               "parent_skin_id": "artio-fiend-hunter"
+            },
+            "artio-den-mother": {
+              "id": "artio-den-mother",
+              "name": "Den Mother",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ArtioS2_DenMother.png?cea22",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ArtioS2_DenMother.png/20px-SkinArt_ArtioS2_DenMother.png?cea22",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Event",
+              "release_date": "April 11, 2026",
+              "parent_skin_id": null
             }
           }
         },
@@ -1820,7 +1832,7 @@
           "attack_range": "Ranged",
           "lore": "Jackal-headed Anubis holds the ultimate judgment over the dead, measuring every heart against the weight of Truth. Nephthys, wife of Set - the God of Darkness, desired a child, yet her husband was infertile, so Nephthys disguised herself as Eset, the wife of Set’s brother Osiris, and seduced him. From that union, Anubis was born. Osiris cared for Anubis as his own, but when Osiris was murdered by his evil brother, Set, Anubis embalmed his adopted father and mummified the corpse so he would not rot. This preservation passed down to the Faithful, for if it was good enough for the Gods, it was good enough for man. None enter the abyss of the Underworld without first being tested by Anubis. When corpses are preserved, he is the embalmer. When time for judgment comes, he is the final arbiter. \n\nIn his realm, he keeps legendary weighing scales. On one side, the massive weight of Ma’at – truth and order. On the other side, he places the heart of the deceased. Should the weight of Ma’at prove infinitely heavier than that of the heart, Anubis casts the soul deep into the darkness of the Underworld, where it is forgotten, never to be reborn.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:34Z",
+          "scraped_at": "2026-04-08T05:08:17Z",
           "skins": {
             "anubis-anubis": {
               "id": "anubis-anubis",
@@ -3095,7 +3107,7 @@
           "attack_range": "Ranged",
           "lore": "There are too few words to describe the radiance, the magnificence, the inequitable glory of Aphrodite, Goddess of Beauty. So wondrous is she to behold that one look can inspire tears, desire, jealousy, and love. Yet, beneath her flawless exterior resides a heart burdened with insecurity.\n\nInattentive and hideous to look upon, her husband, Hephaestus, unknowingly leaves Aphrodite feeling lonely and worthless. She finds consolation in the arms of other men such as Ares, or validation by competing in any contest of beauty she encounters.\n\nAt a wedding attended by all the Gods, a golden apple appeared, inscribed with the words \"to the fairest.\" Immediately Aphrodite, her mother Hera, and sister Athena quarreled over it. Zeus elected Paris, Prince of Troy, to choose a victor. In exchange for being named the fairest, Aphrodite offered any woman in the world as his wife, so Paris agreed. However, he chose Helen as his wife, and their love began the catastrophic Trojan War.\n\nNow, a new war brews, but this one between Gods, not men. While the battlefield is no place for the fairest of all, Aphrodite recalls the destruction between the Greeks and Trojans. Perhaps, this time, her beauty can be used to stop a war instead of start one. Perhaps, this time, she will discover the beauty within.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:45Z",
+          "scraped_at": "2026-04-08T05:08:23Z",
           "skins": {
             "aphrodite-aphrodite": {
               "id": "aphrodite-aphrodite",
@@ -3280,8 +3292,8 @@
             "aphrodite-kissmexoxo": {
               "id": "aphrodite-kissmexoxo",
               "name": "KissMeXOXO",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_KissMeXOXO.png?32cb9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_KissMeXOXO.png/20px-SkinArt_AphroditeS2_KissMeXOXO.png?32cb9",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AphroditeS2_KissMeXOXO.png?93ce3",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AphroditeS2_KissMeXOXO.png/20px-SkinArt_AphroditeS2_KissMeXOXO.png?93ce3",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -4646,7 +4658,7 @@
           "attack_range": "Melee",
           "lore": "Of arrogance and pride, the Greeks have but one word: hubris. It is a crime against Gods and Men, but a crime many commit with impunity. Even mighty Zeus is guilty. But when punishment is due, there is one from whom even the God of Thunder shrinks. She is Nemesis, the red-washed blade of Divine Retribution.\n\nRecall the tale of Narcissus, so taken by his own beauty. Proudly, his visage was flaunted, to the detriment of all. Until, at last, he was led to a pond of crystal hue where his own reflection enraptured him. So long did he remain to gaze upon this self-image that hunger claimed his life. Thus does Nemesis respond to hubris. It is consequence equal to the crime.\n\nNow, behold the war torn land, beset by the wrath of wanton Gods filling the air with blood and boasts. This battlefield is stained with hubris. Unwittingly, these foolish warriors have summoned their greatest adversary. Nemesis has come!\n\nNo longer will foul deeds engender success, no hoard of wealth held in undeserving hands, no legends told when falsely earned. Nemesis will unleash a tide of retribution. Punishment for the crime of hubris is death.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:27Z",
+          "scraped_at": "2026-04-08T05:08:31Z",
           "skins": {
             "nemesis-nemesis": {
               "id": "nemesis-nemesis",
@@ -4657,31 +4669,31 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "November 12, 2024",
               "parent_skin_id": null
             },
             "nemesis-blind-vengeance": {
               "id": "nemesis-blind-vengeance",
               "name": "Blind Vengeance",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance.png?1f885",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance.png/20px-SkinArt_NemesisS2_BlindVengeance.png?1f885",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance.png?3b2d5",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance.png/20px-SkinArt_NemesisS2_BlindVengeance.png?3b2d5",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "January 13, 2026",
               "parent_skin_id": null
             },
             "nemesis-vixen": {
               "id": "nemesis-vixen",
               "name": "Vixen",
-              "card_art_url": "https://wiki.smite2.com/images/Vixen_Nemesis.jpg?13fbc",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Vixen_Nemesis.jpg/20px-Vixen_Nemesis.jpg?13fbc",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_Vixen.png?f33a9",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_Vixen.png/20px-SkinArt_NemesisS2_Vixen.png?f33a9",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "February 10, 2025",
               "parent_skin_id": null
             },
             "nemesis-shadow-nemesis": {
@@ -4693,7 +4705,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 12, 2024",
               "parent_skin_id": null
             },
             "nemesis-onyx-nemesis": {
@@ -4705,7 +4717,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 12, 2024",
               "parent_skin_id": null
             },
             "nemesis-opal-nemesis": {
@@ -4717,7 +4729,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 12, 2024",
               "parent_skin_id": null
             },
             "nemesis-radiant-nemesis": {
@@ -4729,8 +4741,56 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 12, 2024",
               "parent_skin_id": null
+            },
+            "nemesis-urban-assassin": {
+              "id": "nemesis-urban-assassin",
+              "name": "Urban Assassin",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance_-_UrbanAssassin.png?b18de",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance_-_UrbanAssassin.png/20px-SkinArt_NemesisS2_BlindVengeance_-_UrbanAssassin.png?b18de",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "January 13, 2026",
+              "parent_skin_id": "nemesis-blind-vengeance"
+            },
+            "nemesis-night-sky": {
+              "id": "nemesis-night-sky",
+              "name": "Night Sky",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance_-_NightSky.png?4b6ec",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance_-_NightSky.png/20px-SkinArt_NemesisS2_BlindVengeance_-_NightSky.png?4b6ec",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "January 13, 2026",
+              "parent_skin_id": "nemesis-blind-vengeance"
+            },
+            "nemesis-crimson-flame": {
+              "id": "nemesis-crimson-flame",
+              "name": "Crimson Flame",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance_-_CrimsonFlame.png?6393c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance_-_CrimsonFlame.png/20px-SkinArt_NemesisS2_BlindVengeance_-_CrimsonFlame.png?6393c",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "January 13, 2026",
+              "parent_skin_id": "nemesis-blind-vengeance"
+            },
+            "nemesis-shadow-oni": {
+              "id": "nemesis-shadow-oni",
+              "name": "Shadow Oni",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_NemesisS2_BlindVengeance_-_ShadowOni.png?79125",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_NemesisS2_BlindVengeance_-_ShadowOni.png/20px-SkinArt_NemesisS2_BlindVengeance_-_ShadowOni.png?79125",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "DirectPurchase",
+              "release_date": null,
+              "parent_skin_id": "nemesis-blind-vengeance"
             }
           }
         },
@@ -4751,7 +4811,7 @@
           "attack_range": "Ranged",
           "lore": "Deep beneath the turbulent tides of the ocean lingers a God of idle rage. What must it be like to live forever in the shadow of your brother? To be denied again and again that which you desire, despite the power of the wrathful seas at your command? So Poseidon broods on his throne at the ocean floor.\n\nAs a child, Poseidon and his brother, Hades, were consumed by their father, Cronus. Powerless to escape, it was left to mighty Zeus to free them and slay their patron. Together, they defeated the last of the Titans and ushered in a new age of dominance for Olympian Gods, but their freedom, their very lives, Zeus would never let either brother forget were owed to him. Even as the heavens, the underworld, and the seas were divided among them, Zeus positioned himself as king of all, and what was Poseidon to do but be thankful he had been spared a fate in his father's belly? So he retired to his new realm and began the pursuit of gathering worshippers.\n\nSoon rose a great ocean front city of mankind, and Poseidon presented himself as their God, but another had already come, Athena, Zeus' daughter. A competition was held – each God would offer a gift and the people would select their sponsor. Confident, Poseidon drove his Trident, a trophy from the battle against the Titans, into the ground and a limitless spring emerged, but the people found the water salty and undrinkable. Athena extended her hand and a graceful olive tree rose from the earth. Wood, food, and oil, all from one gift. The people decided and the city was called Athens.\n\nIt may be that Poseidon never desired greatness as Zeus did. Had his father never consumed him, had he never been made God of the Sea, had his brother never crowned himself King of the Gods, Poseidon might have lived contentedly, but that chance is gone. Now, with the very tides at his command, an army of sea beasts at his back, and the formidable Kraken at his call, the glowering God of the deep seeks to quench his thirsty rage and plunge all the world in endless, wrathful seas.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:28Z",
+          "scraped_at": "2026-04-08T05:08:33Z",
           "skins": {
             "poseidon-poseidon": {
               "id": "poseidon-poseidon",
@@ -4762,7 +4822,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "poseidon-phantom-seas": {
@@ -4786,7 +4846,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "February 10, 2025",
               "parent_skin_id": null
             },
             "poseidon-shadow-poseidon": {
@@ -4798,7 +4858,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "poseidon-onyx-poseidon": {
@@ -4810,7 +4870,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "poseidon-opal-poseidon": {
@@ -4822,7 +4882,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "poseidon-radiant-poseidon": {
@@ -4834,8 +4894,68 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
+            },
+            "poseidon-crimson-kraken": {
+              "id": "poseidon-crimson-kraken",
+              "name": "Crimson Kraken",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_PoseidonS2_CrimsonKraken.png?d58a7",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_PoseidonS2_CrimsonKraken.png/20px-SkinArt_PoseidonS2_CrimsonKraken.png?d58a7",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "poseidon-black-spectre": {
+              "id": "poseidon-black-spectre",
+              "name": "Black Spectre",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_PoseidonS2_CrimsonKraken_-_BlackSpectre.png?2a91d",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_PoseidonS2_CrimsonKraken_-_BlackSpectre.png/20px-SkinArt_PoseidonS2_CrimsonKraken_-_BlackSpectre.png?2a91d",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "poseidon-crimson-kraken"
+            },
+            "poseidon-hyper-vice": {
+              "id": "poseidon-hyper-vice",
+              "name": "Hyper Vice",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_PoseidonS2_CrimsonKraken_-_HyperVice.png?2c7f1",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_PoseidonS2_CrimsonKraken_-_HyperVice.png/20px-SkinArt_PoseidonS2_CrimsonKraken_-_HyperVice.png?2c7f1",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "poseidon-crimson-kraken"
+            },
+            "poseidon-grand-syndicate": {
+              "id": "poseidon-grand-syndicate",
+              "name": "Grand Syndicate",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_PoseidonS2_CrimsonKraken_-_GrandSyndicate.png?799df",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_PoseidonS2_CrimsonKraken_-_GrandSyndicate.png/20px-SkinArt_PoseidonS2_CrimsonKraken_-_GrandSyndicate.png?799df",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "poseidon-crimson-kraken"
+            },
+            "poseidon-venom-cartel": {
+              "id": "poseidon-venom-cartel",
+              "name": "Venom Cartel",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_PoseidonS2_CrimsonKraken_-_VenomCartel.png?df244",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_PoseidonS2_CrimsonKraken_-_VenomCartel.png/20px-SkinArt_PoseidonS2_CrimsonKraken_-_VenomCartel.png?df244",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "poseidon-crimson-kraken"
             }
           }
         },
@@ -4856,7 +4976,7 @@
           "attack_range": "Ranged",
           "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorised sailors for centuries. Legends say she was either a cursed naiad or born of gods' envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity. \n\nScylla embodies primal hunger and relentless destruction. Now freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
           "unreleased": false,
-          "scraped_at": "2026-04-03T05:02:02Z",
+          "scraped_at": "2026-04-08T05:08:35Z",
           "skins": {
             "scylla-scylla": {
               "id": "scylla-scylla",
@@ -5193,7 +5313,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-06T05:21:00Z",
+          "scraped_at": "2026-04-08T05:08:37Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5225,8 +5345,8 @@
           "scaling": "100% Strength + 30% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
           "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
-          "unreleased": false,
-          "scraped_at": "2026-04-03T05:02:06Z",
+          "unreleased": true,
+          "scraped_at": "2026-04-08T05:08:38Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -5266,7 +5386,7 @@
           "attack_range": "Ranged",
           "lore": "There are few elements as destructive or as purifying as fire. Agni, God of Fire, embodies both of these qualities, with a head for each.\n\nThough the source of his origin warrants debate - for there are many tales of his parentage ranging from two simple sticks rubbed together to the cosmic energy that made all things at the beginning of time - Agni is a pivotal and important God with many duties to the Pantheon. He is the twin brother to Indra, God of the Heavens and Rains, and chief among warriors. Conversely, Agni is chief among priests, acting as a messenger between mortals and gods. Every Hindu ritual and prayer is performed in front of a fire of some kind, so Agni carries the words and sacrifices, traveling between the Earth and the Heavens. He is welcome in every home and every hearth and much beloved by the Faithful.\n\nThrough his flames, Agni provides heat and light but also cleanses impurities. Smoke from his pyres creates the air and holds the Heavens aloft. The sun, a source of fire itself, brings life-giving energy to the world, and his lightning streaks the sky during storms.\n\nFor all his kindness and service, Agni has two faces. One is the face of kindness and purity, turned towards the people and Gods. His other face, grim and resolute, guides the God of Fire to play his role in the cosmic cycle of creation and destruction, to burn and blacken all the atrocities of the world to ash.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:02Z",
+          "scraped_at": "2026-04-08T05:08:40Z",
           "skins": {
             "agni-agni": {
               "id": "agni-agni",
@@ -5407,7 +5527,7 @@
           "attack_range": "Melee",
           "lore": "Ganesha, the Elephant-Headed Remover of Obstacles, brings wisdom, prosperity, and clarity to his followers. His devotees, from merchants seeking fortune to students striving for knowledge, honour him before new endeavours. With a generous heart, Ganesha clears paths for the diligent and honest while humbling the arrogant. Reluctantly taking up arms, he now enters the battleground of the gods to determine who is worthy to remain.\n\nOn the field, Ganesha protects his allies and disrupts foes, embodying strategic support and unwavering resolve as he determines which paths shall be opened and which shall remain closed.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:04Z",
+          "scraped_at": "2026-04-08T05:08:42Z",
           "skins": {
             "ganesha-ganesha": {
               "id": "ganesha-ganesha",
@@ -5580,8 +5700,8 @@
             "ganesha-guiding-light": {
               "id": "ganesha-guiding-light",
               "name": "Guiding Light",
-              "card_art_url": "https://wiki.smite2.com/images/Guiding_Light_Ganesha.png?98ae0",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Guiding_Light_Ganesha.png/20px-Guiding_Light_Ganesha.png?98ae0",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_GaneshaS2_GuidingLight.png?98ae0",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_GaneshaS2_GuidingLight.png/20px-SkinArt_GaneshaS2_GuidingLight.png?98ae0",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -5713,7 +5833,7 @@
           "attack_range": "Ranged",
           "lore": "Ravana's immortal reign subjugates the people. Shiva's boon grants the demon-king invulnerability against gods and beasts. Only mortal men stand a chance of defeating him, but Ravana's might is too potent for a mere man to overcome. All seems lost.To save us, Vishnu took human form. Rama, prince of Ayodhya.\n\nAt age 16 he was already the perfect embodiment of man. Strong, humble, handsome, patient, devout; he is what mankind strives to be, yet, for all our flaws, can never reach.When a neighboring kingdom, cursed by Ravana's magic, asked for aid, Rama answered, despite the misgivings of his father. With his brother Laksharma, Rama set out and slew a horde of demons. At the palace, Rama cleansed the curse by freeing the queen from stone. The city celebrated and Rama was invited to string Shiva's bow – with the prize princess Sita's hand in marriage. Shiva's bow could not be lifted by any man, let alone strung, but Rama broke the bow in half. He and Sita wed immediately.\n\nReturning home, Rama was to be crown prince, but the jealousy of queen Kaikeyi forced Rama into exile, where he's remained these past fourteen years.Yet Rama was recently seen on the field of battle. Word is, Ravana stole Rama's wife, and Rama left exile to embrace his destiny. He must defeat Ravana, free his wife, and set mankind on a path for peace, else darkness and evil will conquer all.''",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:39Z",
+          "scraped_at": "2026-04-08T05:08:45Z",
           "skins": {
             "rama-rama": {
               "id": "rama-rama",
@@ -5813,7 +5933,7 @@
           "attack_range": "Melee",
           "lore": "As the first rays of dawn cross the horizon, before all else they touch the land of the rising sun. A realm of islands painted with the careful brush strokes of its deities. That morning light, which brings warmth and life is Amaterasu, the benevolent Goddess of the sun. Universally, she is adored.\n\nLess so are her brothers, namely Susano-o, bringer of storms, whose jealousy of his sister's popularity drove him to burn her golden rice fields and shatter the sacred looms of her people. Grief stricken at the destruction, Amaterasu sealed herself inside a deep cavern. Her people suffered and the realm fell into crushing darkness.\n\nFor an unknown time, she stayed there, hidden away from the atrocities of the world. Until, one day, came a thumping from outside. At first, she tried to ignore it, but curiosity called. Moving aside the great stone sealing the cavern, she peered cautiously out, only to stare into a polished bronze mirror. Blinded by her own reflection, Amaterasu was forced to creep further out to find the source of the sound. Hands grabbed her from either side and pulled her free of the cave. Gathered around were hundreds of friends and loved ones. Atop a wide tub danced Usume, Goddess of Mirth, creating the erratic drumming to the joy of all. Amaterasu smiled and light came back to the world.\n\nSeeing all those that depended on her, all those that loved her, Amaterasu vowed never again to hide away from calamity. She would, instead, face it, just as the dawn rises each new day.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:41Z",
+          "scraped_at": "2026-04-08T05:08:47Z",
           "skins": {
             "amaterasu-amaterasu": {
               "id": "amaterasu-amaterasu",
@@ -5890,8 +6010,8 @@
             "amaterasu-foxy": {
               "id": "amaterasu-foxy",
               "name": "Foxy",
-              "card_art_url": "https://wiki.smite2.com/images/Amaterasu_Foxy_Card.jpg?23417",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Amaterasu_Foxy_Card.jpg/20px-Amaterasu_Foxy_Card.jpg?23417",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AmaterasuS2_Foxy.png?5d819",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AmaterasuS2_Foxy.png/20px-SkinArt_AmaterasuS2_Foxy.png?5d819",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Classic",
@@ -5902,8 +6022,8 @@
             "amaterasu-honor-roll": {
               "id": "amaterasu-honor-roll",
               "name": "Honor Roll",
-              "card_art_url": "https://wiki.smite2.com/images/Honor_Roll.jpg?b2005",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Honor_Roll.jpg/20px-Honor_Roll.jpg?b2005",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AmaterasuS2_HonorRoll.png?2f873",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AmaterasuS2_HonorRoll.png/20px-SkinArt_AmaterasuS2_HonorRoll.png?2f873",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -5914,8 +6034,8 @@
             "amaterasu-nova-hex": {
               "id": "amaterasu-nova-hex",
               "name": "Nova Hex",
-              "card_art_url": "https://wiki.smite2.com/images/Amaterasu_CosmicWitch.jpg?a5439",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Amaterasu_CosmicWitch.jpg/20px-Amaterasu_CosmicWitch.jpg?a5439",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AmaterasuS2_NovaHex.png?29e43",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AmaterasuS2_NovaHex.png/20px-SkinArt_AmaterasuS2_NovaHex.png?29e43",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Legendary",
@@ -6553,7 +6673,7 @@
           "attack_range": "Melee",
           "lore": "Pale white shines the light from her sentinel high above Earth. She watches, the eye that pierces shadow, and listens with the ears of birds and beasts that use the darkness to hunt and revel. As Queen of the Night, she is known; the Goddess of the Moon, Awilix.They say the sun is her lover, and from his light does she shine, but those that say so have never beheld her. Left unrestrained, the sun burns skin, scorches the land, blinds the eyes. Moonlight does no such thing. Like soft white petals it blankets the night, casting the world into mystical illumination. Never has it brought calamity or ruin, only the chance to see where once there was none. She is no different. Her mysterious radiance needs no other to shine.\n\nThese days, the night is less welcoming. Those loyal followers, the jaguars, whose whispered roars bellow into the silence of her domain, prowl at her command. While it is, no doubt, beyond the understanding of mortals, the very moonlight is threatened. A war unlike any before it would end all things. For once that pale white will glimmer on the ugliness of bloodshed, for the night belongs to Awilix.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:11Z",
+          "scraped_at": "2026-04-08T05:08:52Z",
           "skins": {
             "awilix-awilix": {
               "id": "awilix-awilix",
@@ -7983,7 +8103,7 @@
           "attack_range": "Ranged",
           "lore": "Sol and her brother came into this world radiant, glorious beings. So enamored with them, their father arrogantly named each after a sacred heavenly body, he for the moon and she, the sun. As they grew, each child proved their namesake. Mani, of the moon, was contemplative, obedient, calm. Sol, conversely, became willful, spirited, passionate. His children were everything a father could dream, but Odin and his ilk were not pleased. For a father's hubris, Mani and Sol were punished. To the sky, they were sent, each to lead the chariot that dragged the sun or the moon. At their heels were loosed the bloodthirsty sons of Fenrir. Hungry wolves, relentless in pursuit of their prey. Resigned, Mani guided his steeds through the night, ever ahead of his hunter, but Sol did not accept her fate. Furious at the Gods, she taunts and challenges the wolf Skoll as she blazes across the sky, unleashing her spite on the only opponent she can reach. \n\nOdin has never shown signs of regret for his decision, but now war is upon the land. His attentions are turned. Sol, normally confined to her chariot has found a way to send her flaming essence to the battlefield. To the casual observer, the combat, the bloodshed, may all seem just a game to Sol, but she is driven by an age old grudge and a desire to be free.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:20Z",
+          "scraped_at": "2026-04-08T05:08:58Z",
           "skins": {
             "sol-sol": {
               "id": "sol-sol",
@@ -8533,30 +8653,80 @@
         "ratatoskr": {
           "id": "ratatoskr",
           "name": "Ratatoskr",
-          "title": null,
+          "title": "The Sly Messenger",
           "pantheon": "Norse",
           "page_url": "https://wiki.smite2.com/w/Ratatoskr",
-          "thumbnail_url": "https://wiki.smite2.com/images/T_Ratatoskr_Default_Icon.png?98b1b",
-          "card_art_url": null,
-          "roles": [],
-          "role_icon_url": null,
-          "damage_type": null,
-          "scaling": null,
-          "attack_range": null,
-          "lore": null,
-          "unreleased": true,
-          "scraped_at": "2026-04-06T05:21:23Z",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default_Icon.png?44103",
+          "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+          "roles": [
+            "Jungle"
+          ],
+          "role_icon_url": "https://wiki.smite2.com/images/S2_Role_Jungle.png?3d92f",
+          "damage_type": "Physical",
+          "scaling": "100% Strength + 20% Intelligence + 100% Attack Damage",
+          "attack_range": "Melee",
+          "lore": "Ratatoskr, the sly and mischievous squirrel of Yggdrasil, dances between the Nine Realms, stirring chaos wherever he goes. As the eternal messenger between the wise Eagle atop the World Tree and Nidhogg, the serpent below, Ratatoskr delivers not only words but barbed insults that fuel their unending feud. No one knows where he came from, but all the gods acknowledge his knack for gossip and manipulation. Worshipped by tricksters and storytellers, Ratatoskr thrives on wit and cleverness. His playstyle reflects his nature: unpredictable, swift, and ever-ready to disrupt his foes. As gods clash, Ratatoskr seizes the chance to incite new rivalries and leave his mark on the divine battlefield.",
+          "unreleased": false,
+          "scraped_at": "2026-04-08T05:09:01Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
               "name": "Ratatoskr",
-              "card_art_url": null,
-              "thumb_url": null,
+              "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Ratatoskr%28S2%29_Default.png/20px-T_Ratatoskr%28S2%29_Default.png?98214",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "ratatoskr-shadow-ratatoskr": {
+              "id": "ratatoskr-shadow-ratatoskr",
+              "name": "Shadow Ratatoskr",
+              "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Ratatoskr%28S2%29_Default.png/20px-T_Ratatoskr%28S2%29_Default.png?98214",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "ratatoskr-onyx-ratatoskr": {
+              "id": "ratatoskr-onyx-ratatoskr",
+              "name": "Onyx Ratatoskr",
+              "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Ratatoskr%28S2%29_Default.png/20px-T_Ratatoskr%28S2%29_Default.png?98214",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "ratatoskr-opal-ratatoskr": {
+              "id": "ratatoskr-opal-ratatoskr",
+              "name": "Opal Ratatoskr",
+              "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Ratatoskr%28S2%29_Default.png/20px-T_Ratatoskr%28S2%29_Default.png?98214",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "ratatoskr-radiant-ratatoskr": {
+              "id": "ratatoskr-radiant-ratatoskr",
+              "name": "Radiant Ratatoskr",
+              "card_art_url": "https://wiki.smite2.com/images/T_Ratatoskr%28S2%29_Default.png?98214",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Ratatoskr%28S2%29_Default.png/20px-T_Ratatoskr%28S2%29_Default.png?98214",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Heroic",
+              "obtain_method": "Mastery",
+              "release_date": "April 7, 2026",
               "parent_skin_id": null
             }
           }
@@ -8979,7 +9149,7 @@
           "attack_range": "Ranged",
           "lore": "An arrow from the bow of Cupid, chubby little God of Love, will make anyone give in to passion and desire.Cupid, as he was called by the Romans, is the son of Venus and Mars, or Aphrodite and Ares as they were known by the Greeks. He is the God of love and desire, flying about on feathery wings, shooting passion-tipped arrows at all the creatures of the earth. When struck with one of his arrows, man and beast alike fall in love with the next thing they see. Without Cupid's steady aim, there would be no love in this world, which is precisely what happened when Cupid fell in love himself.\n\nPsyche was a mortal of astounding beauty, which made Venus venomously jealous. Venus ordered Cupid to sting her with an arrow, then arranged for Psyche to fall in love with a spider. Invisible, Cupid reluctantly went to Psyche as she slept, yet, she woke suddenly and saw right through Cupid's invisibility. Surprised, Cupid cut himself on his own arrow and fell immediately in love with Psyche.Furious, Venus would not let Cupid marry Psyche, so Cupid stopped shooting arrows, people stopped falling in love and stopped worshipping Venus. Panicked, the Goddess of beauty relented and Cupid went back to work. Psyche was whisked to a secret location. Cupid visited her only at night so she could not see who he was. Fearing him to be a terrible monster, Psyche waited for Cupid to fall asleep and lit a lantern. Surprised at what she found, she accidentally scraped one of Cupid's arrows and fell in love with him.\n\nVenus was displeased and forbade Psyche to see her son, forcing her to complete a series of impossible challenges that Psyche overcame only with mystical help. Finally, Cupid begged Jupiter (Zeus) to intervene. Casually, he declared Psyche and Cupid could be together. Thus, Cupid fed Psyche the drink of ambrosia that made her immortal and the God of love got to live happily ever after.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:18Z",
+          "scraped_at": "2026-04-08T05:09:05Z",
           "skins": {
             "cupid-cupid": {
               "id": "cupid-cupid",
@@ -8990,43 +9160,43 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "cupid-lil-thanatos": {
               "id": "cupid-lil-thanatos",
               "name": "Lil' Thanatos",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos.png?c8257",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos.png/20px-SkinArt_CupidS2_LilThanatos.png?c8257",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos.png?3e661",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos.png/20px-SkinArt_CupidS2_LilThanatos.png?3e661",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "cupid-big-head": {
               "id": "cupid-big-head",
               "name": "Big Head",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_BigHead.png?5c2c9",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_BigHead.png/20px-SkinArt_CupidS2_BigHead.png?5c2c9",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_BigHead.png?8f5ab",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_BigHead.png/20px-SkinArt_CupidS2_BigHead.png?8f5ab",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
               "obtain_method": "Event",
-              "release_date": null,
+              "release_date": "October 21, 2025",
               "parent_skin_id": null
             },
             "cupid-court-archer": {
               "id": "cupid-court-archer",
               "name": "Court Archer",
-              "card_art_url": "https://wiki.smite2.com/images/Court_Archer_Cupid.jpg?63b04",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Court_Archer_Cupid.jpg/20px-Court_Archer_Cupid.jpg?63b04",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_CourtArcher.png?20b22",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_CourtArcher.png/20px-SkinArt_CupidS2_CourtArcher.png?20b22",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "March 10, 2025",
               "parent_skin_id": null
             },
             "cupid-shadow-cupid": {
@@ -9038,7 +9208,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "cupid-onyx-cupid": {
@@ -9050,7 +9220,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "cupid-opal-cupid": {
@@ -9062,7 +9232,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
             },
             "cupid-radiant-cupid": {
@@ -9074,8 +9244,56 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "November 25, 2024",
               "parent_skin_id": null
+            },
+            "cupid-onyx": {
+              "id": "cupid-onyx",
+              "name": "Onyx",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos_-_Onyx.png?6dc8e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos_-_Onyx.png/20px-SkinArt_CupidS2_LilThanatos_-_Onyx.png?6dc8e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cupid-lil-thanatos"
+            },
+            "cupid-opal": {
+              "id": "cupid-opal",
+              "name": "Opal",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos_-_Opal.png?3578e",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos_-_Opal.png/20px-SkinArt_CupidS2_LilThanatos_-_Opal.png?3578e",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cupid-lil-thanatos"
+            },
+            "cupid-shadow": {
+              "id": "cupid-shadow",
+              "name": "Shadow",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos_-_Shadow.png?4205b",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos_-_Shadow.png/20px-SkinArt_CupidS2_LilThanatos_-_Shadow.png?4205b",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "October 21, 2025",
+              "parent_skin_id": "cupid-lil-thanatos"
+            },
+            "cupid-radiant": {
+              "id": "cupid-radiant",
+              "name": "Radiant",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_CupidS2_LilThanatos_-_Radiant.png?f3a48",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_CupidS2_LilThanatos_-_Radiant.png/20px-SkinArt_CupidS2_LilThanatos_-_Radiant.png?f3a48",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "December 24, 2025",
+              "parent_skin_id": "cupid-lil-thanatos"
             }
           }
         },
@@ -9096,7 +9314,7 @@
           "attack_range": "Ranged",
           "lore": "Discordia, once known as Eris, Goddess of Strife, thrives in the chaos of ambition and pride. With a single golden apple inscribed \"For the Fairest,\" she sparked the Trojan War, unraveling alliances and shattering civilizations. Guiding the exiled Aeneas from Troy to Rome, she reshaped herself as a Roman goddess of prominence. Discordia now revels in disorder, a master of manipulation, wielding chaos to reshape the fate of gods and men.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:19Z",
+          "scraped_at": "2026-04-08T05:09:07Z",
           "skins": {
             "discordia-discordia": {
               "id": "discordia-discordia",
@@ -9167,7 +9385,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Event",
-              "release_date": "January 17, 2025",
+              "release_date": "January 17, 2026",
               "parent_skin_id": null
             },
             "discordia-oblivion-queen": {
@@ -9993,7 +10211,7 @@
           "attack_range": "Ranged",
           "lore": "Every river must have its beginning, and that beginning is Yemoja. The Goddess of the Ogun River is mother to the Yoruba pantheon, and from her floodwaters sprang the first mortals. She is the mistress of all rivers and the eternal guardian of the ancient mysteries of life itself. Fishermen and sailors seek her blessings, for she is the protector of all who travel on water. Mothers-to-be ask for her aid, for she is the patron spirit of women and governs everything pertaining to the feminine – especially childbirth. After all, who better than the mother of all life to oversee its continuation?\n\nAs such, she considers herself the caretaker of all that lives. She cares deeply for all of her children, be they mortal or god, comforting them and cleansing them of their sorrows. At Yemoja's blessed touch, wounds are healed and sickness is cured.\n\nBut even her kindness has its limits and should she be roused to anger, she becomes as violent and as destructive as the most turbulent of floodwaters. All who would dare stand against her are swept aside by her roaring fury. To challenge Yemoja is to challenge the river itself. But like the rivers, Yemoja has ever followed her own course.\n\nShe keeps to her spheres of influence and attends only those who seek out her blessings. Content in her solitude, she has maintained her distance from the affairs of the gods, for war does not interest her and she has power enough to suit her. But the advent of Olorun has changed things and even rivers must turn with the will of the heavens.\n\nAnd now, as her children cry out for aid, the river rises and Yemoja rises with it.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:33Z",
+          "scraped_at": "2026-04-08T05:09:12Z",
           "skins": {
             "yemoja-yemoja": {
               "id": "yemoja-yemoja",
@@ -10004,31 +10222,31 @@
               "screenshot_thumb_url": null,
               "rarity": "Default",
               "obtain_method": "Default",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "yemoja-dawn-spirit": {
               "id": "yemoja-dawn-spirit",
               "name": "Dawn Spirit",
-              "card_art_url": "https://wiki.smite2.com/images/Dawn_Spirit_Yempja.jpg?42ba1",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Dawn_Spirit_Yempja.jpg/20px-Dawn_Spirit_Yempja.jpg?42ba1",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2_DawnSpirit.png?e0bdc",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2_DawnSpirit.png/20px-SkinArt_YemojaS2_DawnSpirit.png?e0bdc",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "March 24, 2025",
               "parent_skin_id": null
             },
             "yemoja-hive-mother": {
               "id": "yemoja-hive-mother",
               "name": "Hive Mother",
-              "card_art_url": "https://wiki.smite2.com/images/Hive_Mother_Yemoja.jpg?44146",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Hive_Mother_Yemoja.jpg/20px-Hive_Mother_Yemoja.jpg?44146",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2_HiveMother.png?feaa3",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2_HiveMother.png/20px-SkinArt_YemojaS2_HiveMother.png?feaa3",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
               "obtain_method": "DirectPurchase",
-              "release_date": null,
+              "release_date": "May 5, 2025",
               "parent_skin_id": null
             },
             "yemoja-shadow-yemoja": {
@@ -10040,7 +10258,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "yemoja-onyx-yemoja": {
@@ -10052,7 +10270,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "yemoja-opal-yemoja": {
@@ -10064,7 +10282,7 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
             },
             "yemoja-radiant-yemoja": {
@@ -10076,8 +10294,56 @@
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
               "obtain_method": "Mastery",
-              "release_date": null,
+              "release_date": "October 3, 2024",
               "parent_skin_id": null
+            },
+            "yemoja-mastermind": {
+              "id": "yemoja-mastermind",
+              "name": "Mastermind",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2Mastermind.png?d9162",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2Mastermind.png/20px-SkinArt_YemojaS2Mastermind.png?d9162",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Classic",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": null
+            },
+            "yemoja-firewall": {
+              "id": "yemoja-firewall",
+              "name": "Firewall",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2Mastermind_-_Firewall.png?6acee",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2Mastermind_-_Firewall.png/20px-SkinArt_YemojaS2Mastermind_-_Firewall.png?6acee",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "yemoja-mastermind"
+            },
+            "yemoja-circuit": {
+              "id": "yemoja-circuit",
+              "name": "Circuit",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2Mastermind_-_Circuit.png?8129c",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2Mastermind_-_Circuit.png/20px-SkinArt_YemojaS2Mastermind_-_Circuit.png?8129c",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "yemoja-mastermind"
+            },
+            "yemoja-matrix": {
+              "id": "yemoja-matrix",
+              "name": "Matrix",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_YemojaS2Mastermind_-_Matrix.png?3de0f",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_YemojaS2Mastermind_-_Matrix.png/20px-SkinArt_YemojaS2Mastermind_-_Matrix.png?3de0f",
+              "screenshot_url": null,
+              "screenshot_thumb_url": null,
+              "rarity": "Prism",
+              "obtain_method": "Event",
+              "release_date": "April 7, 2026",
+              "parent_skin_id": "yemoja-mastermind"
             }
           }
         }
@@ -10103,7 +10369,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-06T05:21:32Z",
+          "scraped_at": "2026-04-08T05:09:13Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10134,7 +10400,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-06T05:21:33Z",
+          "scraped_at": "2026-04-08T05:09:14Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
