@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-08T05:09:14Z",
+    "generated_at": "2026-04-10T05:22:23Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -137,7 +137,7 @@
           "attack_range": "Melee",
           "lore": "Throughout many legends and tales of King Arthur, details around the man that leads to his demise can differ dramatically. One thing is constant, however: his Wrath. Mordred, Breaker of the Round Table, seeks nothing more than to destroy the man who led his family to ruin long ago.\n\nHis father, King Lot, brother of Arthur, ruled prior to the young king – first as an adversary, then as allies. Prophecy foretells that Arthur will fall to a child born on the first of May and, in a desperate move, Arthur has all children of that year rounded up and shipped away. This ship would find itself to sink, and while many are presumed dead, Mordred survives and grows up with an unbridled hatred for his uncle.\n\nLot would take up arms against Arthur once more, fighting alongside foes seeking to depose him. One such battle would lead to Lot's death at the hands of King Pellinore, spurred on by Merlin. This act would cause a schism that would never heal, pushing Mordred to seek revenge at every turn.\n\nOver decades, he plotted and fought in many battles that saw him rise to a position of influence and fear. He took on his foes with a ferocity that spread to those he led in battle, causing a group of Knights to dedicate themselves to his cause. As his forces grew and his own legend spread, he finally found himself in position to launch his betrayal against the Crown.\n\nThe two sides would struggle for control of the Kingdom many times, leaving Mordred more and more corrupted by magical afflictions he sustained with each mutinous rule. Every time, his Wrath only grows and his thirst for revenge pushes him to reclaim it forever.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:32Z",
+          "scraped_at": "2026-04-10T05:21:37Z",
           "skins": {
             "mordred-mordred": {
               "id": "mordred-mordred",
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-08T05:08:07Z",
+          "scraped_at": "2026-04-10T05:21:39Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -1252,7 +1252,7 @@
           "attack_range": "Ranged",
           "lore": "Against the red rising sun, a winged form sweeps out to sea, claw clutched around a pebble. With focused grit, she hurls the small stone into the watery maw, circling above as it sinks into darkness. Resolved, she turns back to collect another. Jing Wei will not cease until the ocean is filled. That is her oath. And she will not break an oath. Once, she was a young girl, a princess, enamored by the glory of morning light. She gazed in wonder as her father, Yan Di, the Flame Emperor, shepherded the sun from the eastern sea. Desperately, she longed to reach the place where it emerged, but her father refused take her on the waters. One night, the princess sailed out alone, secretly hoping for a clear view come the dawn. But the waters were churning in a storm. Mountainous waves crashed into her tiny ship. The sea swallowed her whole. Yan Di woke and coaxed the sun from the horizon, only to find the shattered remains of his daughter’s boat upon the shore. Yet, even as he grieved, a bright goddess burst from the ocean and soared overhead. “Jingwei!” she cried, and Yan Di knew his daughter was reborn. Though given a second chance that day, Jing Wei swore an oath against the seas that took her life. She would fill them with stone until they were gone. An impossible task. But Jing Wei swore an oath. And Jing Wei will not break an oath.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:47Z",
+          "scraped_at": "2026-04-10T05:21:45Z",
           "skins": {
             "jing-wei-jing-wei": {
               "id": "jing-wei-jing-wei",
@@ -5313,7 +5313,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-08T05:08:37Z",
+          "scraped_at": "2026-04-10T05:22:01Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5346,7 +5346,7 @@
           "attack_range": "Ranged",
           "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
           "unreleased": true,
-          "scraped_at": "2026-04-08T05:08:38Z",
+          "scraped_at": "2026-04-10T05:22:02Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -10369,7 +10369,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-08T05:09:13Z",
+          "scraped_at": "2026-04-10T05:22:22Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10400,7 +10400,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-08T05:09:14Z",
+          "scraped_at": "2026-04-10T05:22:23Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
