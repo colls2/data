@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-10T05:22:23Z",
+    "generated_at": "2026-04-13T05:38:41Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-10T05:21:39Z",
+          "scraped_at": "2026-04-13T05:37:47Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -448,9 +448,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Both",
-          "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature's strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
+          "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature’s strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:09Z",
+          "scraped_at": "2026-04-13T05:37:48Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -1713,15 +1713,15 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Anhur, the lion-headed Egyptian God of war, slays his enemies with spear and guile. Weapons equally as sharp! As a son of Ra, Anhur, and his sister Bastet, rode in the golden barge their father sailed across the sky each day. They protected the ship at dawn and dusk from the world serpent, Apep, who lurked at the horizon. Courageous, formidable, and above all, intelligent, Anhur defended the vessel with his spear and wits, outsmarting and distracting the serpent until feral Bastet delivered a killing blow. With Apep gone, Ra became Pharaoh, Bastet, the Goddess of Cats and Women, and Anhur donned the mantle of the God of War. This is how he became known as the Slayer of Enemies. \n\nAs time went on, another feline Goddess, Menhet, ran away from the Pantheon, spurning Ra. Anhur vowed to bring her back from the distant lands of Nubia to appease his father, but when he finally caught up with Menhet, he was enraptured and fell in love. He tied a rope to her neck and led her home, where he requested Menhet become his wife, a boon Ra happily granted. For Egyptians, warfare is more than bloody battle, it's a means to break the chains of tyranny. Anhur can be found at the head of any charge, crushing corruption and leading the people to freedom. While his spear is deadly, Anhur is cunning and clever, able to outmaneuver opponents in ways they least expect.",
+          "lore": "Fierce Anhur, lion-headed God of War, wields cunning and strength, both swift as a spear’s strike. With his sister Bastet, he defends Ra’s journey against the serpent Apep. Yet even gods may love, and Anhur’s heart led him to Menhet, whom he captured and claimed as his bride. Now, armed with both skill and valor, he leads the charge against tyranny, a weapon to the oppressed, a terror to the unjust.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:53Z",
+          "scraped_at": "2026-04-13T05:37:55Z",
           "skins": {
             "anhur-anhur": {
               "id": "anhur-anhur",
               "name": "Anhur",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png?dad20",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Anhur.png/20px-GodCard_Anhur.png?dad20",
+              "card_art_url": "https://wiki.smite2.com/images/T_AnhurS2_Default.png?a8362",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_AnhurS2_Default.png/20px-T_AnhurS2_Default.png?a8362",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Default",
@@ -1732,8 +1732,8 @@
             "anhur-shadow-anhur": {
               "id": "anhur-shadow-anhur",
               "name": "Shadow Anhur",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png?dad20",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Anhur.png/20px-GodCard_Anhur.png?dad20",
+              "card_art_url": "https://wiki.smite2.com/images/T_AnhurS2_Default.png?a8362",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_AnhurS2_Default.png/20px-T_AnhurS2_Default.png?a8362",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -1744,8 +1744,8 @@
             "anhur-onyx-anhur": {
               "id": "anhur-onyx-anhur",
               "name": "Onyx Anhur",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png?dad20",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Anhur.png/20px-GodCard_Anhur.png?dad20",
+              "card_art_url": "https://wiki.smite2.com/images/T_AnhurS2_Default.png?a8362",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_AnhurS2_Default.png/20px-T_AnhurS2_Default.png?a8362",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -1756,8 +1756,8 @@
             "anhur-opal-anhur": {
               "id": "anhur-opal-anhur",
               "name": "Opal Anhur",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png?dad20",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Anhur.png/20px-GodCard_Anhur.png?dad20",
+              "card_art_url": "https://wiki.smite2.com/images/T_AnhurS2_Default.png?a8362",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_AnhurS2_Default.png/20px-T_AnhurS2_Default.png?a8362",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -1768,8 +1768,8 @@
             "anhur-radiant-anhur": {
               "id": "anhur-radiant-anhur",
               "name": "Radiant Anhur",
-              "card_art_url": "https://wiki.smite2.com/images/GodCard_Anhur.png?dad20",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/GodCard_Anhur.png/20px-GodCard_Anhur.png?dad20",
+              "card_art_url": "https://wiki.smite2.com/images/T_AnhurS2_Default.png?a8362",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/T_AnhurS2_Default.png/20px-T_AnhurS2_Default.png?a8362",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -1780,8 +1780,8 @@
             "anhur-debonhair": {
               "id": "anhur-debonhair",
               "name": "Debonhair",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnhurS2_Debonhair.png?b9bdd",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnhurS2_Debonhair.png/20px-SkinArt_AnhurS2_Debonhair.png?b9bdd",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AnhurS2_Debonhair.png?b8ef8",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AnhurS2_Debonhair.png/20px-SkinArt_AnhurS2_Debonhair.png?b8ef8",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -1830,9 +1830,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Jackal-headed Anubis holds the ultimate judgment over the dead, measuring every heart against the weight of Truth. Nephthys, wife of Set - the God of Darkness, desired a child, yet her husband was infertile, so Nephthys disguised herself as Eset, the wife of Set’s brother Osiris, and seduced him. From that union, Anubis was born. Osiris cared for Anubis as his own, but when Osiris was murdered by his evil brother, Set, Anubis embalmed his adopted father and mummified the corpse so he would not rot. This preservation passed down to the Faithful, for if it was good enough for the Gods, it was good enough for man. None enter the abyss of the Underworld without first being tested by Anubis. When corpses are preserved, he is the embalmer. When time for judgment comes, he is the final arbiter. \n\nIn his realm, he keeps legendary weighing scales. On one side, the massive weight of Ma’at – truth and order. On the other side, he places the heart of the deceased. Should the weight of Ma’at prove infinitely heavier than that of the heart, Anubis casts the soul deep into the darkness of the Underworld, where it is forgotten, never to be reborn.",
+          "lore": "Eternal judge of souls, Anubis, whose jackal’s gaze sees all truths. Born of shadow and light, Anubis honored his father Osiris through the sacred rites of mummification, a gift he granted to mortals. Weighing each heart against Ma’at, Anubis casts the unworthy into oblivion. As gods vie and the realm of the dead trembles, Anubis steps forth, ready to render judgment upon all—even the gods—to see who remains worthy of existence.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:17Z",
+          "scraped_at": "2026-04-13T05:37:56Z",
           "skins": {
             "anubis-anubis": {
               "id": "anubis-anubis",
@@ -2975,9 +2975,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "King Agamemnon brought his fury to bear against gilded Troy, for Prince Paris had stolen his Helen, his wife, whose beauty rivaled that of Athena and Aphrodite. To famed Achilles, invincible warrior, the king gave command of a thousand ships.Across stormy seas and salted beach, soldiers sieged the city. Arrow and stone, blade and barb bounced from Achilles' skin. Bathed as a babe in the River Styx by his Nereid mother, his hide was hardened, imperviously made. Through every charge, every death-defying battle, Achilles was at the fore. Troy hung poised to crumble.\n\nUntil Agamemnon gave slight to the mighty myrmidon. In grave offense, Achilles pulled his forces from the field. Hector, boldest, bravest, eldest of the Trojan princes seized the chance to push the Greeks to the sea. Water's reflection mirrored scorching sails as Hector fired their ships. All seemed lost until Achilles rose to meet him. Fierce and fast the two titans fought, but Hector's spear felled Achilles fair. Though Patroclus, it was, in the armor of Achilles, not Achilles who lay dead.Wrathful at the loss of his faithful lover, Achilles donned armor newly-made and challenged Hector alone. Spear and blade and amor rang, but Achilles could not be harmed. Hector, prince of Troy, died in battle that day.\n\nParis, brother lost, tearful-eyed, let arrow loose, guided by divine envy. For there were Gods that could not suffer Achilles to survive. Straight and true the arrow flew and harpooned Achilles' heel, where his mother held him when submerged. The wound was deep, his weakness found, Achilles met his end.A decade thence, from Hades' depths, Achilles has been drawn. Armored now, upon the heel, revenge his only aim. For envious Gods stole from him his glory and his life. Now they tremble at the wrath of the man who cannot be harmed.''",
+          "lore": "Achilles, invincible warrior of the Greeks, led a thousand ships to Troy to avenge the theft of Helen by Prince Paris. Bathed as a child in the River Styx, his skin was made impervious, save for his heel. Achilles fought bravely until a feud with King Agamemnon led him to withdraw from battle. Hector, prince of Troy, seized the moment, but Achilles returned after his beloved Patroclus was killed in his place. Achilles killed Hector, but Paris, with divine guidance, struck Achilles in his heel, ending his life. Now drawn from Hades, Achilles seeks vengeance on the gods who stole his glory.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:43Z",
+          "scraped_at": "2026-04-13T05:38:02Z",
           "skins": {
             "achilles-achilles": {
               "id": "achilles-achilles",
@@ -3105,9 +3105,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "There are too few words to describe the radiance, the magnificence, the inequitable glory of Aphrodite, Goddess of Beauty. So wondrous is she to behold that one look can inspire tears, desire, jealousy, and love. Yet, beneath her flawless exterior resides a heart burdened with insecurity.\n\nInattentive and hideous to look upon, her husband, Hephaestus, unknowingly leaves Aphrodite feeling lonely and worthless. She finds consolation in the arms of other men such as Ares, or validation by competing in any contest of beauty she encounters.\n\nAt a wedding attended by all the Gods, a golden apple appeared, inscribed with the words \"to the fairest.\" Immediately Aphrodite, her mother Hera, and sister Athena quarreled over it. Zeus elected Paris, Prince of Troy, to choose a victor. In exchange for being named the fairest, Aphrodite offered any woman in the world as his wife, so Paris agreed. However, he chose Helen as his wife, and their love began the catastrophic Trojan War.\n\nNow, a new war brews, but this one between Gods, not men. While the battlefield is no place for the fairest of all, Aphrodite recalls the destruction between the Greeks and Trojans. Perhaps, this time, her beauty can be used to stop a war instead of start one. Perhaps, this time, she will discover the beauty within.",
+          "lore": "Aphrodite, the Goddess of Beauty, is as breathtaking as she is lonely, seeking solace where none remains. Her allure sparked the Trojan War, yet now she hopes to quell conflict rather than fan its flames. Adorned with grace, she steps onto the battlefield not to bring destruction, but to seek a beauty far deeper than appearance—a peace woven from within, born of her truest self. She knows all too well how to bend the wills of men, but now her heart is set on controlling the hearts of the gods as well.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:23Z",
+          "scraped_at": "2026-04-13T05:38:04Z",
           "skins": {
             "aphrodite-aphrodite": {
               "id": "aphrodite-aphrodite",
@@ -3318,9 +3318,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Apollo, the God of Music, is a cavalier force of brilliance and artistry. With his legendary bow and golden lyre, he inspires armies and dazzles even the gods. From slaying the great serpent Pylos as a mere child to outshining Hermes' son Pan in a contest of music. Apollo's life has been one big triumph. His faith runs deep among soldiers, musicians, and kings who sing his praises, each melody a hymn to his name.\n\nNow, as gods clash, Apollo takes the field for one last performance, his light unyielding and his aim true.",
+          "lore": "Apollo, the God of Music, is a cavalier force of brilliance and artistry. With his legendary bow and golden lyre, he inspires armies and dazzles even the gods. From slaying the great serpent Pylos as a mere child to outshining Hermes’ son Pan in a contest of music, Apollo’s life has been one of triumph. His faith runs deep among soldiers, musicians, and kings who sing his praises, each melody a hymn to his name. Now, as gods clash, Apollo takes the field for one last performance, his light unyielding and his aim true.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:12Z",
+          "scraped_at": "2026-04-13T05:38:05Z",
           "skins": {
             "apollo-apollo": {
               "id": "apollo-apollo",
@@ -3459,9 +3459,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Feared by his enemies, reviled by his father, adored by the Goddess of Beauty, and worshipped by warriors, Ares, a tortured and lonely soul, is the bloodthirsty Greek God of War. Ares is not loved by the people. He represents everything they fear and despise: war, strife, chaos, and murder. It’s said that the sky darkens when Ares takes the field. That he rides to battle on a chariot drawn by fire-breathing steeds and delights only in the clash of battle and smell of bloodshed. Ares is not loved by his father. Zeus has many sons, but only two with his wife Hera. However, the thunder God has long suspected Hera of having an affair that led to the birth of Ares, perhaps as revenge for all of Zeus’ infidelity. For this, Zeus is disgusted by him. Ares is not loved by his sister. Athena and Ares are both Gods of War. Where Ares represents violence, force, and slaughter, Athena is the embodiment of intelligence, strategy, and leadership. Ares is quick to act and leave a bloody trail. Athena is thoughtful and careful with lives. Often they have been on the opposite sides, most notably at the Battle of Troy, where Athena viciously wounded him and forced Ares to retreat. Ares is the lover of the Goddess of Beauty. Though Aphrodite is married to Ares’ brother, Hephaestus, Ares takes what he wants, and Aphrodite gives in willingly. Their union created offspring almost as terrible as Ares himself: Phobos and Deimos, Fear and Terror. Ares is loved only by the Spartans, who revere the God for his masculinity, his merciless warrior spirit, and tenacity against all odds. The Spartans, however, know the unpredictable fury of their patron, and bind his statues in chains. This is, in part, to prevent Ares’ spirit of victory from escaping Sparta, and a vain effort to keep the God of War contained.",
+          "lore": "War incarnate, Ares strides into battle with a brutal grin, the chaos of war raging in his wake. Scorned by his father Zeus, shunned by his sister Athena, yet adored by those who revere strength above all. His worshipers know his strength and the firey spirit that rests within his soul. The Spartans bound his statues in chains, seeking to contain his fury within their city’s walls. But now, unleashed, his wrath flows unchecked, a force feared by gods and mortals alike.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:14Z",
+          "scraped_at": "2026-04-13T05:38:06Z",
           "skins": {
             "ares-ares": {
               "id": "ares-ares",
@@ -3612,9 +3612,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Armed with a magical bow, Artemis is the unrivaled Goddess of the Hunt!Daughter of Zeus and Leta, Artemis and her twin brother Apollo are products of Zeus' infidelity to his wife Hera. Insulted, Hera cursed Leta while she was pregnant, forbidding her to give birth on land or sea. Fortunately, she found an island that did not touch the ocean floor, so it was neither land nor sea, and thus bore her children. Artemis was born first, then miraculously aided as midwife in the birthing of her brother.\n\nArtemis spent her childhood in the hills and forests, training with her bow and hunting beasts. As she grew older and more beautiful, she also grew proud and ruthless when slighted or dishonored, especially against those that claimed to be better hunters than she. Adonis boasted this very thing and Artemis sent a wild boar to skewer him. The twin demigods Otos and Ephialtes, who could not be killed except by each other, threatened to kidnap Artemis and force her to marry one of them, but were tricked when Artemis, appearing as a doe, dashed between them. As they thrust with their spears they impaled each other. Finally, Actaeon, after peeping at Artemis while she bathed, was transformed into a stag and devoured by his own hunting dogs. Such is the wrath of Artemis.Her name is invoked by hunters seeking prey and by midwives during childbirth. Sacrifices are made in her name before a new military campaign. Adolescent girls are sent to her shrine to serve for one year. Beautiful, deadly, and chaste, Artemis is a focused woman and a fearsome warrior.''",
+          "lore": "Artemis, Goddess of the Hunt, is a force of precision and vengeance. Born alongside her twin Apollo under Hera’s curse, she claimed her destiny as a protector of the wilds and a relentless pursuer of justice. She has humbled arrogant hunters, dispatched demigods with cunning traps, and punished all who dared dishonor her. Worshipped by hunters, midwives, and warriors, Artemis is both protector and punisher, a goddess whose arrows always find their mark. On the battlefield, her aim is clear, and her wrath, unstoppable.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:49Z",
+          "scraped_at": "2026-04-13T05:38:08Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -3837,9 +3837,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "In war, there are two kinds of soldiers: those that fight for blood, and those that fight for honor. The first crave the clash of steel and smell of slaughter, the latter know the wisdom of justice, the kindness of mercy, and that life should never be taken wantonly. These different warriors seek different Gods. Ares, God of War revels in the bloodletting, but his sister, Athena, Goddess of Wisdom, is patron to those who fight with dignity, and only when there is no other alternative. Favored daughter of Zeus, wise as ten thousand scholars, just as the scales themselves; Athena is a paragon of incorruptible virtue, and worshipped with righteous fervor. So revered is she that Athens, greatest city in all the world, is named for her, and regal temples adorn the countryside in her honor, each tended by loyal priestesses. To Athena, a life is a precious thing that need not be wasted in frivolous battle. Bloodthirsty Ares, on the other hand, is reviled by their father and chained by his ravenous subjects. \n\nAt the Siege of Troy, Ares disobeyed Zeus and joined with the battle, fighting for the mortal Trojans. Athena rose to stop him, indirectly championing the Greeks, but directly keeping the order of divine law. Their fierce battle clashed in unspeakable proportions, ending only when Ares limped from the battle field, cowed by his sister and rival. With Ares diminished, the tide of the war shifted and the heroes of the Greek Army toppled Troy. In times of war, prayers are sent to both Gods. Ares, for bloodstained victory, Athena for honor, valor, and the wisdom to fight with dignity. Make no mistake, these are times of war, and Ares has already answered the call to arms. Athena, ever cautious with lives, goes to battle without eagerness, but solemn necessity, for the Goddess of Wisdom knows honor is for the living. The dead have no need of it.",
+          "lore": "Athena, Goddess of Wisdom and Strategy, embodies honor in war, guiding heroes not through brute force, but through intellect and moral clarity. Born from Zeus's brow, she protects the just and inspires cunning champions like Odysseus and Diomedes—ultimately masterminding the Trojan Horse that brought down Troy. Worshipped by those who value wisdom over slaughter, Athena exemplifies victory earned with honor. When chaos descends, she stands ready—with counsel over carnage, strategy over savagery.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:51Z",
+          "scraped_at": "2026-04-13T05:38:10Z",
           "skins": {
             "athena-athena": {
               "id": "athena-athena",
@@ -5313,7 +5313,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-10T05:22:01Z",
+          "scraped_at": "2026-04-13T05:38:16Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5346,7 +5346,7 @@
           "attack_range": "Ranged",
           "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
           "unreleased": true,
-          "scraped_at": "2026-04-10T05:22:02Z",
+          "scraped_at": "2026-04-13T05:38:17Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -5384,9 +5384,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "There are few elements as destructive or as purifying as fire. Agni, God of Fire, embodies both of these qualities, with a head for each.\n\nThough the source of his origin warrants debate - for there are many tales of his parentage ranging from two simple sticks rubbed together to the cosmic energy that made all things at the beginning of time - Agni is a pivotal and important God with many duties to the Pantheon. He is the twin brother to Indra, God of the Heavens and Rains, and chief among warriors. Conversely, Agni is chief among priests, acting as a messenger between mortals and gods. Every Hindu ritual and prayer is performed in front of a fire of some kind, so Agni carries the words and sacrifices, traveling between the Earth and the Heavens. He is welcome in every home and every hearth and much beloved by the Faithful.\n\nThrough his flames, Agni provides heat and light but also cleanses impurities. Smoke from his pyres creates the air and holds the Heavens aloft. The sun, a source of fire itself, brings life-giving energy to the world, and his lightning streaks the sky during storms.\n\nFor all his kindness and service, Agni has two faces. One is the face of kindness and purity, turned towards the people and Gods. His other face, grim and resolute, guides the God of Fire to play his role in the cosmic cycle of creation and destruction, to burn and blacken all the atrocities of the world to ash.",
+          "lore": "In all realms, fire is both feared and cherished. Agni, twin of thunderous Indra, is both purifier and destroyer, the bearer of divine messages through sacred flames. His fires can warm and enlighten, yet they burn with ferocity, cleansing the unworthy. Beloved by mortals, feared by gods, he strides forward, flames licking away corruption, shielding those who stand beside him. Beware, for Agni's dual nature is unyielding—whether to preserve or consume, only he decides.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:40Z",
+          "scraped_at": "2026-04-13T05:38:18Z",
           "skins": {
             "agni-agni": {
               "id": "agni-agni",
@@ -5931,9 +5931,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "As the first rays of dawn cross the horizon, before all else they touch the land of the rising sun. A realm of islands painted with the careful brush strokes of its deities. That morning light, which brings warmth and life is Amaterasu, the benevolent Goddess of the sun. Universally, she is adored.\n\nLess so are her brothers, namely Susano-o, bringer of storms, whose jealousy of his sister's popularity drove him to burn her golden rice fields and shatter the sacred looms of her people. Grief stricken at the destruction, Amaterasu sealed herself inside a deep cavern. Her people suffered and the realm fell into crushing darkness.\n\nFor an unknown time, she stayed there, hidden away from the atrocities of the world. Until, one day, came a thumping from outside. At first, she tried to ignore it, but curiosity called. Moving aside the great stone sealing the cavern, she peered cautiously out, only to stare into a polished bronze mirror. Blinded by her own reflection, Amaterasu was forced to creep further out to find the source of the sound. Hands grabbed her from either side and pulled her free of the cave. Gathered around were hundreds of friends and loved ones. Atop a wide tub danced Usume, Goddess of Mirth, creating the erratic drumming to the joy of all. Amaterasu smiled and light came back to the world.\n\nSeeing all those that depended on her, all those that loved her, Amaterasu vowed never again to hide away from calamity. She would, instead, face it, just as the dawn rises each new day.",
+          "lore": "Radiant Amaterasu, goddess of the Sun, beloved beacon of hope and light. Even the sun knows shadows, for her brother Susano's envy cast her into despair. Hidden away, her light faded until, with laughter of friends, she returned, vowing never to dim again. Her people once suffered her absence, but now she rises to defend them. As war threatens to swallow creation in darkness, Amaterasu shines like the dawn, ready to cast brilliance upon the unworthy and guide the faithful through the storm—even if it leads to her brother's end.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:47Z",
+          "scraped_at": "2026-04-13T05:38:21Z",
           "skins": {
             "amaterasu-amaterasu": {
               "id": "amaterasu-amaterasu",
@@ -9985,9 +9985,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 30% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "From a resourceful street urchin scraping by with his mother, to a Sultan guided by powerful Genies, Aladdin's journey spans poverty, deception, magic, and unexpected fortune. Once an aimless youth known more for his misdeeds than his ambition, Aladdin found himself caught in the web of a cunning sorcerer. Disguised as a caring uncle, this sorcerer promised Aladdin wealth if he would retrieve a mysterious Lamp from a dangerous, trap-filled cave. Expecting the young man to meet his end, the sorcerer underestimated Aladdin's resilience – and the power of a lesser Genie hidden within a simple ring he provided.\n\nThrough this Genie's aid, Aladdin not only survived but secured the Lamp and the powerful Genie within it. That moment set him on a path from impoverished mischief-maker to a leader of his people, gaining wealth, influence, and ultimately earning his place as the Sultan.\n\nIn Smite 2, Aladdin has reached this pinnacle. Surrounded by loyal followers drawn to his optimism and charisma, he rules with the Lamp's Genie at his side. Yet uncertainty looms. Whether it's the sorcerer's machinations or the watchful eyes of the gods, Aladdin will face these trials head-on. His past has prepared him to make the most of any opportunity, and the Genies ensure he won't face the struggle alone.",
+          "lore": "Aladdin, dreamed of Wealth, Immortality, and Power but found himself bound by a life of toil and obscurity. When a stranger lured him into a mysterious cavern to retrieve a simple lamp, Aladdin’s courage and resourcefulness were tested. Betrayed and trapped, he uncovered the lamp’s secret—a powerful genie bound to grant a single wish. Instead of claiming riches or power, Aladdin sought the genie’s wisdom, forging a bond built on mutual respect. With newfound confidence and purpose, Aladdin had made a powerful friend in the genie, gaining not just a loyal companion but the clarity to shape his own destiny. Aladdin values strategic foresight, resourcefulness, and adaptability, proving that greatness is forged through courage, not just magic.",
           "unreleased": false,
-          "scraped_at": "2026-03-16T07:56:34Z",
+          "scraped_at": "2026-04-13T05:38:38Z",
           "skins": {
             "aladdin-aladdin": {
               "id": "aladdin-aladdin",
@@ -10052,8 +10052,8 @@
             "aladdin-silent-wish": {
               "id": "aladdin-silent-wish",
               "name": "Silent Wish",
-              "card_art_url": "https://wiki.smite2.com/images/T_Aladdin_SilentWish.png?06048",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/T_Aladdin_SilentWish.png/20px-T_Aladdin_SilentWish.png?06048",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AladdinS2_SilentWish.png?06048",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AladdinS2_SilentWish.png/20px-SkinArt_AladdinS2_SilentWish.png?06048",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Epic",
@@ -10064,8 +10064,8 @@
             "aladdin-winters-wish": {
               "id": "aladdin-winters-wish",
               "name": "Winter's Wish",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AladdinS2_WintersWish.png?414d4",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AladdinS2_WintersWish.png/20px-SkinArt_AladdinS2_WintersWish.png?414d4",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_AladdinS2_WintersWish.png?95f66",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_AladdinS2_WintersWish.png/20px-SkinArt_AladdinS2_WintersWish.png?95f66",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -10369,7 +10369,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-10T05:22:22Z",
+          "scraped_at": "2026-04-13T05:38:40Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10400,7 +10400,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-10T05:22:23Z",
+          "scraped_at": "2026-04-13T05:38:41Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
