@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-13T05:38:41Z",
+    "generated_at": "2026-04-15T05:22:33Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -30,9 +30,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Merlin, the enigmatic sorcerer, is the architect of Arthur's destiny and the driving force behind Camelot's rise. His origins remain a mystery—some say he is a man, others a creature of the arcane. What is certain is his unmatched mastery of magic and prophecy. A collector of secrets and ancient knowledge, Merlin wields the elements with devastating power, bending fire, ice, and lightning to his will. Worshiped by scholars and mystics, Merlin embodies wisdom, foresight, and the unrelenting pursuit of order. On the battlefield, he stands as a terrifying force, wielding both his spells and his intellect to ensure victory. As Arthur's closest ally, Merlin fights not for personal glory, but to see a world of peace and justice endure.",
+          "lore": "Merlin, the enigmatic sorcerer, is the architect of Arthur’s destiny and the driving force behind Camelot’s rise. His origins remain a mystery—some say he is a man, others a creature of the arcane. What is certain is his unmatched mastery of magic and prophecy. A collector of secrets and ancient knowledge, Merlin wields the elements with devastating power, bending fire, ice, and lightning to his will. Worshiped by scholars and mystics, Merlin embodies wisdom, foresight, and the unrelenting pursuit of order. On the battlefield, he stands as a terrifying force, wielding both his spells and his intellect to ensure victory. As Arthur’s closest ally, Merlin fights not for personal glory, but to see a world of peace and justice endure.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:30Z",
+          "scraped_at": "2026-04-15T05:20:30Z",
           "skins": {
             "merlin-merlin": {
               "id": "merlin-merlin",
@@ -135,9 +135,9 @@
           "damage_type": "Physical",
           "scaling": "60% Strength + 100% Intelligence + 60% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Throughout many legends and tales of King Arthur, details around the man that leads to his demise can differ dramatically. One thing is constant, however: his Wrath. Mordred, Breaker of the Round Table, seeks nothing more than to destroy the man who led his family to ruin long ago.\n\nHis father, King Lot, brother of Arthur, ruled prior to the young king – first as an adversary, then as allies. Prophecy foretells that Arthur will fall to a child born on the first of May and, in a desperate move, Arthur has all children of that year rounded up and shipped away. This ship would find itself to sink, and while many are presumed dead, Mordred survives and grows up with an unbridled hatred for his uncle.\n\nLot would take up arms against Arthur once more, fighting alongside foes seeking to depose him. One such battle would lead to Lot's death at the hands of King Pellinore, spurred on by Merlin. This act would cause a schism that would never heal, pushing Mordred to seek revenge at every turn.\n\nOver decades, he plotted and fought in many battles that saw him rise to a position of influence and fear. He took on his foes with a ferocity that spread to those he led in battle, causing a group of Knights to dedicate themselves to his cause. As his forces grew and his own legend spread, he finally found himself in position to launch his betrayal against the Crown.\n\nThe two sides would struggle for control of the Kingdom many times, leaving Mordred more and more corrupted by magical afflictions he sustained with each mutinous rule. Every time, his Wrath only grows and his thirst for revenge pushes him to reclaim it forever.",
+          "lore": "Mordred, the shadow of Camelot, whose hatred for King Arthur, his uncle and king, kindles a flame of vengeance that will not be snuffed. Cursed from birth, Mordred grew in the shadow of a prophecy foretelling Arthur’s demise by his hand, a destiny that fueled his wrath and desire for retribution. His followers are those wronged by family or bound to dark fates, those who seek justice by any means necessary. In him, they find the strength to defy legacy and rewrite destiny. As he takes the field, the end of Camelot echoes within him—a necessary betrayal that could yet reshape the world.",
           "unreleased": false,
-          "scraped_at": "2026-04-10T05:21:37Z",
+          "scraped_at": "2026-04-15T05:20:31Z",
           "skins": {
             "mordred-mordred": {
               "id": "mordred-mordred",
@@ -240,9 +240,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Morgan Le Fay, Enchantress of Avalon and once a cherished figure of Camelot, learned her craft beside Merlin and walked proudly among Arthur's court. Yet jealousy and whispered deceit turned admiration into condemnation, casting her from the kingdom she served. Heartbreak became resolve, and the sorceress who left Camelot returned as a master of arcane might, wielding illusion and shadow with absolute precision. Those that worship her seek dominance through control and cunning, bending the battlefield to their will with calculated magic and overwhelming presence.",
+          "lore": "Morgan Le Fay, Enchantress of Avalon and once a cherished figure of Camelot, learned her craft beside Merlin and walked proudly among Arthur’s court. Yet jealousy and whispered deceit turned admiration into condemnation, casting her from the kingdom she served. Heartbreak became resolve, and the sorceress who left Camelot returned as a master of arcane might, wielding illusion and shadow with absolute precision. Those that worship her seek dominance through control and cunning, bending the battlefield to their will with calculated magic and overwhelming presence.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:33Z",
+          "scraped_at": "2026-04-15T05:20:33Z",
           "skins": {
             "morgan-le-fay-morgan-le-fay": {
               "id": "morgan-le-fay-morgan-le-fay",
@@ -330,7 +330,7 @@
           "attack_range": "Melee",
           "lore": "Gilgamesh, the two-thirds divine King of Uruk, is both hero and tyrant, his story a blend of arrogance and redemption. Worshiped by adventurers and rulers alike, his name is synonymous with strength and relentless ambition. From his friendship with Enkidu to his quest for immortality, Gilgamesh has battled monsters and toppled kings, carving his legend across the sands of time. Now, as Tiamat rises, Gilgamesh seeks to unite the gods against her, hoping that victory might finally grant him the divine recognition he craves. On the battlefield, he combines raw power with indomitable determination, a relentless force driven by destiny.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:06Z",
+          "scraped_at": "2026-04-15T05:20:34Z",
           "skins": {
             "gilgamesh-gilgamesh": {
               "id": "gilgamesh-gilgamesh",
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-13T05:37:47Z",
+          "scraped_at": "2026-04-15T05:20:35Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -450,7 +450,7 @@
           "attack_range": "Both",
           "lore": "Artio, Bear Mother and Goddess of the Wild, is the embodiment of untamed nature’s strength and nurturing spirit. Revered by the Celts, she protects the forests, animals, and those who honor the balance between hunter and hunted. Gentle to her kin yet ferocious to her foes, she shifts between graceful druid and towering bear, reminding mortals of the duality of nature: kindness and fury in equal measure. Those drawn to Artio embrace adaptability, using her versatile forms to heal allies, ensnare enemies, and overwhelm foes with raw primal might.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:37:48Z",
+          "scraped_at": "2026-04-15T05:20:37Z",
           "skins": {
             "artio-artio": {
               "id": "artio-artio",
@@ -589,9 +589,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Standing upon the edge of the wooded realm of Cernunnos, one can feel the invitation and the threat. “Come and feast,” it calls. “Nature provides an abundance of crops and wild game.” Yet, the same voice turns dark. “Treat everything with due respect,” it warns. “This is not your home.” And, should one peer intently enough through the shadowed branches, a figure can be seen, horned as a stag, clothed in moss and leaves, eyes burning like untended embers. Cernunnos is master here, and although he has much to offer, he will not tolerate greed. Time turns on the Sacred Wheel, Spring to Summer, Summer to Autumn and Autumn at last to Winter. \n\nCernunnos was there at the shaping of the wheel, born of the womb of the All Mother before Gods were Gods, when the land was shapeless. This wheel is not of his making. He is both master of it and slave to it, transforming with the seasons like the world beneath his feet. He bears a heavy metal torc around his neck as a permanent pledge of loyalty to this cycle of life and death that only he can drive. Once, it was said, there was no break between his realm and this world. They were the same. Perhaps a time will come when the world shall once again be his. Then, all can walk among the whispering leaves. So long as they remain humble. For the arrogant, Cernunnos hunts. What are these other Gods? Guest or prey?",
+          "lore": "Cernunnos, the Horned God, lord of the untamed wild, is both hunter and guardian, benevolent and fierce. His realm calls to those who respect the balance of nature: farmers, hunters, and those who seek harmony over dominion. His worshipers find wisdom in the cycles of life and death, honoring the Sacred Wheel of seasons. Though he welcomes the humble to feast upon nature’s gifts, those who take greedily face his wrath. To his followers, Cernunnos is both a blessing and a warning—he walks with them in the shadows of the forest, reminding them that they are visitors in his ancient domain.",
           "unreleased": false,
-          "scraped_at": "2026-03-18T06:42:48Z",
+          "scraped_at": "2026-04-15T05:20:38Z",
           "skins": {
             "cernunnos-cernunnos": {
               "id": "cernunnos-cernunnos",
@@ -694,9 +694,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover’s scorn. Some dark power or darker purposes. But now they are one. She’s been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+          "lore": "The Morrigan, Goddess of Fate and War, is both weaver and warrior. With three faces—Anu, Macha, and Badb—she embodies prophecy, sovereignty, and death. Her worshipers are warriors, seers, and those drawn to the mysteries of life’s end. To them, she offers strength in battle and visions of what is yet to come, but at a price. In her many forms, she incites conflict, ensuring fate fulfills its course. As gods themselves wage war, The Morrigan steps forward, guiding them to their predestined ends, a silent conductor to the symphony of their demise.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:39Z",
+          "scraped_at": "2026-04-15T05:20:40Z",
           "skins": {
             "the-morrigan-the-morrigan": {
               "id": "the-morrigan-the-morrigan",
@@ -794,9 +794,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Da Ji, the Nine-Tailed Fox, hides cruelty behind beauty. Once a concubine in the Shang Dynasty, she was possessed by a spirit fox and transformed into a bringer of ruin. Her charm lured kings into folly, her whispers toppled empires, and her cruelty left countless victims broken. Worshippers feared her as much as they revered her, for Da Ji embodies temptation's deadly cost, irresistible yet merciless. On the battlefield, she is swift and cunning, darting in to ensnare prey with her chains before tearing them apart with ruthless precision. Those who choose Da Ji revel in deception and punishment, delighting in her ability to isolate, torment, and execute enemies with a predator's grace.",
+          "lore": "Da Ji, the Nine-Tailed Fox, hides cruelty behind beauty. Once a concubine in the Shang Dynasty, she was possessed by a spirit fox and transformed into a bringer of ruin. Her charm lured kings into folly, her whispers toppled empires, and her cruelty left countless victims broken. Worshippers feared her as much as they revered her, for Da Ji embodies temptation’s deadly cost, irresistible yet merciless. On the battlefield, she is swift and cunning, darting in to ensnare prey with her chains before tearing them apart with ruthless precision. Those who choose Da Ji revel in deception and punishment, delighting in her ability to isolate, torment, and execute enemies with a predator’s grace.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:41Z",
+          "scraped_at": "2026-04-15T05:20:41Z",
           "skins": {
             "da-ji-da-ji": {
               "id": "da-ji-da-ji",
@@ -937,7 +937,7 @@
           "attack_range": "Melee",
           "lore": "Guan Yu, the Saint of War and embodiment of loyalty and honor, stands as a symbol of justice for the downtrodden and the righteous. His worshipers—warriors, merchants, and villagers—seek his protection, trusting his unwavering integrity. Once a mortal general who swore a sacred oath to create a just world, Guan Yu became a god revered for his valor and virtue. In combat, his massive guan dao cleaves through evil, and his red-faced likeness wards against dishonesty. On the battlefield, Guan Yu is a steadfast guardian of righteousness, leading his allies to victory with unshakable resolve and peerless might.",
           "unreleased": false,
-          "scraped_at": "2026-03-25T04:51:25Z",
+          "scraped_at": "2026-04-15T05:20:43Z",
           "skins": {
             "guan-yu-guan-yu": {
               "id": "guan-yu-guan-yu",
@@ -1040,9 +1040,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "In a time long past, an unexpected calamity came to be. From whence none knew, ten suns rose above the horizon. Such incessant light and heat ravaged the earth, wilting fields of grain, drying rivers, even melting forged metal. Bent beneath the scorching rays, the people begged the Emperor-God Di Jun to aid them. In reply, he called the great archer, Hou Yi.Armed with a mystical red bow and a quiver of white arrows, Hou Yi traveled to Earth. What he found was a barren land. Shielding his eyes, he peered to the sky where the ten suns cruelly flared.Nocking arrow to bow, Hou Yi loosed a warning at the suns hoping to frighten them away, but they impassively remained. So Hou Yi drew again and fired a killing shot. Pierced, the sun exploded in color and a giant red raven with three legs fell to the earth, slain by the white arrow.Eight times more Hou Yi drew arrow to cheek. Eight shots more he let fly. Eight more bursts rent the sky, and eight more ravens fell dead. But one sun he left, and so fearful of Hou Yi's archery, this sun behaved, dipping below the horizon.Now armed with the power of the red ravens he smote, sending light and fire against those that threaten the world, be it monster or beast, dragon or sun, man or God, Hou Yi is the Defender of the Earth.",
+          "lore": "Hou Yi, the celestial archer, is the savior of the Earth, famed for felling nine of the ten suns that scorched the land. Worshipped by hunters, defenders, and those seeking courage, Hou Yi wields his mystical red bow with precision and unwavering resolve. His arrows carry the power of the slain sun-ravens, capable of striking fearsome monsters and gods alike. On the battlefield, Hou Yi’s pinpoint accuracy and fiery attacks make him a defender of unparalleled skill. His worshipers revere his bravery and determination to protect the world from catastrophe.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:44Z",
+          "scraped_at": "2026-04-15T05:20:44Z",
           "skins": {
             "hou-yi-hou-yi": {
               "id": "hou-yi-hou-yi",
@@ -1133,9 +1133,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "There are many stories about the girl who became a hero. Most are embellished, the events polished to a legendary sheen. They say that Hua Mulan was blessed, that her bow and blade were gifts of the gods. That she was wise beyond measure, and stronger than a hundred warriors, for her heart was pure. That she became the sworn sister of the king's daughter. That she returned home and married a prince, or perhaps a farmer. That she died.\n\nBut every story, no matter how outlandish, has a grain of truth to it. And this is the truth of Hua Mulan. China was invaded and a man from every family was called to serve in the army. But her father was old and her brother a child, and so for love's sake, she set aside her loom and went to war in their place. She disguised herself as a young man, and no one was the wiser, for her father had trained her in the ways of the bow and the blade, making her the equal of any man in the army.\n\nFor twelve years, she maintained the pretense. She fought well against the enemies of China, attaining rank and the loyalty of her fellow soldiers. She led men into battle more than once, setting herself where the fighting was thickest so that those who followed her might see her and take heart. At the end of that twelve years, she was offered a high rank, but turned it down. Instead, having grown tired of war, she asked only that she might return home to her family. And so she did, her duty complete.\n\n'But some stories do not end when the hero returns home. For some stories, that is only the beginning. For now, a new danger stirs, and Hua Mulan must once more take up her weapons in defense of her homeland...''",
+          "lore": "Hua Mulan, warrior of heart and honor, who took her father’s place in the army and rose through courage alone. For years, she served in disguise, defending her family’s honor and bringing victory to her people. Her worshipers are those who value duty, sacrifice, and the courage to defy tradition for a noble cause. For them, Hua Mulan stands as a paragon of virtue, one who redefines strength through loyalty and selflessness. Though her story should have ended at home, new threats call her back to the battlefield, her spirit a rallying cry for all who fight to protect what they love.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:46Z",
+          "scraped_at": "2026-04-15T05:20:46Z",
           "skins": {
             "hua-mulan-hua-mulan": {
               "id": "hua-mulan-hua-mulan",
@@ -1250,9 +1250,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Against the red rising sun, a winged form sweeps out to sea, claw clutched around a pebble. With focused grit, she hurls the small stone into the watery maw, circling above as it sinks into darkness. Resolved, she turns back to collect another. Jing Wei will not cease until the ocean is filled. That is her oath. And she will not break an oath. Once, she was a young girl, a princess, enamored by the glory of morning light. She gazed in wonder as her father, Yan Di, the Flame Emperor, shepherded the sun from the eastern sea. Desperately, she longed to reach the place where it emerged, but her father refused take her on the waters. One night, the princess sailed out alone, secretly hoping for a clear view come the dawn. But the waters were churning in a storm. Mountainous waves crashed into her tiny ship. The sea swallowed her whole. Yan Di woke and coaxed the sun from the horizon, only to find the shattered remains of his daughter’s boat upon the shore. Yet, even as he grieved, a bright goddess burst from the ocean and soared overhead. “Jingwei!” she cried, and Yan Di knew his daughter was reborn. Though given a second chance that day, Jing Wei swore an oath against the seas that took her life. She would fill them with stone until they were gone. An impossible task. But Jing Wei swore an oath. And Jing Wei will not break an oath.",
+          "lore": "Jing Wei, the fierce-winged spirit, whose defiant vow resounds as she tirelessly drops stones into the sea that claimed her life. Once a beloved princess, daughter of the Flame Emperor Yan Di, she drowned pursuing the dawn across vast waters. Reborn as a bird, she now labors endlessly to conquer the ocean, each pebble cast a testament to her unyielding resolve. Her worshipers—those who have faced impossible tasks, the resilient, and the determined—see in her the power of unbreakable oaths. Jing Wei inspires those who defy fate, each stone a symbol of her steadfast defiance against forces that once overpowered her.",
           "unreleased": false,
-          "scraped_at": "2026-04-10T05:21:45Z",
+          "scraped_at": "2026-04-15T05:20:47Z",
           "skins": {
             "jing-wei-jing-wei": {
               "id": "jing-wei-jing-wei",
@@ -1379,9 +1379,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Ne Zha, the Third Lotus Prince, was born not of flesh, but of divine magic and rebellion. Gifted with power even in childhood, he defied both gods and demons, wielding his flaming spear and fiery wheels with unmatched speed and grace. When his strength brought calamity to those he loved, Ne Zha sacrificed himself to restore balance - only to be reborn from a lotus blossom, purified and renewed. Now a symbol of redemption and youthful courage, Ne Zha fights with playful confidence and relentless energy. Players drawn to Ne Zha thrive on precision, agility, and the thrill of striking fast and true, dancing between life and death with every spin of his flaming rings.",
+          "lore": "Ne Zha, the Third Lotus Prince, was born not of flesh, but of divine magic and rebellion. Gifted with power even in childhood, he defied both gods and demons, wielding his flaming spear and fiery wheels with unmatched speed and grace. When his strength brought calamity to those he loved, Ne Zha sacrificed himself to restore balance—only to be reborn from a lotus blossom, purified and renewed. Now a symbol of redemption and youthful courage, Ne Zha fights with playful confidence and relentless energy. Players drawn to Ne Zha thrive on precision, agility, and the thrill of striking fast and true, dancing between life and death with every spin of his flaming rings.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:48Z",
+          "scraped_at": "2026-04-15T05:20:49Z",
           "skins": {
             "ne-zha-ne-zha": {
               "id": "ne-zha-ne-zha",
@@ -1460,9 +1460,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "When two warring Gods shattered the World Pillar, Heaven and Earth dangerously shifted, and Armageddon was unleashed. Firestorms, floods, and bloodthirsty monsters ravaged the land and stole the lives of more than can be counted. In ages past, Nu Wa, Guardian of Heaven and Earth, hand-crafted all people from clay. They were her creations, her children, her responsibility\n\nAs the Earth shuddered and broke, and the skies turned black with ash, Nu Wa forged five mystic stones, one for each of the elemental forces of nature: Earth, Water, Fire, Wood, and Metal. With the power of these stones, she slew a gargantuan tortoise, severed its legs, and raced to the broken World Pillar. One leg she used to prop the Heavens aloft and with the elemental stones, she sealed it in place. Balance between Heaven and Earth was restored, but the world was never the same. Skies cleared, but the stars had shifted. Seas retreated, but rivers drained westward. Everything leaned, but the End was averted.\n\nIn the years that followed, Nu Wa and her brother, Fu Xi, took the throne of China. They ruled with wisdom and ushered in an age of recovery and prosperity, for which she is adored and worshipped to this day.\n\nYet, the skies grow dark once more and chaos threatens to engulf the land. Gods from all Pantheons have chosen Earth as a battleground, trading blows with the same thoughtless fervor that destroyed the World Pillar so long ago. Determined to prevent such calamity from repeating, Nu Wa has summoned the elemental stones once more. For she is the Guardian of Heaven and Earth; all mankind are her creations, her children, her responsibility.",
+          "lore": "Nu Wa, guardian of heaven and earth, who sculpted humankind from clay and saved creation from collapse with her elemental stones. When the world pillar shattered, she restored balance, sacrificing her peace to protect her people. Her followers are those who revere life’s harmony and the delicate balance between nature and civilization. In times of crisis, they call upon her strength to hold their world together. As the gods’ chaos threatens devastation once more, Nu Wa raises her elemental stones, determined to defend her creation from the ruinous path of divine strife.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:50Z",
+          "scraped_at": "2026-04-15T05:20:50Z",
           "skins": {
             "nu-wa-nu-wa": {
               "id": "nu-wa-nu-wa",
@@ -1603,7 +1603,7 @@
           "attack_range": "Melee",
           "lore": "Sun Wukong, the Monkey King, is the immortal trickster and peerless warrior of the Jade Empire. Born from stone and crowned by rebellion, he defied the heavens themselves, stealing immortality, power, and pride from the very gods who sought to bind him. With his magical staff and mastery of shapeshifting, Sun Wukong outwitted every challenge the gods hurled at him. To mortals, he is both hero and menace — the embodiment of cunning and strength. Agile and relentless in battle, Sun Wukong fights not just to win, but to prove that no one, not even the heavens, can tame the Monkey King.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:51Z",
+          "scraped_at": "2026-04-15T05:20:52Z",
           "skins": {
             "sun-wukong-sun-wukong": {
               "id": "sun-wukong-sun-wukong",
@@ -1715,7 +1715,7 @@
           "attack_range": "Ranged",
           "lore": "Fierce Anhur, lion-headed God of War, wields cunning and strength, both swift as a spear’s strike. With his sister Bastet, he defends Ra’s journey against the serpent Apep. Yet even gods may love, and Anhur’s heart led him to Menhet, whom he captured and claimed as his bride. Now, armed with both skill and valor, he leads the charge against tyranny, a weapon to the oppressed, a terror to the unjust.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:37:55Z",
+          "scraped_at": "2026-04-15T05:20:53Z",
           "skins": {
             "anhur-anhur": {
               "id": "anhur-anhur",
@@ -1832,7 +1832,7 @@
           "attack_range": "Ranged",
           "lore": "Eternal judge of souls, Anubis, whose jackal’s gaze sees all truths. Born of shadow and light, Anubis honored his father Osiris through the sacred rites of mummification, a gift he granted to mortals. Weighing each heart against Ma’at, Anubis casts the unworthy into oblivion. As gods vie and the realm of the dead trembles, Anubis steps forth, ready to render judgment upon all—even the gods—to see who remains worthy of existence.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:37:56Z",
+          "scraped_at": "2026-04-15T05:20:55Z",
           "skins": {
             "anubis-anubis": {
               "id": "anubis-anubis",
@@ -2007,9 +2007,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Eset, Goddess of Magic and Motherhood, is the devoted protector of Egypt. Beloved for her wisdom and compassion, she is worshipped by those seeking healing, guidance, and the strength to endure hardship. When her husband Osiris was betrayed and slain by Set, Eset scoured the earth to gather his scattered remains, restoring him through her unmatched sorcery. From this devotion came Horus, destined to challenge Set and reclaim Egypt's throne. As a goddess, Eset embodies resilience and hope, shielding the vulnerable and empowering the faithful. Those drawn to her command the battlefield through protection and support, turning the tide with both strength and sacrifice.",
+          "lore": "Eset, Goddess of Magic and Motherhood, is the devoted protector of Egypt. Beloved for her wisdom and compassion, she is worshipped by those seeking healing, guidance, and the strength to endure hardship. When her husband Osiris was betrayed and slain by Set, Eset scoured the earth to gather his scattered remains, restoring him through her unmatched sorcery. From this devotion came Horus, destined to challenge Set and reclaim Egypt’s throne. As a goddess, Eset embodies resilience and hope, shielding the vulnerable and empowering the faithful. Those drawn to her command the battlefield through protection and support, turning the tide with both strength and sacrifice.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T08:59:56Z",
+          "scraped_at": "2026-04-15T05:20:56Z",
           "skins": {
             "eset-eset": {
               "id": "eset-eset",
@@ -2074,8 +2074,8 @@
             "eset-crimson-mist": {
               "id": "eset-crimson-mist",
               "name": "Crimson Mist",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_EsetS2_CrimsonMist.png?0f630",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_EsetS2_CrimsonMist.png/20px-SkinArt_EsetS2_CrimsonMist.png?0f630",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_EsetS2_CrimsonMist.png?bc5e6",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_EsetS2_CrimsonMist.png/20px-SkinArt_EsetS2_CrimsonMist.png?bc5e6",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
@@ -2100,9 +2100,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Behold the rumble from the deep, for it is the bellow of rock and stone. A titan of immortal ages has awoken from fitful slumber to crush all who tread upon his realm. A lumbering giant, patient, deliberate, unmovable; he is Geb, God of Earth.\n\nWhen a mortal's heart is weighed in the halls of Ma'at, Geb sits among the Gods in judgment. Those burdened with guilt and regret are claimed by Geb and dragged through the earthen crust to the underworld. Hearts free of such heaviness are taught words of power and ascend to the sky.\n\nAh, the sky.\n\nIt is but the one thing Geb longs for. In his eye, she is glorious sapphire, an unreachable object. But it was not always so. Once, the earth and sky were as one, Geb and Nut, Goddess of the Sky, locked in a lover's embrace. Ra deemed their union unfit and sent Shu, God of Wind, between them. In his rage, Geb thundered and broke the earth, but for naught, Nut was now forever out of reach.\n\nThough his desire has not weathered with the ages, Geb has rested peacefully for time immemorial, nurturing Mankind through bountiful harvest and stable ground for pyramids and palaces. It is the clash of Gods upon his surface that stirs him. He has risen to war, though his motives are unclear. Does he fight to prevent the destruction of his realm, or will he seize the chance to shatter the wind and reunite the earth and sky? Whatever the outcome, the earth will always remain.",
+          "lore": "Geb, God of Earth, whose flesh forms the land and whose patience is as ancient as stone. In the judgment halls of Ma’at, he claims guilty souls, dragging them into the depths of his domain. Once bound to the sky goddess Nut, his longing still echoes through the mountains, his love eternal yet forever thwarted by Ra’s decree. Awakened by divine strife upon his surface, Geb rises not merely to defend his realm but perhaps to reclaim that which was torn from him—whatever it takes.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:37Z",
+          "scraped_at": "2026-04-15T05:20:58Z",
           "skins": {
             "geb-geb": {
               "id": "geb-geb",
@@ -2205,9 +2205,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "At dawn, the sun lifts above the horizon, bathing mankind in color and life. At dusk, it sinks beneath the edge of the world, lost to sight, casting all into darkness. While the sun shines on the realm of mortal kind it is radiant Ra that guides it, but at night we share the sun with the underworld. It is not Ra that moves the sun along its subterranean path but Khepri, the scarab God, he who comes with the dawn.\n\nScarabs form dirt and dung into perfect spheres. Within, they lay eggs from which their young emerge fully formed. Using powerful arms and legs, scarabs can roll these spheres - many times their own size - incredible distances. It is from their father, Khepri, the sacred scarab gained this power. For the Dawn Bringer, the Sun is his sphere and all souls, living and dead, his children.\n\nKhepri is a guardian, a protector and a friend. He is a symbol of power and loyalty. Usually content to stay aloof, Khepri has risen for battle to defend existence from this shattering war. He will fight to shield us until the final sunset. Yet, it is he that brings the dawn.",
+          "lore": "Khepri, the Dawn Bringer, whose scarab form rolls the sun across the heavens each morning, renewing life from the shadows of night. As the scarab renews itself from a sphere of dust, so too does Khepri safeguard the cycle of rebirth, guiding the sun through the underworld. His worshipers, drawn from those who seek new beginnings or who cherish the mysteries of life’s cycle, look to Khepri for protection against darkness and despair. As gods clash and chaos spreads, Khepri’s relentless journey across the sky shines as a beacon of hope, each dawn a quiet promise of endurance.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:00Z",
+          "scraped_at": "2026-04-15T05:20:59Z",
           "skins": {
             "khepri-khepri": {
               "id": "khepri-khepri",
@@ -2310,9 +2310,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "When time began, there was only endless black waters. Yet, from water comes all life, and from this primordial force was born the first of Goddesses, Neith. As the waters continued to form the world and everything within it, Neith’s natural instinct to protect and nurture the people led her to champion the hunt. With meat she fed them and with hides she clothed them, but as the people she sought to protect grew old, or sick, or died on the battlefield, Neith’s compassion forced her to change her calling. \n\nWith nimble fingers, the Goddess wove shrouds to shield the lost spirits of the dead on their journey to the underworld, leaving a loose thread she could trace as the ghosts ventured down the river. As time passed, more and more threads spread across the world, weaving an intricate pattern of fate that only Neith could see. Now, the war between Gods grows ever more fevered, and Neith can no longer sit idle. The threads of fate are fraying at the edges and she must once again pick up her bow and hunt, or watch the world return to the waters from whence it came.",
+          "lore": "Neith, the ancient Huntress and Weaver of Destiny, born of the primordial waters and the first of the Egyptian pantheon. Hers is the hand that nurtured humankind, providing food, shelter, and guidance through life’s trials. Her followers are weavers, hunters, and healers, those who cherish the strength of community and the interconnected threads of fate. Now, as the gods clash and the fabric of existence frays, Neith picks up her bow and readies herself once more, determined to preserve the delicate weave she has guarded for eons, her arrows a testament to both protection and precision.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:01Z",
+          "scraped_at": "2026-04-15T05:21:01Z",
           "skins": {
             "neith-neith": {
               "id": "neith-neith",
@@ -2452,9 +2452,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Nut, Mistress of the Sky, stretches across the heavens, her body a canopy of stars guarding all beneath her. She is the mother of gods, including Osiris, Set, Eset, and Nephthys, and the eternal protector of Ra as he journeys through the night. To mortals, she is both comfort and mystery, offering safe passage to souls traveling to the afterlife. Though separated from her husband Geb by the decree of Ra, her love bridges even the vast distance between earth and sky. Worshippers call upon Nut for peace, renewal, and the prmise of dawn after darkness. On the battlefield, she is serene yet unyielding, her celestial power shielding allies and dispelling the chaos that dares to threaten the cosmic order.",
+          "lore": "Nut, Mistress of the Sky, stretches across the heavens, her body a canopy of stars guarding all beneath her. She is the mother of gods, including Osiris, Set, Eset, and Nephthys, and the eternal protector of Ra as he journeys through the night. To mortals, she is both comfort and mystery, offering safe passage to souls traveling to the afterlife. Though separated from her husband Geb by the decree of Ra, her love bridges even the vast distance between earth and sky. Worshippers call upon Nut for peace, renewal, and the promise of dawn after darkness. On the battlefield, she is serene yet unyielding, her celestial power shielding allies and dispelling the chaos that dares to threaten the cosmic order.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:03Z",
+          "scraped_at": "2026-04-15T05:21:02Z",
           "skins": {
             "nut-nut": {
               "id": "nut-nut",
@@ -2545,9 +2545,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Osiris, God of the Afterlife, once ruled Egypt with unmatched wisdom and benevolence. Betrayed by his jealous brother Set, he was murdered and torn apart, his remains scattered across the land. Through the devotion of his wife, Eset, Osiris was reassembled and given new life, though incomplete. No longer king of the living, he took his throne in the underworld, guiding souls with the same fairness he once gave his people. Worshiped by those seeking justice beyond death, Osiris is steadfast and unyielding. Even broken, he rises again to challenge the darkness, a guardian of life, death, and balanve. For those who value persistence, resilience, and unwavering justice, Osiris stands eternal.",
+          "lore": "Osiris, God of the Afterlife, once ruled Egypt with unmatched wisdom and benevolence. Betrayed by his jealous brother Set, he was murdered and torn apart, his remains scattered across the land. Through the devotion of his wife, Eset, Osiris was reassembled and given new life, though incomplete. No longer king of the living, he took his throne in the underworld, guiding souls with the same fairness he once gave his people. Worshiped by those seeking justice beyond death, Osiris is steadfast and unyielding. Even broken, he rises again to challenge the darkness, a guardian of life, death, and balance. For those who value persistence, resilience, and unwavering justice, Osiris stands eternal.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:40Z",
+          "scraped_at": "2026-04-15T05:21:04Z",
           "skins": {
             "osiris-osiris": {
               "id": "osiris-osiris",
@@ -2746,9 +2746,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Without the sun, there would be no light, no warmth, no life. Without Ra, there would be no sun.\n\nRa is a guardian, the keeper of Ma'at - order and truth, and master of the sun. Each day he sails across the sky in a golden ship, and each night traverses the underworld, bringing light and warmth to the dead beneath the horizon. For those in the scorched South, Ra was the first God, creator of earth and sky and father to all other Gods.\n\nBut Ra's time is fading like a twilight sky. His descendants have grown in power and prominence and seek to replace him as the figure of authority. His own granddaughter, Eset, cleverly poisoned him by secretly summoning a viper under his feet. When he stepped on it, the serpent's venomous bite poisoned him. Eset promised to heal Ra if he revealed to her his True Name. At first, he refused, for knowledge of his True Name would give Eset unparalleled power over him, but as the pain mounted, Ra was forced to relent. Eset kept her word and Ra was healed, though the cost may have been too high.\n\nLight can heal, but light can also burn, and the great protector is showing signs of wrath not seen since mankind's insolence. In that rare moment of anger, Ra sent his daughter, Hathor, in the form of a lion, to devour the people. However, he ended her bloody feeding before she consumed all mankind. This time, his burning gaze is set on the other Gods. When his wrath finally cools, nothing may be left but ash.",
+          "lore": "Ra, the sun god and creator of life, sails daily across the heavens, guarding Ma’at—truth and order—and bringing warmth to the living and the dead. Yet his age has weakened him, and his descendants, like Eset, vie for power. Betrayed by his granddaughter, who sought his True Name, Ra’s fury rekindles, and his gaze turns once more toward judgment. His worshipers—farmers, healers, and scholars—honor his light as the source of life and knowledge, fearing his wrathful stare. In this time of war, Ra’s searing light may once again cleanse, purging any who would upset the cosmic order.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:06Z",
+          "scraped_at": "2026-04-15T05:21:05Z",
           "skins": {
             "ra-ra": {
               "id": "ra-ra",
@@ -2863,9 +2863,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Hunter, guardian, destroyer, menace; the Crocodile God, Sobek, swims where the Nile takes him and owes allegiance to no one.\n\nSome say that Sobek was there when only the Dark Waters existed, so he helped create the world. Some say that Sobek made the Nile with his sweat and protects those that travel it if they pay him tribute, otherwise he destroys them. Some say that Sobek ushers the worthy dead down the Nile to the afterlife and aids in their rebirth, restoring sight and strength. Some say he is evil and hateful, ravaging those along the shores and terrorizing villages. Sobek, in truth, is all of these things and none.\n\nSobek is not a God of good or evil, of benevolence or malice, but a God of solitary neutrality, unless disturbed; a God that tends to his mighty river and performs his responsibilities to passing souls. The rest of the time, he does what he wishes. For his protection to the living and the dead, he is to be worshipped and respected. For his power, ferocity, and ruthlessness, he is to be rightfully feared.",
+          "lore": "Sobek, the Crocodile God of the Nile, is hunter, guardian, and terror of the waters. Some say he shaped the Nile from his sweat; others claim he guides the worthy dead to the afterlife. Sobek’s worshipers are riverfolk and warriors, those who respect the crocodile’s power and the river’s life-giving and deadly nature. They fear his wrath but honor his protection, knowing that their loyalty will grant them safe passage. As chaos touches his sacred Nile, Sobek rises, a primordial force bound only by his ancient river and his animalistic hunger.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:07Z",
+          "scraped_at": "2026-04-15T05:21:07Z",
           "skins": {
             "sobek-sobek": {
               "id": "sobek-sobek",
@@ -2977,7 +2977,7 @@
           "attack_range": "Melee",
           "lore": "Achilles, invincible warrior of the Greeks, led a thousand ships to Troy to avenge the theft of Helen by Prince Paris. Bathed as a child in the River Styx, his skin was made impervious, save for his heel. Achilles fought bravely until a feud with King Agamemnon led him to withdraw from battle. Hector, prince of Troy, seized the moment, but Achilles returned after his beloved Patroclus was killed in his place. Achilles killed Hector, but Paris, with divine guidance, struck Achilles in his heel, ending his life. Now drawn from Hades, Achilles seeks vengeance on the gods who stole his glory.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:02Z",
+          "scraped_at": "2026-04-15T05:21:08Z",
           "skins": {
             "achilles-achilles": {
               "id": "achilles-achilles",
@@ -3107,7 +3107,7 @@
           "attack_range": "Ranged",
           "lore": "Aphrodite, the Goddess of Beauty, is as breathtaking as she is lonely, seeking solace where none remains. Her allure sparked the Trojan War, yet now she hopes to quell conflict rather than fan its flames. Adorned with grace, she steps onto the battlefield not to bring destruction, but to seek a beauty far deeper than appearance—a peace woven from within, born of her truest self. She knows all too well how to bend the wills of men, but now her heart is set on controlling the hearts of the gods as well.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:04Z",
+          "scraped_at": "2026-04-15T05:21:10Z",
           "skins": {
             "aphrodite-aphrodite": {
               "id": "aphrodite-aphrodite",
@@ -3320,7 +3320,7 @@
           "attack_range": "Ranged",
           "lore": "Apollo, the God of Music, is a cavalier force of brilliance and artistry. With his legendary bow and golden lyre, he inspires armies and dazzles even the gods. From slaying the great serpent Pylos as a mere child to outshining Hermes’ son Pan in a contest of music, Apollo’s life has been one of triumph. His faith runs deep among soldiers, musicians, and kings who sing his praises, each melody a hymn to his name. Now, as gods clash, Apollo takes the field for one last performance, his light unyielding and his aim true.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:05Z",
+          "scraped_at": "2026-04-15T05:21:11Z",
           "skins": {
             "apollo-apollo": {
               "id": "apollo-apollo",
@@ -3461,7 +3461,7 @@
           "attack_range": "Melee",
           "lore": "War incarnate, Ares strides into battle with a brutal grin, the chaos of war raging in his wake. Scorned by his father Zeus, shunned by his sister Athena, yet adored by those who revere strength above all. His worshipers know his strength and the firey spirit that rests within his soul. The Spartans bound his statues in chains, seeking to contain his fury within their city’s walls. But now, unleashed, his wrath flows unchecked, a force feared by gods and mortals alike.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:06Z",
+          "scraped_at": "2026-04-15T05:21:13Z",
           "skins": {
             "ares-ares": {
               "id": "ares-ares",
@@ -3614,7 +3614,7 @@
           "attack_range": "Ranged",
           "lore": "Artemis, Goddess of the Hunt, is a force of precision and vengeance. Born alongside her twin Apollo under Hera’s curse, she claimed her destiny as a protector of the wilds and a relentless pursuer of justice. She has humbled arrogant hunters, dispatched demigods with cunning traps, and punished all who dared dishonor her. Worshipped by hunters, midwives, and warriors, Artemis is both protector and punisher, a goddess whose arrows always find their mark. On the battlefield, her aim is clear, and her wrath, unstoppable.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:08Z",
+          "scraped_at": "2026-04-15T05:21:14Z",
           "skins": {
             "artemis-artemis": {
               "id": "artemis-artemis",
@@ -3839,7 +3839,7 @@
           "attack_range": "Melee",
           "lore": "Athena, Goddess of Wisdom and Strategy, embodies honor in war, guiding heroes not through brute force, but through intellect and moral clarity. Born from Zeus's brow, she protects the just and inspires cunning champions like Odysseus and Diomedes—ultimately masterminding the Trojan Horse that brought down Troy. Worshipped by those who value wisdom over slaughter, Athena exemplifies victory earned with honor. When chaos descends, she stands ready—with counsel over carnage, strategy over savagery.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:10Z",
+          "scraped_at": "2026-04-15T05:21:16Z",
           "skins": {
             "athena-athena": {
               "id": "athena-athena",
@@ -4002,9 +4002,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Cerberus, the Hound of Hell, guards the gates of the underworld with unmatched ferocity. With three ravenous heads, a serpentine tail, and molten eyes, he ensures none of the living may enter and none of the dead may escape. Once chained to the dark abyss, Cerberus now prowls the battleground of the gods, eager to drag those who defy death into eternal damnation. Beware the hound's gaze—it sees only prey.",
+          "lore": "Cerberus, the Hound of Hell, guards the gates of the underworld with unmatched ferocity. With three ravenous heads, a serpentine tail, and molten eyes, he ensures none of the living may enter and none of the dead may escape. Once chained to the dark abyss, Cerberus now prowls the battleground of the gods, eager to drag those who defy death into eternal damnation. Beware the hound’s gaze—it sees only prey.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:53Z",
+          "scraped_at": "2026-04-15T05:21:17Z",
           "skins": {
             "cerberus-cerberus": {
               "id": "cerberus-cerberus",
@@ -4157,7 +4157,7 @@
           "attack_range": "Ranged",
           "lore": "Charon, Ferryman of the Styx, is the unwavering guardian of the threshold between life and death. For a single coin he guides souls across the shadowed waters, neither judge nor executioner, but a steadfast keeper of ancient laws. Those who honor the rites find in him a silent protector; those who defy them face his relentless wrath. As the underworld trembles and lost spirits wander, Charon leaves his familiar shores to restore order to the river of the dead. Those drawn to Charon command space and control the battlefield, enforcing boundaries, shielding allies, and punishing any who dare cross the line without paying the toll.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:20:54Z",
+          "scraped_at": "2026-04-15T05:21:19Z",
           "skins": {
             "charon-charon": {
               "id": "charon-charon",
@@ -4238,7 +4238,7 @@
           "attack_range": "Ranged",
           "lore": "Chiron, the Great Teacher, stands apart from his kin as a centaur of wisdom rather than savagery. Scholar, poet, and master of the stars, he devoted his long life to shaping heroes, training legends such as Achilles, Perseus, and Ajax not only in combat, but in discipline and restraint. Yet time and again, the world has chosen to sing of war over knowledge, forcing Chiron to set aside his scrolls for bow and armor. Now, as chaos threatens all he cherishes, the mentor steps onto the battlefield himself. Those who choose Chiron value precision, foresight, and mastery, striking from range with calculated power while guiding the fight with the calm of a true teacher.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:21Z",
+          "scraped_at": "2026-04-15T05:21:20Z",
           "skins": {
             "chiron-chiron": {
               "id": "chiron-chiron",
@@ -4303,8 +4303,8 @@
             "chiron-sagittarius": {
               "id": "chiron-sagittarius",
               "name": "Sagittarius",
-              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChironS2_Sagittarius.png?86ab6",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChironS2_Sagittarius.png/20px-SkinArt_ChironS2_Sagittarius.png?86ab6",
+              "card_art_url": "https://wiki.smite2.com/images/SkinArt_ChironS2_Sagittarius.png?cc270",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/SkinArt_ChironS2_Sagittarius.png/20px-SkinArt_ChironS2_Sagittarius.png?cc270",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Heroic",
@@ -4329,9 +4329,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Inevitably, death sends everyone to Hades, God of the Underworld. In the end, he always gets his way. Eldest son of the Titans Cronus and Rhea, Hades was swallowed by his father as an infant along with five other siblings. Zeus, the youngest brother, escaped this fate and freed them once he’d grown strong enough to battle Cronus. Together, the six siblings defeated the Titans and banished them to the dark realm of Tartarus. Now the reigning Gods, Zeus, Poseidon, and Hades drew lots for dominion. Hades drew the Underworld. \n\nOf the few that have entered the Underworld and come back, all speak dismally of the place, never wishing to return. Yet Hades, himself, rarely leaves the subterranean realm, constantly seeking ways to grow the numbers of the dead. When he desired a wife, Hades captured the radiant Persephone, daughter of the Goddess Demeter. Concealed in the Underworld, none could reach her, so Demeter cursed the land with a great famine. The other Gods pleaded with her to end it lest she destroy mankind, but she would not relent until her daughter was returned. Hades finally let Persephone leave, though not before feeding her pomegranate seeds. Having consumed the fruit, she was bound forever to Hades and required to return to her husband once per year to eat of the seeds again. This, it is said, is a time of mourning and the cause of winter. \n\nWhile many fear death and view it as evil, in truth, Hades endeavors only to keep balance. He is stern but fair. As God of the Dead and the Underworld, he views his authority on this matter absolute, forbidding anyone to leave his realm and growing wrathful when disobeyed or when someone tries to cheat death or steal from him. For everyone, death is unavoidable and service to Hades inevitable. Even the Gods.",
+          "lore": "Hades, lord of the Underworld, as constant as the dark itself. Eldest son of Cronus, he rules with solemn duty, seldom leaving his shadowed kingdom. His capture of Persephone filled him with purpose and tempered his rule with the cycle of seasons. Yet Hades’ power lies not only in his domain but in the inevitability he represents. He watches the gods' warfare from below, his patience vast, knowing all paths eventually lead to his realm—no soul, no god, can evade his reach forever.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:22Z",
+          "scraped_at": "2026-04-15T05:21:22Z",
           "skins": {
             "hades-hades": {
               "id": "hades-hades",
@@ -4434,9 +4434,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Between Olympus, Underworld, and all realms exists a liminal space very few can wander. The entrances to this ethereal plane are difficult to find, but those who do know to look for the shadowed figure lit by a mythical torch. Hecate, Goddess of Sorcery and Witchcraft, holder of the keys between worlds. From guiding the wayward Persephone home to alerting man of incoming conflict between Gods, she watches over the crossroads that connect all realities. The daughter of the Titan Perses and Asteria, her ability to traverse these spheres is only matched by her skills in magic. Bestowed the right by Zeus himself, she took to showing those worthy the ways of harnessing powers through unnatural means. She would become worshiped by scholars and cultists alike, all who seek the witch’s ways to distort the lines between life and death. While other Gods held them as their own, Hecate uses these domains as an expression of her will, and any who follow would enjoy such power. As she now breaches the seams between not only her pantheon but those beyond, she’s now faced with more potential than ever before. Now that deities war amongst themselves once more, Hecate finds herself a mediator once more. However, when reason and persuasion fail, there is no threat her sorcery cannot subvert.",
+          "lore": "Hecate, Goddess of Sorcery and the keeper of all crossroads, stands as a guide between worlds, where shadows loom and reality blurs. She is the patron of scholars, mystics, and seekers of hidden knowledge—those brave enough to peer beyond the veil. Hecate’s followers are drawn to her mastery of magic and the occult, and many are adept in rites and rituals that connect them to realms unseen. She guards those who face uncertainty, as they pray for her light in their darkest moments. As divine conflict grows, Hecate holds her torch high, ready to use her powers as guide, protector, or fearsome avenger.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:24Z",
+          "scraped_at": "2026-04-15T05:21:23Z",
           "skins": {
             "hecate-hecate": {
               "id": "hecate-hecate",
@@ -4551,9 +4551,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "All monsters are hideous and fearful, but some are worse than others. There is only one whose hair is made of slithering serpents, only one with skin of scales, and only one whose very gaze can turn man, beast, or God to stone. Medusa, the Gorgon.\n\nStories claim she was beautiful once. A priestess of Athena. Loyal and devout in action, but Poseidon was determined to make her his own. It was the fairness of her features, the golden of her hair, that attracted the Sea God. Medusa, a mortal maiden, could not refuse.\n\nWhen Athena learned of Medusa's betrayal, she punished the priestess. Those fair features were hideously wrought and those golden locks twisted to hissing vipers. Anyone that met her eyes was petrified – a statue for all eternity.\n\nMedusa fled, frightened, ashamed and furious. For years she hid from the world, nursing a festering hatred for all things, craving beauty but having none, seeing none, until she became the monster she appeared to be.\n\nShe slithers now to the field of battle. Those wretched features concealed behind a cruel mask of porcelain perfection, eyes burning from within. All that she perceives, all that is wonderful in this world, she seeks to destroy. Perhaps then she will be the fairest monster of them all.",
+          "lore": "Medusa, the Gorgon, whose very gaze turns flesh to stone, embodies vengeance born of sorrow. Once beautiful, she was cursed by Athena, transforming her hair to writhing snakes and her beauty to horror. Her worshipers are those who have suffered unjustly, who turn pain into power and find strength in defiance. They embrace her visage as a protective shield, a warning to foes who might cross them. Now, Medusa enters the godly fray, seeking to turn her horror into a weapon, ensuring that all who meet her gaze pay the price for her suffering.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:25Z",
+          "scraped_at": "2026-04-15T05:21:25Z",
           "skins": {
             "medusa-medusa": {
               "id": "medusa-medusa",
@@ -4656,9 +4656,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Of arrogance and pride, the Greeks have but one word: hubris. It is a crime against Gods and Men, but a crime many commit with impunity. Even mighty Zeus is guilty. But when punishment is due, there is one from whom even the God of Thunder shrinks. She is Nemesis, the red-washed blade of Divine Retribution.\n\nRecall the tale of Narcissus, so taken by his own beauty. Proudly, his visage was flaunted, to the detriment of all. Until, at last, he was led to a pond of crystal hue where his own reflection enraptured him. So long did he remain to gaze upon this self-image that hunger claimed his life. Thus does Nemesis respond to hubris. It is consequence equal to the crime.\n\nNow, behold the war torn land, beset by the wrath of wanton Gods filling the air with blood and boasts. This battlefield is stained with hubris. Unwittingly, these foolish warriors have summoned their greatest adversary. Nemesis has come!\n\nNo longer will foul deeds engender success, no hoard of wealth held in undeserving hands, no legends told when falsely earned. Nemesis will unleash a tide of retribution. Punishment for the crime of hubris is death.",
+          "lore": "Nemesis, the balancer of fate, who punishes arrogance and pride wherever it grows unchecked. Known for humbling even the mighty Narcissus, she ensures that no deed skirts by without judgement. Her worshipers are often those wronged by betrayal or those who pursue justice beyond the reach of mortal law. In Nemesis, they find a goddess who hears their pleas and wields her power without mercy, promising retribution for those who escape mortal consequence. Now, amid the gods’ vanity-fueled warfare, she strides forth, delivering divine balance to all who defy the scales.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:31Z",
+          "scraped_at": "2026-04-15T05:21:26Z",
           "skins": {
             "nemesis-nemesis": {
               "id": "nemesis-nemesis",
@@ -4809,9 +4809,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Deep beneath the turbulent tides of the ocean lingers a God of idle rage. What must it be like to live forever in the shadow of your brother? To be denied again and again that which you desire, despite the power of the wrathful seas at your command? So Poseidon broods on his throne at the ocean floor.\n\nAs a child, Poseidon and his brother, Hades, were consumed by their father, Cronus. Powerless to escape, it was left to mighty Zeus to free them and slay their patron. Together, they defeated the last of the Titans and ushered in a new age of dominance for Olympian Gods, but their freedom, their very lives, Zeus would never let either brother forget were owed to him. Even as the heavens, the underworld, and the seas were divided among them, Zeus positioned himself as king of all, and what was Poseidon to do but be thankful he had been spared a fate in his father's belly? So he retired to his new realm and began the pursuit of gathering worshippers.\n\nSoon rose a great ocean front city of mankind, and Poseidon presented himself as their God, but another had already come, Athena, Zeus' daughter. A competition was held – each God would offer a gift and the people would select their sponsor. Confident, Poseidon drove his Trident, a trophy from the battle against the Titans, into the ground and a limitless spring emerged, but the people found the water salty and undrinkable. Athena extended her hand and a graceful olive tree rose from the earth. Wood, food, and oil, all from one gift. The people decided and the city was called Athens.\n\nIt may be that Poseidon never desired greatness as Zeus did. Had his father never consumed him, had he never been made God of the Sea, had his brother never crowned himself King of the Gods, Poseidon might have lived contentedly, but that chance is gone. Now, with the very tides at his command, an army of sea beasts at his back, and the formidable Kraken at his call, the glowering God of the deep seeks to quench his thirsty rage and plunge all the world in endless, wrathful seas.",
+          "lore": "Poseidon, god of the oceans and storms, stands ever in the shadow of his brother, Zeus. Though he aided in the defeat of the Titans, his ambitions were curbed by Zeus, who took the throne for himself. Poseidon’s power commands the seas and the Kraken, his rage mirrored by the tempestuous waves. His followers are seafarers, those who respect and fear the sea’s vast, untamable depths. They know Poseidon’s favor is fleeting and his wrath inevitable. Now, as the gods’ battle threatens to engulf all realms, Poseidon’s storm surges, threatening to drown even Olympus, along with its ill-gotten throne, under the weight of his unleashed tides.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:33Z",
+          "scraped_at": "2026-04-15T05:21:28Z",
           "skins": {
             "poseidon-poseidon": {
               "id": "poseidon-poseidon",
@@ -4974,9 +4974,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorised sailors for centuries. Legends say she was either a cursed naiad or born of gods' envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity. \n\nScylla embodies primal hunger and relentless destruction. Now freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
+          "lore": "Scylla, the Horror of the Deep, is a nightmare given form. With writhing, dog-headed tentacles and childlike laughter that chills the blood, she has terrorized sailors for centuries. Legends say she was either a cursed naiad or born of gods’ envy, but her monstrous nature is undisputed. Worshipped by those who fear her wrath or admire her ferocity, Scylla embodies primal hunger and relentless destruction. Her playstyle reflects her predatory instincts, striking swiftly and ruthlessly. Now, freed from her watery prison, Scylla stalks the mortal world, ready to drag her enemies into the abyss with gleeful malice.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:35Z",
+          "scraped_at": "2026-04-15T05:21:29Z",
           "skins": {
             "scylla-scylla": {
               "id": "scylla-scylla",
@@ -5079,9 +5079,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Inevitably, all mortals must die. They cling to life with fevered desperation, for death is a cold unknown, filled with uncertainty and bleak, everlasting finality. Some accept fate with grace, others are dragged, kicking and screaming, though in truth, no mortal would go to Hades willingly. They are reaped by the nightmarish God of Death, whose grim visage strikes strange against the gleeful satisfaction he feels at performing his work. Thanatos is the very face of death. Yet, to Thanatos, Mortals are easy prey. Their end is preordained, harvesting them but a game to pass the eons, but a God, a being beyond the mortal coil, now there is a creature Thanatos eyes with greedy longing. He despises the immortality other Gods covet. To him, it is a perversion and defiance of his very purpose. But can a God truly die? As the Heavens clash and immortal blood spills on the Earth, Thanatos hungers to find out. War is but the preamble to death, a battlefield of souls rent from their bodies, listlessly waiting to be taken by the God of Death. A war between Gods, a war of this magnitude can mean only one thing. Thanatos is about to be very, very busy.",
+          "lore": "Thanatos, the personification of Death, harvests mortal souls with a grim satisfaction. Yet it is not mortals he craves, but the immortal. Thanatos despises the gods’ defiance of death, their timeless existence a mockery to his purpose. His followers are those who accept death’s certainty, the mourners, and those who find peace in life’s final release. Now, as divine blood stains the earth, Thanatos stalks the battlefield, eager to test whether even gods can escape the inescapable—a fate that may render him victor over all existence.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:31Z",
+          "scraped_at": "2026-04-15T05:21:31Z",
           "skins": {
             "thanatos-thanatos": {
               "id": "thanatos-thanatos",
@@ -5196,9 +5196,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "King of Gods, Zeus strives for fairness and justice, but will not hesitate to call down the thunder when there’s smiting to be done! Zeus’ father, the Titan Cronus, immediately swallowed his children after birth so that none could overthrow him as he had his own father. When Zeus was born, Rhea, Zeus’ mother, hid the child from Cronus and gave the Titan a rock in swaddling clothes, which he swallowed instead. In secret, Zeus grew up on the isle of Crete until he was old and strong enough to challenge his father. During their battle, Zeus slit open Cronus’ stomach, allowing his swallowed brothers and sisters to escape, slaying the Titan. Then, Zeus released the Cyclops and other beings Cronus had kept imprisoned. In gratitude, the Cyclops awarded Zeus control over lightning. \n\nWith his two brothers, Poseidon and Hades, the three Gods drew lots to decide command of creation. Poseidon became king of the sea, Hades the underworld, and Zeus the sky. From his golden throne atop Mount Olympus, Zeus now rules Gods and Men with his wife Hera, upholding justice, hospitality, oaths, and honesty to all under his domain. Yet, Zeus is a restless God, and while he holds high expectations for others, he does not keep those standards for himself. Chiefly, Zeus is nearly infamous for several infidelities to his wife which have resulted in dozens of children beget by other women, most famous of which are Hercules, Artemis, and Athena. Such wanton unfaithfulness is the source of great jealousy from Hera, though as King, Zeus can ultimately do as he wishes. Weather is dictated by the Thunder God’s mood. When in a fair temperament, the sky is clear, bright and warm. When Zeus’ anger flares, black clouds roll in, lightning streaks the sky and thunder shakes the very ground. Lately, Zeus has been furious.",
+          "lore": "Zeus, King of Olympus, wields justice and thunder, upholding the divine order with an iron hand. He defeated Cronus, taking his rightful throne and wielding lightning against any who challenge his rule. Worshiped by kings, judges, and those who revere power, Zeus’s followers know he is both a generous protector and a fearsome punisher. With Olympus threatened, his fury awakens, darkening skies and shaking mountains. Zeus will not yield to fate or foe—he is the lord of storms, and his wrath is as boundless as the sky itself.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:33Z",
+          "scraped_at": "2026-04-15T05:21:32Z",
           "skins": {
             "zeus-zeus": {
               "id": "zeus-zeus",
@@ -5313,7 +5313,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-13T05:38:16Z",
+          "scraped_at": "2026-04-15T05:21:33Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5346,7 +5346,7 @@
           "attack_range": "Ranged",
           "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
           "unreleased": true,
-          "scraped_at": "2026-04-13T05:38:17Z",
+          "scraped_at": "2026-04-15T05:21:34Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -5386,7 +5386,7 @@
           "attack_range": "Ranged",
           "lore": "In all realms, fire is both feared and cherished. Agni, twin of thunderous Indra, is both purifier and destroyer, the bearer of divine messages through sacred flames. His fires can warm and enlighten, yet they burn with ferocity, cleansing the unworthy. Beloved by mortals, feared by gods, he strides forward, flames licking away corruption, shielding those who stand beside him. Beware, for Agni's dual nature is unyielding—whether to preserve or consume, only he decides.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:18Z",
+          "scraped_at": "2026-04-15T05:21:36Z",
           "skins": {
             "agni-agni": {
               "id": "agni-agni",
@@ -5525,9 +5525,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Ganesha, the Elephant-Headed Remover of Obstacles, brings wisdom, prosperity, and clarity to his followers. His devotees, from merchants seeking fortune to students striving for knowledge, honour him before new endeavours. With a generous heart, Ganesha clears paths for the diligent and honest while humbling the arrogant. Reluctantly taking up arms, he now enters the battleground of the gods to determine who is worthy to remain.\n\nOn the field, Ganesha protects his allies and disrupts foes, embodying strategic support and unwavering resolve as he determines which paths shall be opened and which shall remain closed.",
+          "lore": "Ganesha, the Elephant-Headed Remover of Obstacles, brings wisdom, prosperity, and clarity to his followers. His devotees, from merchants seeking fortune to students striving for knowledge, honor him before new endeavors. With a generous heart, Ganesha clears paths for the diligent and honest while humbling the arrogant. Reluctantly taking up arms, he now enters the battleground of gods to determine who is worthy to remain. On the field, Ganesha protects allies and disrupts foes, embodying strategic support and unwavering resolve as he determines which paths shall be opened and which shall remain closed.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:42Z",
+          "scraped_at": "2026-04-15T05:21:37Z",
           "skins": {
             "ganesha-ganesha": {
               "id": "ganesha-ganesha",
@@ -5726,9 +5726,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Kali, the Goddess of Destruction, thrives in chaos and bloodshed. Born from the brow of Durga to end a demon's reign, Kali is wrath incarnate, adorned in a garland of skulls and wielding weapons in every hand. Yet, beneath her terrifying visage lies a sacred duty — to cleanse corruption and rebalance the scales of life and death. Worshipped by those who embrace the cycle of destruction and rebirth, Kali rewards fearless devotion. In battle, she is relentless, overwhelming foes with flurries of strikes, fueled by every fallen adversary. For Kali, destruction is not cruelty — it is liberation.",
+          "lore": "Kali, the Goddess of Destruction, thrives in chaos and bloodshed. Born from the brow of Durga to end a demon’s reign, Kali is wrath incarnate, adorned in a garland of skulls and wielding weapons in every hand. Yet, beneath her terrifying visage lies a sacred duty — to cleanse corruption and rebalance the scales of life and death. Worshipped by those who embrace the cycle of destruction and rebirth, Kali rewards fearless devotion. In battle, she is relentless, overwhelming foes with flurries of strikes, fueled by every fallen adversary. For Kali, destruction is not cruelty — it is liberation.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:38Z",
+          "scraped_at": "2026-04-15T05:21:39Z",
           "skins": {
             "kali-kali": {
               "id": "kali-kali",
@@ -5831,9 +5831,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Ravana's immortal reign subjugates the people. Shiva's boon grants the demon-king invulnerability against gods and beasts. Only mortal men stand a chance of defeating him, but Ravana's might is too potent for a mere man to overcome. All seems lost.To save us, Vishnu took human form. Rama, prince of Ayodhya.\n\nAt age 16 he was already the perfect embodiment of man. Strong, humble, handsome, patient, devout; he is what mankind strives to be, yet, for all our flaws, can never reach.When a neighboring kingdom, cursed by Ravana's magic, asked for aid, Rama answered, despite the misgivings of his father. With his brother Laksharma, Rama set out and slew a horde of demons. At the palace, Rama cleansed the curse by freeing the queen from stone. The city celebrated and Rama was invited to string Shiva's bow – with the prize princess Sita's hand in marriage. Shiva's bow could not be lifted by any man, let alone strung, but Rama broke the bow in half. He and Sita wed immediately.\n\nReturning home, Rama was to be crown prince, but the jealousy of queen Kaikeyi forced Rama into exile, where he's remained these past fourteen years.Yet Rama was recently seen on the field of battle. Word is, Ravana stole Rama's wife, and Rama left exile to embrace his destiny. He must defeat Ravana, free his wife, and set mankind on a path for peace, else darkness and evil will conquer all.''",
+          "lore": "Rama, Prince of Ayodhya, is the mortal avatar of Vishnu, embodying strength, patience, and devotion. When the demon-king Ravana abducted his beloved Sita, Rama took up arms to confront Ravana, defying even Shiva’s protection over the tyrant. Worshipers of Rama are seekers of justice, the honorable, and those loyal to family. They look to him as the ideal hero, one who fights for humanity’s peace. With his unbreakable resolve and boundless compassion, Rama’s journey is more than revenge—it is the salvation of humankind from an era of darkness.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:45Z",
+          "scraped_at": "2026-04-15T05:21:40Z",
           "skins": {
             "rama-rama": {
               "id": "rama-rama",
@@ -5933,7 +5933,7 @@
           "attack_range": "Melee",
           "lore": "Radiant Amaterasu, goddess of the Sun, beloved beacon of hope and light. Even the sun knows shadows, for her brother Susano's envy cast her into despair. Hidden away, her light faded until, with laughter of friends, she returned, vowing never to dim again. Her people once suffered her absence, but now she rises to defend them. As war threatens to swallow creation in darkness, Amaterasu shines like the dawn, ready to cast brilliance upon the unworthy and guide the faithful through the storm—even if it leads to her brother's end.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:21Z",
+          "scraped_at": "2026-04-15T05:21:42Z",
           "skins": {
             "amaterasu-amaterasu": {
               "id": "amaterasu-amaterasu",
@@ -6060,9 +6060,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Among the tanuki of Sado Island, one name is known above all others – that of Danzaburou. The supreme commander of all tanuki is infamous for his antics and his tricks are justly feared by mortal and immortal alike.\n\nA shape-shifter and trickster without equal, Danzaburou has never met a prank he would not pull. While these are mostly for his own amusement, he has been known to act on behalf of others, so long as he finds it entertaining. Even so, like all tanuki, he lives to cause trouble, and relishes every opportunity to show off his cleverness, as well as his capacity to cause havoc.\n\nNowhere is this more evident than on the battlefield, where Danzaburou surrounds himself in chaos and confusion. He fights with great cunning. When not dodging his opponent's attacks, or leaving a statue in his place to absorb the brunt of their wrath, he's hiding in plain sight, waiting for his moment to strike. To say that Danzaburou is a frustrating opponent is an understatement.\n\nBut Danzaburou brings more than just frustration – he is also a purveyor of good fortune. Jug of sake in one hand, and a promissory note in the other, the tanuki offers his opponents a drink and payment even as he plans his next trick or three. With his sly grin and big belly, the cheerful tanuki can turn even the staunchest of his foes into a friend – at least for as long as it takes to get to the bottom of a jug of sake.\n\nIt is said that Danzaburou has been outwitted only once, by a human peasant. Ever since, the tanuki has refrained from playing tricks on hapless humans. Instead, he reserves his best pranks for what he considers to be a less perceptive audience...\n\nNamely, the gods themselves.",
+          "lore": "Danzaburou, the cunning tanuki of Sado Island, delights in trickery and mirth. A master shapeshifter, he revels in outwitting mortals and gods alike, his laugh as infectious as his pranks. Often mistaken for a friend, his gifts of sake and sly deals soon lead to surprises—often at someone else’s expense. Yet behind his grin lies a sharp mind, and Danzaburou weaves through chaos, always ready with a fresh trick, a friend one moment, a foe the next, and a mystery always.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:43Z",
+          "scraped_at": "2026-04-15T05:21:43Z",
           "skins": {
             "danzaburou-danzaburou": {
               "id": "danzaburou-danzaburou",
@@ -6191,7 +6191,7 @@
           "attack_range": "Ranged",
           "lore": "Izanami, once a creator of worlds, now Queen of Yomi, the underworld. She and her husband, Izanagi, forged all things, yet in giving birth to the god of fire, she was torn from life. In grief, Izanagi sought her in Yomi, but seeing her decayed form, he fled, leaving her bound to death. Enraged by his betrayal, she vowed to take a thousand lives each day. And now, broken free from her prison in Yomi, Izanami returns—cold, relentless, and intent on vengeance, her promise a chilling whisper upon the living.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:44Z",
+          "scraped_at": "2026-04-15T05:21:45Z",
           "skins": {
             "izanami-izanami": {
               "id": "izanami-izanami",
@@ -6306,9 +6306,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Like his sister, Amaterasu, Susano was born to rule, but he was tempestuous, with a flaring anger, wicked tongue, and a penchant for destruction. Their father, Izanagi, would have none of it and decreed that Susano live in the Underworld. His mood dark at this news, Susano committed heinous acts of vandalism and murder. Acts that sent Amaterasu into shameful hiding. Cast low, Susano descended to earth on his way to the Underworld. He carried only his Ten-Span Sword, and regret for his actions. What had his defilements achieved but to envelop the world in darkness? This was his nature, to broil like a storm, to frighten and destroy what stood in his path. But a storm could also herald life. At a river side, Susano ventured upon an elderly couple, weeping and cradling their young daughter. Eight children, they’d had once, but now only one remained; seven devoured by the eight-headed serpent. Susano was resolved. To atone for his crimes, to prove his father wrong, to better himself, Susano would slay this beast. Eight traps he laid, one for each head of the creature, with eight tubs of aromatic saké as bait. Slithering forward, the Orochi spread its gruesome heads to drink from the trapped tubs. Susano cut the rope. Gates dropped. The heads were imprisoned. One by one, he chopped the eight necks, until only the wriggling tail remained. Sweeping his blade split the reptilian hide, leaving notches in his blade but revealing a brilliant sword inside: the Kusanagi-no-Tsurugi. To his sister, he gave the blade. An act of atonement, but not an apology. His true nature would never change, but his intention could. Though seen on the battlefield of the Gods, Susano’s fight is not truly against those foes, but within himself. He is a raging summer storm, struggling to focus that destructive power at evil, and atoning when the innocent are harmed.",
+          "lore": "Susano, storm-laden brother of Amaterasu, was cast out for his destruction and wrath. Yet, in his wanderings, he found redemption, saving mortals from the dreaded serpent Orochi and earning the blade Kusanagi. His worshipers—those who seek to master their tempests, the fierce but loyal—know Susano as both a symbol of rage and redemption. Guided by his stormy nature, he turns his destructive power against only the most deserving foes. As gods collide, Susano storms forward, his tempestuous spirit a force seeking honor, even within chaos.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:46Z",
+          "scraped_at": "2026-04-15T05:21:46Z",
           "skins": {
             "susano-susano": {
               "id": "susano-susano",
@@ -6423,9 +6423,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Tsukuyomi, God of the Moon, rules the night with cold pride and ruthless precision. Where others plead for harmony, he imposes order. Wielding twin tonfa with deadly grace, he cuts down disrespect as swiftly as his enemies. Once cast from the heavens for his merciless justice, he now walks the battlefield with purpose. Worshipped by those who seek discipline, control, and fearsome strength, Tsukuyomi is the answer to chaos. For players who crave calculated power and punishing aggression, the moon has never shone brighter. The long night has come, and Tsukuyomi stands at its peak.",
+          "lore": "Tsukuyomi, God of the Moon, rules the night with cold pride and ruthless precision. Where others plead for harmony, he imposes order. Wielding twin tonfa with deadly grace, he cuts down disrespect as swiftly as his enemies. Once cast from the heavens for his merciless justice, he now walks the battlefield with purpose. Worshiped by those who seek discipline, control, and fearsome strength, Tsukuyomi is the answer to chaos. For those who crave calculated power and punishing aggression, the moon has never shone brighter. The long night has come, and Tsukuyomi stands at its peak.",
           "unreleased": false,
-          "scraped_at": "2026-03-23T05:00:49Z",
+          "scraped_at": "2026-04-15T05:21:48Z",
           "skins": {
             "tsukuyomi-tsukuyomi": {
               "id": "tsukuyomi-tsukuyomi",
@@ -6559,9 +6559,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Princess Bari, the Divine Mudang, walks the path no one else will tread.\n\nAbandoned at birth yet called upon when no others dared, she journeyed beyond the mortal realm, braving divine trials not for glory, but to save a father who had cast her aside. Along the way, she prayed for the lost, the forgotten, the souls with no home, and the gods took notice. In granting her the Water of Life, they offered her a place among them- not as a ruler, but as a bridge between worlds. Worshipped by those who seek solace and salvation, Princess Bari is the last hope for the forsaken.\n\nOn the battlefield, she is a guardian of the fallen, mending wounds and shielding the weak. As war rages, she descends once more- not for vengeance, not for power, but for those who have no one else to fight for them.",
+          "lore": "Princess Bari, the Divine Mudang, walks the path no one else will tread. Abandoned at birth yet called upon when no others dared, she journeyed beyond the mortal realm, braving divine trials not for glory, but to save a father who had cast her aside. Along the way, she prayed for the lost, the forgotten, the souls with no home, and the gods took notice. In granting her the Water of Life, they offered her a place among them—not as a ruler, but as a bridge between worlds. Worshipped by those who seek solace and salvation, Princess Bari is the last hope for the forsaken. On the battlefield, she is a guardian of the fallen, mending wounds and shielding the weak. As war rages, she descends once more—not for vengeance, not for power, but for those who have no one else to fight for them.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:49Z",
+          "scraped_at": "2026-04-15T05:21:49Z",
           "skins": {
             "princess-bari-princess-bari": {
               "id": "princess-bari-princess-bari",
@@ -6671,9 +6671,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Pale white shines the light from her sentinel high above Earth. She watches, the eye that pierces shadow, and listens with the ears of birds and beasts that use the darkness to hunt and revel. As Queen of the Night, she is known; the Goddess of the Moon, Awilix.They say the sun is her lover, and from his light does she shine, but those that say so have never beheld her. Left unrestrained, the sun burns skin, scorches the land, blinds the eyes. Moonlight does no such thing. Like soft white petals it blankets the night, casting the world into mystical illumination. Never has it brought calamity or ruin, only the chance to see where once there was none. She is no different. Her mysterious radiance needs no other to shine.\n\nThese days, the night is less welcoming. Those loyal followers, the jaguars, whose whispered roars bellow into the silence of her domain, prowl at her command. While it is, no doubt, beyond the understanding of mortals, the very moonlight is threatened. A war unlike any before it would end all things. For once that pale white will glimmer on the ugliness of bloodshed, for the night belongs to Awilix.",
+          "lore": "Awilix, the Goddess of the Moon, commands the night with a silent authority, her Panther Suku always by her side. Her light cuts through shadows, revealing paths for those who revere her and setting traps for those who oppose her. While the sun burns with unchecked intensity, Awilix’s radiance soothes and guides, her power reflected in the prowling strength of her loyal companion. As war threatens to plunge even the night into chaos, Awilix and Suku emerge to defend their domain, proving that the moonlight belongs to them alone.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:52Z",
+          "scraped_at": "2026-04-15T05:21:51Z",
           "skins": {
             "awilix-awilix": {
               "id": "awilix-awilix",
@@ -6824,9 +6824,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Feel the earth trembling beneath your feet? Only a titan of tremendous power could cause such fear. He is the Render of Stone, the Earthsunder. He is Cabrakan, Destroyer of Mountains.\n\nProud, boastful, confident to the point of arrogance, Cabrakan revels in his strength, tearing down what the earth has labored to rise. These traits – and worse - he inherited from his sire, the demon bird Seven Macaw.\n\nSeeking to end Seven Macaw's entire lineage, the Hero Twins tracked Cabrakan by his quaking footfalls. They found him in a valley, surrounded by great peaks, shattering rock into dust.\n\n\"How mighty you are,\" they told him, playing to his pride.\n\n\"I am,\" he boasted.\n\n\"Can you shatter that distant mountain?\" they asked.\n\n\"Of course,\" Cabrakan roared.\n\n\"You must be hungry,\" the Hero Twins offered.\n\n\"Always!\"\n\nAnd so they shot a bird from the sky for the giant to feast upon, yet as they turned the carcass over the flame, Hun-apu coated it with poisonous mud.\n\nWithout a thought, Cabrakan devoured the feast and rose, but already the poison had taken him. Teetering, losing sight, the Earthsunder collapsed. Mountains crumbled a final time. The valley became his tomb.\n\nYet vengeance is a cycle. Blood for blood, and a Titan is not so easily slain. The destroyer of mountains cannot be buried beneath stone, and Cabrakan's pained slumber is at an end. Bursting free, he now thunders across the field of war, seeking the Twins that played him the fool. Why stop at mountains when Cabrakan can destroy Gods.",
+          "lore": "Cabrakan, Destroyer of Mountains, whose boastful pride thunders like a storm. A being born of fury, Cabrakan’s every footstep shatters rock and rends mountains, his power as fearsome as the earth itself. Worshipers of Cabrakan are those drawn to raw power—the ambitious, the indomitable, those who see themselves as forces of nature. Warriors and builders alike revere him, hoping to channel his strength or, perhaps, his terrifying resilience. Now, awoken and ravenous for revenge, Cabrakan’s footsteps quake with wrath, ready to tear down not only mountains but the gods who dare cross him.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:52Z",
+          "scraped_at": "2026-04-15T05:21:52Z",
           "skins": {
             "cabrakan-cabrakan": {
               "id": "cabrakan-cabrakan",
@@ -7013,9 +7013,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Rain is life. Showers from above soak the earth, feeding seeds which grow into precious fruits and grains. Man and beast alike are sustained by this cycle. Without rain, this world would be barren and all living things would turn to dust. Thus is the power of Chaac, God of Rain. But, like all great power, it did not come without cost. In mankind’s earliest days there were no farmers, so they starved beneath the sun. For days, Chaac sought a way to feed them. Deep in the mountains he discovered a golden boulder and cleft it with his mighty axe. Within was Maize, the crop that would change the Maya people forever, and Chaac was worshipped and adored for it. Drunk with pride, Chaac sought the object of his deepest desire, the wife of his brother. For a time, their affair remained secret, but that was not to last. \n\nChaac’s brother, the Sun God, discovered them. Without a word, she dutifully returned to her husband and Chaac, realizing what he had done, let her go, but a rift formed between the two brothers that would never heal. In his grief, Chaac drove his axe into the sky, and from the wound tears of regret fell. Since then, Chaac has chosen a life free of pride and selfishness, devoting himself only to mankind. As a reminder of his greatest failing, he continues to cleave the heavens, washing the land in sustaining waters. Thus do crops grow. Thus do the people survive. Thus is the power of Chaac, God of Rain.",
+          "lore": "Chaac, the Rainbringer, whose mighty axe cleaves the heavens, unleashing life-giving waters that feed the land. In ages past, he gifted maize to the Mayans, yet pride led him astray when his heart sought his brother’s wife, casting him into a tempest of regret. His tears became his rain—a gift to the earth and a constant lament. Now, as Chaac cleaves the sky, each thunderous crack is a reminder of life’s fleeting strength. His worshipers, attuned to his deep emotions, channel the strength of his passion to summon rain, knowing both the beauty and sorrow in each storm. Amidst the gods’ chaos, Chaac strikes to sustain the world he once failed, vowing never to falter again.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:13Z",
+          "scraped_at": "2026-04-15T05:21:54Z",
           "skins": {
             "chaac-chaac": {
               "id": "chaac-chaac",
@@ -7190,9 +7190,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "A grudge, like any wound, left untended will fester.\n\nHun Batz and his twin brother Hun Chouen, led a contented life with their grandmother. Artists and musicians, everything they created was beautiful and enchanting, but they lacked their father's talent for the ball game, Pitz. Summoned to the underworld, their father, Hun Hunapu never returned. Instead his new offspring, half-brothers to Hun Batz and Hun Chauen, appeared. The Hero Twins were everything the original twins were not, strong, athletic, and clever. And they were extremely gifted at playing Pitz.\n\nA jealous rivalry formed between the two sets of twins. The more they played ball together, the more Hun Batz and his brother were defeated. Eventually, the original twins resorted to foul tricks, aggressive tactics, and out-right cheating. Frustrated with these antics, the Hero Twins kicked the ball into a tree, knowing Hun Batz and his brother considered themselves excellent climbers and would go after it. Yet, the higher they climbed, the taller the tree grew, until they could not get back down. Pleased with their magic thus far, The Hero Twins encouraged Hun Batz and Hun Chouen to use their belts like tails in order to escape the terrible height. However, upon doing so, they were mysteriously and humiliatingly transformed into monkeys.\n\nThough the Monkey Twins, as they are now called, came to be worshipped as Gods of Art and Music, the animosity they hold for the Hero Twins remains. Time has only sharpened their combined cunning, and they eagerly await a chance to strike back. Like any wound, their grudge has festered, and what was once a brotherly rivalry has grown into a far more deadly game.",
+          "lore": "Hun Batz, the transformed trickster, once an artist and musician, but envy soured his talents. A grudge with the Hero Twins led him to treachery, and he was outwitted, transformed into a monkey—a god still, but forever bearing the memory of rivalry and loss. Worshipped as a deity of art, Hun Batz’s craft now hides a thirst for revenge, his rivalry with the Twins festering, his grudge an ember ready to ignite once more.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:55Z",
+          "scraped_at": "2026-04-15T05:21:55Z",
           "skins": {
             "hun-batz-hun-batz": {
               "id": "hun-batz-hun-batz",
@@ -7295,9 +7295,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Upon the high winds of Maya lands rides the feathered serpent, Kukulkan. Awesome and terrible to behold, majestic yet sinister, Kukulkan embodies the danger and beauty of a double-edged sword. Time has worn away knowledge of this God like the breeze over stone. Perhaps Kukulkan prefers this. He is known by many names and worn the face of man and beast - and worshipped with the kind of reverence born of fear. Dotted across the vast forests of the Maya lands stand great pyramids bearing his serpentine likeness, architecturally perfect so as to catch the light and bring to life those slithering stone statues. Painted in blood, sacrifices were made upon these sites to appease Kukulkan. He is the lord of death and rebirth. To the world, he brought the four elements, but of wind he keeps control. \n\nA great gem, worn about his sinuous neck is said to be the source of all air. To the people, he brought the calendar. That glorious, portentous stone disk, which counts time to a distant future, only to stop abruptly and with horrifying finality. To the battlefield, he brings a legacy of power and domination. Sacrifices made for his favor were measured in blood, but mortal blood is weak. It seems that, for Kukulkan's ultimate appeasement, the blood of a God is required.",
+          "lore": "Kukulkan, the Feathered Serpent, whose majestic form rides the winds of the Mayan lands. Known as the bringer of wind and rebirth, his tempests cast shadows that flicker with his likeness, stirring both awe and reverence. Kukulkan’s power flows through the air itself, said to be held in a jewel around his neck, inspiring worship from those who revere transformation and the cycles of nature. His followers offer sacrifice and prayers, knowing that his favor can change fortunes or bring ruinous storms. As war brews among the gods, Kukulkan soars with a fury that demands divine blood, not merely mortal devotion.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:57Z",
+          "scraped_at": "2026-04-15T05:21:57Z",
           "skins": {
             "kukulkan-kukulkan": {
               "id": "kukulkan-kukulkan",
@@ -7448,9 +7448,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Xbalanque, the Moon Hero, was born to avenge his father's death at the hands of the Lords of the Underworld. Alongside his twin Hunahpu, he honed his skills in hunting and the sacred ball game before daring to challenge gods and monsters. With wit and courage, the Hero Twins braved every trial, until at last they overthrew the Lords of Death themselves. For his triumph, Xbalanque ascended to the heavens, shining as the moon, a guide to hunters and warriors who thrive through cunning as much as strength. For those who outsmart their foes and strike when least expected, Xbalanque lights the way.",
+          "lore": "Xbalanque, the Moon Hero, was born to avenge his father’s death at the hands of the Lords of the Underworld. Alongside his twin Hunahpu, he honed his skills in hunting and the sacred ball game before daring to challenge gods and monsters. With wit and courage, the Hero Twins braved every trial, until at last they overthrew the Lords of Death themselves. For his triumph, Xbalanque ascended to the heavens, shining as the moon, a guide to hunters and warriors who thrive through cunning as much as strength. For those who outsmart their foes and strike when least expected, Xbalanque lights the way.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:00:58Z",
+          "scraped_at": "2026-04-15T05:21:58Z",
           "skins": {
             "xbalanque-xbalanque": {
               "id": "xbalanque-xbalanque",
@@ -7548,9 +7548,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Mortals must rely on the wisdom of the Gods, but never forget they are fallible. They can be petty, churlish, and worst of all, wrong. What are the consequences for their mistakes? They should have slain the wolf-beast Fenrir, but they chose instead to bind him. Despite the warnings and prophecies he would tear Odin apart at Ragnarok and devour the earth and sky, they did not end Loki's son. Now, terror roams free. It is unknown how, but Fenrir is Unbound. Thrice they tried to bind him, each time convincing Fenrir that the chains were nothing more than a challenge for his strength, a test to see if he could shatter them. The first two God-forged fetters were easily broken beneath the beast’s terrible power, but the third was a ribbon, dwarf made, and Fenrir grew suspicious of the God’s intentions. As a show of faith, he demanded one of them place a hand in his mouth, and if the ribbon proved magical in nature, he would exact punishment. \n\nBrave, if foolish, Tyr put his fist in Fenrir’s maw as the ribbon was secured to the wolf’s leg. Fenrir strained and screamed, but could not break free, and in rage, he devoured Tyr’s hand. For a time, Fenrir was forgotten, the dire prophecy just a memory. But they were all warned and the Gods did nothing. Fenrir is hungry now, the first hunter, an alpha among sheep, but no flesh will satisfy his need. It is revenge he craves, and now he is Unbound.",
+          "lore": "Fenrir, the wolf-son of Loki, defies death and the gods themselves. Foretold to bring Ragnarök, the end of all things, he was bound by trickery, yet Fenrir's hunger remained, growing more ravenous with each chain. Thrice he shattered his bonds, and on the third, Tyr paid the price, his hand sacrificed to secure the beast. Now unbound, Fenrir hunts his captors, driven not by hunger but vengeance, the first hunter among gods, eager to claim his dark, destined prize.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:00Z",
+          "scraped_at": "2026-04-15T05:22:00Z",
           "skins": {
             "fenrir-fenrir": {
               "id": "fenrir-fenrir",
@@ -7678,9 +7678,9 @@
           "damage_type": "Magical",
           "scaling": "40% Strength + 8% Intelligence + 40% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Jormungandr, the World Serpent, is the prophesied herald of Ragnarok, massive enough to encircle Midgard and poison the sky. Born of Loki, he is doom made flesh, destined to clash with Thor in a final battle that will shake the cosmos. Worshiped by cults who revere the end of all things, he is a force of destruction beyond gods or mortals. Players drawn to overwhelming area control and relentless pressure will revel in Jormungandr's presence. When the trumpets of Ragnarok sound, he rises, not to conquer, but to end.",
+          "lore": "Jormungandr, the World Serpent, is the prophesied herald of Ragnarok, massive enough to encircle Midgard and poison the sky. Born of Loki, he is doom made flesh, destined to clash with Thor in a final battle that will shake the cosmos. Worshiped by cults who revere the end of all things, he is a force of destruction beyond gods or mortals. Those drawn to overwhelming area control and relentless pressure will revel in Jormungandr’s presence. When the trumpets of Ragnarok sound, he rises, not to conquer, but to end.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:17Z",
+          "scraped_at": "2026-04-15T05:22:01Z",
           "skins": {
             "jormungandr-jormungandr": {
               "id": "jormungandr-jormungandr",
@@ -7819,9 +7819,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Villain. It’s a word used to describe those that break the rules, that take what they want, and care nothing for those hurt along the way. Loki, the trickster God, would say villainy is nothing more than a point of view. The point of view of fools too mindless to seize opportunity. Of course, with Loki now on the loose, the implications are dire. The end of times may be at hand. The final battle, Ragnarok, possibly on the horizon, for it was foretold that Loki would break free of his prison and herald the horrific final battle that would leave the Gods slain, the heavens sundered, and the world in ashes. None are more eager for that time of chaos than Loki. Before his confinement, Loki’s malicious mischief managed to affect every God in ways both beneficial and terrible. Yet Loki’s most heinous act was in the death of the God of light, Baldr. Baldr’s prophetic dreams showcased his own death. Fearful for her son, Frigg forced all objects of the world to swear never to harm him. All save mistletoe. \n\nCruelly amused, Loki forged a spear from the plant and provided it to Baldr’s brother Hodr. The Gods had a new favorite game, hurling objects at Baldr and laughing as they harmlessly ricocheted. So Hodr threw the spear, but, to everyone’s horror Baldr was impaled. Hel agreed to release Baldr from the underworld if all creatures of the world mourned the God of Light. And all did, save one crone who refused. So Baldr died. When it was discovered the crone was Loki in disguise, the furious Gods bound him in entrails and hung a venomous serpent overhead. Loki’s wife, Sigyn, collected the dripping venom in a bowl, but when she was forced to empty it, Loki was struck, causing such anguish his thrashing would shake the world. But now Loki is free and already wreaking havoc. If the prophetic Volva are correct, and they always are, then the end of all things has finally come.",
+          "lore": "Loki, the Trickster God, whose schemes and mischievous laughter twist through the tales of Asgard like a serpent through grass. Loki has aided the gods but betrayed them just as quickly, his chaotic nature both a blessing and a curse. It was he who orchestrated the tragic death of Baldr, securing his legacy in both triumph and infamy. His worshipers, often clever rogues who value cunning over strength, see in him the freedom to defy fate and disrupt order. With Ragnarok looming, Loki’s boundless mischief may soon unravel destiny itself, and his followers revel, knowing their god walks a path no one else dares tread.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:03Z",
+          "scraped_at": "2026-04-15T05:22:03Z",
           "skins": {
             "loki-loki": {
               "id": "loki-loki",
@@ -7984,9 +7984,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Mightiest of the Aesir, warrior and king, the All-Father is a doomed God. It seems strange to imagine a God concerned with his fate, but Odin regularly consults the volva, the seers in the North. They speak of a final war, Ragnarok, when the mightiest Gods are slain and the world is consumed by the sea. For this day, Odin constantly prepares. The All-Father can trace his lineage to the evil Frost Giant, Ymir, whom he slew with the aid of his two brothers, Vili and Ve, and with his remains forged the world. Atop Asgard, where Odin presides, he is known as the bringer of war, a sage of wisdom, and the keeper of souls slain in battle. \n\nAs a warrior, Odin rides his eight legged steed, Sleipnir, and wields the mighty spear Gungnir. Accompanying him are two wolves and his two trusted ravens, Huginn (thought) and Muninn (memory), who fly around Midgard and return to Odin with all they see and hear. As a sage, Odin travels disguised as a simple wanderer, seeking wisdom. His thirst for knowledge has come at great personal cost, having been hanged from the branches of Yggdrasil, the world tree, for nine days and nights and sacrificed one of his eyes to the Well of Wisdom. As keeper of souls, Odin welcomes slain warriors to his mighty hall of Valhalla on the agreement they will aid him at Ragnarok. Favored female warriors become his elite Valkyrie that usher those worthy of entry to Valhalla. It is in preparation for the final days of Ragnarok he does all this. For the seers claim his death will come at the fangs of the great wolf Fenrir, and like anyone, Odin seeks to change his fate. Yet, never once have the volva been mistaken.",
+          "lore": "Odin, All-Father of Asgard, wielder of knowledge and destiny, forever prepares for Ragnarok, the fated end of gods and men alike. It was he who sacrificed an eye for wisdom, who hung from Yggdrasil’s branches to learn the secrets of runes, and who forged the world from the bones of giants. His worshipers are warriors, poets, and seekers of truth, those who respect wisdom as much as they do strength. With his ravens Huginn and Muninn by his side, Odin’s watchful eye is ever upon the world, seeking any path to delay the prophesied end, knowing that even his mighty throne may one day fall.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:05Z",
+          "scraped_at": "2026-04-15T05:22:04Z",
           "skins": {
             "odin-odin": {
               "id": "odin-odin",
@@ -8101,9 +8101,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Sol and her brother came into this world radiant, glorious beings. So enamored with them, their father arrogantly named each after a sacred heavenly body, he for the moon and she, the sun. As they grew, each child proved their namesake. Mani, of the moon, was contemplative, obedient, calm. Sol, conversely, became willful, spirited, passionate. His children were everything a father could dream, but Odin and his ilk were not pleased. For a father's hubris, Mani and Sol were punished. To the sky, they were sent, each to lead the chariot that dragged the sun or the moon. At their heels were loosed the bloodthirsty sons of Fenrir. Hungry wolves, relentless in pursuit of their prey. Resigned, Mani guided his steeds through the night, ever ahead of his hunter, but Sol did not accept her fate. Furious at the Gods, she taunts and challenges the wolf Skoll as she blazes across the sky, unleashing her spite on the only opponent she can reach. \n\nOdin has never shown signs of regret for his decision, but now war is upon the land. His attentions are turned. Sol, normally confined to her chariot has found a way to send her flaming essence to the battlefield. To the casual observer, the combat, the bloodshed, may all seem just a game to Sol, but she is driven by an age old grudge and a desire to be free.",
+          "lore": "Sol, radiant Goddess of the Sun, races across the sky, pursued eternally by Skoll, the wolf son of Fenrir. Cast to the heavens with her brother Mani as punishment for their father’s pride, Sol defies her fate, her light blazing defiantly across the heavens. Her worshipers are warriors of resilience, farmers of the sunlit fields, and travelers who seek her guiding warmth. With war drawing even the celestial into its wake, Sol joins the fray, her essence burning with liberation’s desire. For beyond her light lies a resolve as fierce as the flames that carry her across the sky.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:08:58Z",
+          "scraped_at": "2026-04-15T05:22:06Z",
           "skins": {
             "sol-sol": {
               "id": "sol-sol",
@@ -8314,9 +8314,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Thor, as famous as he is bold, is God of the thundering sky. Yet his hammer, Mjolnir is nearly as famous as he is, and Thor will not be parted from it.\n\nOdin, the All-Father, bore many children, but none as well known nor as mighty as Thor, who had the strength to move mountains and the power to call lightning from the sky. Despite these incredible gifts, Thor's enemies were cunning, bloodthirsty, and numerous. The Frost Giants constantly threatened to invade Asgard requiring every ounce of Thor's near limitless strength just to keep them at bay. Had the tide truly turned, Asgard might have been destroyed, but a simple prank played by the treacherous Loki ended with the creation of Mjolnir, the legendary hammer, and with it, Thor utterly crushed the Frost Giants.\n\nSif, Thor's wife, had hair like rays of sun through a cloudy sky, and Loki, being covetous, secretly sheared it off while she slept. Mad with fury, Thor demanded Loki fix this. So, Loki went to the dwarves of Ivaldi who forged a golden crown that would grow equally golden hair, a spear that never missed its mark, and a ship that would never sink. Proud of his treasures, Loki returned to Thor and the other Gods, gave the crown to Sif, then bragged that no greater items could be forged.\n\nThe dwarf Brokk took offense to this and claimed that he and his brother could do better. Loki bet his head they could not. So, Brokk and his brother forged three items, a ring that made a duplicate every nine days, a golden pig that could fly and swim, and the hammer, Mjolnir, with the power to shatter mountains. As each item was forged, Brokk was bitten fiercely by a fly, yet only on the third did he flinch, causing the short handle on the hammer. When they were done, the dwarves took their artifacts before the Gods and decried Loki's fly disguise. All the Gods agreed that Brokk and his brother had forged greater items. Loki, ever cunning, declared his neck was not part of the bargain, denying them his head.\n\nMjolnir went to Thor to battle the Frost Giants. Proud and mighty, Thor beat back the evil horde and continues to defend Asgard to this day. With Mjolnir in hand, Thor is an unstoppable force that even other Gods would do well to avoid.",
+          "lore": "Thor, thunderous protector of Asgard, bears Mjolnir, the hammer forged by dwarves and unmatched in its might. Known for his boundless strength and courage, Thor is revered by warriors and defenders, those who seek to protect hearth and home. His followers look to him for protection and swift justice, trusting that Thor’s storms will shield them as surely as they smite his foes. With Asgard itself threatened, Thor charges forth, lightning blazing, his hammer’s fury an unwavering shield against any who would dare breach the Aesir’s defenses.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:08Z",
+          "scraped_at": "2026-04-15T05:22:07Z",
           "skins": {
             "thor-thor": {
               "id": "thor-thor",
@@ -8431,9 +8431,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Both",
-          "lore": "Amongst the snow-capped forests of the frigid north resides the hunter-God of Glory, Ullr. Reserved, secretive, Ullr does not represent the tankard downing, boast bellowing contemporaries of the Norse Pantheon, but pays respectful tribute to glory in all its forms.\n\nGlory is in the silence of snowfall, in the honorable victory earned from single combat, in the perfect curve of a yew bow firing an arrow true. Dotted across the lands of the Faithful, shrines to Ullr can be found in remote, secluded hideaways. It is there that glory is found in the sanctity of a vow, once sworn, never broken, and bound by a ring, no matter how crude, then buried in the earth to weather the ages of time.\n\nThough rarely spoken of, he is highly regarded, even among the Gods, for it is Ullr, not one of Odin's sons that tends the throne of Asgard while the All Father is away. Other Gods might use the opportunity to abuse the power, but Ullr's rule is merely an extension thereof. So much so that only the innermost circle even know that Odin is gone.\n\nAll the more noticeable is it, then, that Ullr has abandoned this post to join the fray. Early on did Odin take the field of battle, leaving Ullr to manage the kingdom. So great a threat must this war be as to endanger the very survival of Asgard. Whatever the reason, Ullr comes to preserve glory, which, for him, may be the whole world.",
+          "lore": "Ullr, the silent Norse God of Glory and the Hunt, finds honor not in loud proclamations but in the perfect shot and solemn vows. While others boast, Ullr reveres the quiet triumph of single combat and the thrill of the hunt. His followers are hunters, archers, and those bound by unbreakable oaths, finding in Ullr a god who prizes skill over spectacle. Now, Ullr joins the fray not for fame, but to preserve honor itself. His arrows fly true, his purpose unswayed as he fights to defend Asgard’s very foundations.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:09Z",
+          "scraped_at": "2026-04-15T05:22:09Z",
           "skins": {
             "ullr-ullr": {
               "id": "ullr-ullr",
@@ -8524,9 +8524,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "As far as it is known, Ymir has long been dead. In Midgard, in the North, it is believed that Ymir’s skull is the sky, his flesh the earth, and his blood the sea. Though, these claims could merely be the boasting of proud Odin and his brothers, who take credit for slaying the first jotunn and fashioning the earth from his body parts. At the beginning of time, the Realm of Fire, Muspell, and the Realm of Ice, Niflheim met at the place called Ginnungagap; the void of space. Steam rose and froze again, and from that primordial mixture, Ymir, King of the Frost Giants took shape. From his body dripped other beings that would become the ancestors of Gods, Men, Dwarves, and of course, Giants. Even the mighty Odin must claim Ymir as his grandfather. Yet Ymir, like all giants, was an evil creature and led his Giant brethren against the Gods. \n\nAfter ages of warfare, Odin and his brothers slew the Giant-King and forged the world from his remains. Yet there are other whispers. Rumors that Ymir, though not a God, was still a Primeval Being, and as such cannot truly be destroyed. Perhaps he only lies dormant in Niflheim, the realm of ice, eager to return and wreak vengeance upon Odin in his kin.",
+          "lore": "Ymir, the frost-giant progenitor, from whose body the very earth was forged, is said to be long dead, yet still he persists. In the icy realm of Niflheim, where frost and fire first met, Ymir once loomed, birthing giants and gods alike. His followers are those who respect the primordial, the ancient power bound in ice and stone. They see in Ymir the promise of retribution and rebirth. With the world at war, Ymir stirs, his cold breath rumbling from beneath the earth, eager to reclaim his fractured body and all that was stolen from him.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:11Z",
+          "scraped_at": "2026-04-15T05:22:10Z",
           "skins": {
             "ymir-ymir": {
               "id": "ymir-ymir",
@@ -8667,7 +8667,7 @@
           "attack_range": "Melee",
           "lore": "Ratatoskr, the sly and mischievous squirrel of Yggdrasil, dances between the Nine Realms, stirring chaos wherever he goes. As the eternal messenger between the wise Eagle atop the World Tree and Nidhogg, the serpent below, Ratatoskr delivers not only words but barbed insults that fuel their unending feud. No one knows where he came from, but all the gods acknowledge his knack for gossip and manipulation. Worshipped by tricksters and storytellers, Ratatoskr thrives on wit and cleverness. His playstyle reflects his nature: unpredictable, swift, and ever-ready to disrupt his foes. As gods clash, Ratatoskr seizes the chance to incite new rivalries and leave his mark on the divine battlefield.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:09:01Z",
+          "scraped_at": "2026-04-15T05:22:12Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
@@ -8753,9 +8753,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Pele is the goddess of Fire, of Dance and Wind, of Volcanoes and Violence. Those who worship Pele speak of her as Madame Pele or Tutu Pele, while others know her as Ka wahine 'ai honua, “the woman who devours the land”. Though she is capable of great acts of destruction, and possesses the temper to provoke such acts, Pele is both destroyer and creator. It was through her mastery over the world's molten core that she wrought the Hawaiian Islands into being, forging them from the lava that ruptured forth from the mouths of her volcanoes. They are places of immense beauty, lush and brimming with life, and by looking upon and revelling in such beauty, you offer Pele worship.\n\nBorn of Kane Milohai, who wrought the earth, sky and heavens, and the Earth goddess Haumea, Pele is one of fourteen children, seven sisters and seven brothers. It is from the enmity between these siblings that Pele arrived in Hawaii, after her exile at the hands of Kane Milohai for her fiery temper and conflict with her sister Namakaokahai, goddess of the Sea. Pursued across the oceans by Namakaikahai, Pele wrought Hawaii into a paradise, making her home within the great calderas of the volcanoes that stand sentinel across the island chain.\n\nTo worship Pele is to grant one's devotion to a goddess of terrible power, one who can shape and render a grand, vibrant world into being at her slightest whim, and burn it to ashes just as quickly. But just as her worshippers are devoted to Pele, she devotes herself to them as a force of divine protection and care. She is a tireless defender of life and the people that dwell upon her islands, and any that seek to threaten them shall surely taste Pele's fire.",
+          "lore": "Pele, the goddess of Fire, Volcanoes, and Dance, is both creator and destroyer, her fiery spirit as untamed as the molten earth she commands. Exiled from her homeland, Pele shaped the Hawaiian Islands with her volcanic power, her passion scorching and renewing all in its path. Her worshipers are those who honor life’s fierce energy, those who respect the land and recognize its unforgiving beauty. They know Pele as both protector and vengeful force, her love fierce but her wrath formidable. As chaos brews among the gods, Pele’s lava flows hot and unrelenting, defending the land she created and all who call it home.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:13Z",
+          "scraped_at": "2026-04-15T05:22:13Z",
           "skins": {
             "pele-pele": {
               "id": "pele-pele",
@@ -8877,9 +8877,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Eat, drink, and be merry, for tomorrow you may die. None adhere more vigorously to this creed than Bacchus, the Roman God of Wine, lewd behavior, and madness. After spending much of his formative years with his impressively intoxicated mentor Solinus, whom Bacchus loves like a father, the God of Wine is now a wanderer and teacher. He’s journeyed across all of Asia, through India, and finally back to Rome, spreading the “Mysteries of the Vine,” a ritual involving incredible amounts of wine to lower inhibitions, freeing one from social constraints, oppression of gender, sexual taboos, and the stresses of life. Quite the successful ritual, if ever there was one. Much of this ritual seems to have come from Solinus, who is widely known to have vast, secret knowledge and the ability to predict the future, though only while completely drunk. The king Midas, covetous of this knowledge, captured Solinus, endeavoring to extract it by providing the scholar the finest food, drink, and entertainment he could muster. Bacchus finally tracked down his mentor in the court of Midas and discovered him well fed and cared for. Quickly, Midas lied, claiming Solinus had been lost and the king had taken him in. \n\nSeeing through the ruse, Bacchus offered the monarch a boon. Midas asked that anything he touched be turned to gold. Without hesitation, Bacchus granted this. He tested his new gift on a twig and stone and found them turned completely to gold. Elated, Midas called a feast, but found his food turned to gold in his hands and his daughter solidified at his touch. Starving and crazed, Midas begged Bacchus to remove the “gift.” Bacchus acquiesced, allowing the greedy king to wash his hands in the Pactolus river. As the golden touch left his hands, the river sands transformed to glittering gold. Of course, the product of continuous overindulgence in alcohol and deviant behavior, Bacchus could simply be insane.",
+          "lore": "Ah, Bacchus! The god of revelry, who taught mortals to seek freedom in a wine-filled cup. Taught by his mentor Solinus, he spread the 'Mysteries of the Vine,' transforming the mundane into ecstatic liberation. Yet joy is fickle; Bacchus himself saw it turn dark. Take heed from King Midas, who learned that even the sweetest gift can curdle into despair. In war, Bacchus is no less potent—he brings a heady chaos, a jubilant anarchy, with every sip shared and every step danced, a god of both joy and its consequences.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:15Z",
+          "scraped_at": "2026-04-15T05:22:15Z",
           "skins": {
             "bacchus-bacchus": {
               "id": "bacchus-bacchus",
@@ -8994,9 +8994,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshipers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshipers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. \n\n\"March on Rome,\" Bellona quietly urged, \"and you shall rise as no other. \"Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+          "lore": "Bellona, fierce Goddess of War, as relentless as steel on stone. She fought alongside Rome’s legions, urging heroes to rise, yet as peace grew, Bellona faded from memory. But war is eternal, and Bellona answers its call once more, her gaze now fixed upon the gods’ battlefield. Armed with sword, whip, or hammer, she rises to rally those beside her and strike terror into those who dare oppose her. Her fury is never dormant—it merely awaits the call.",
           "unreleased": false,
-          "scraped_at": "2026-04-06T05:21:26Z",
+          "scraped_at": "2026-04-15T05:22:16Z",
           "skins": {
             "bellona-bellona": {
               "id": "bellona-bellona",
@@ -9109,8 +9109,8 @@
             "bellona-jade-dragons": {
               "id": "bellona-jade-dragons",
               "name": "Jade Dragons",
-              "card_art_url": "https://wiki.smite2.com/images/Jade_Dragons_Bellona.png?48aad",
-              "thumb_url": "https://wiki.smite2.com/images/thumb/Jade_Dragons_Bellona.png/20px-Jade_Dragons_Bellona.png?48aad",
+              "card_art_url": "https://wiki.smite2.com/images/Jade_Dragons_Bellona.png?cea26",
+              "thumb_url": "https://wiki.smite2.com/images/thumb/Jade_Dragons_Bellona.png/20px-Jade_Dragons_Bellona.png?cea26",
               "screenshot_url": null,
               "screenshot_thumb_url": null,
               "rarity": "Fabled",
@@ -9147,9 +9147,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "An arrow from the bow of Cupid, chubby little God of Love, will make anyone give in to passion and desire.Cupid, as he was called by the Romans, is the son of Venus and Mars, or Aphrodite and Ares as they were known by the Greeks. He is the God of love and desire, flying about on feathery wings, shooting passion-tipped arrows at all the creatures of the earth. When struck with one of his arrows, man and beast alike fall in love with the next thing they see. Without Cupid's steady aim, there would be no love in this world, which is precisely what happened when Cupid fell in love himself.\n\nPsyche was a mortal of astounding beauty, which made Venus venomously jealous. Venus ordered Cupid to sting her with an arrow, then arranged for Psyche to fall in love with a spider. Invisible, Cupid reluctantly went to Psyche as she slept, yet, she woke suddenly and saw right through Cupid's invisibility. Surprised, Cupid cut himself on his own arrow and fell immediately in love with Psyche.Furious, Venus would not let Cupid marry Psyche, so Cupid stopped shooting arrows, people stopped falling in love and stopped worshipping Venus. Panicked, the Goddess of beauty relented and Cupid went back to work. Psyche was whisked to a secret location. Cupid visited her only at night so she could not see who he was. Fearing him to be a terrible monster, Psyche waited for Cupid to fall asleep and lit a lantern. Surprised at what she found, she accidentally scraped one of Cupid's arrows and fell in love with him.\n\nVenus was displeased and forbade Psyche to see her son, forcing her to complete a series of impossible challenges that Psyche overcame only with mystical help. Finally, Cupid begged Jupiter (Zeus) to intervene. Casually, he declared Psyche and Cupid could be together. Thus, Cupid fed Psyche the drink of ambrosia that made her immortal and the God of love got to live happily ever after.",
+          "lore": "Cupid, God of Love, carries arrows tipped with desire, making hearts fall wherever he flies. He is both son of Mars and Venus, bound to passion yet knowing the chaos it can bring. Once he fell for Psyche, a mortal of radiant beauty, yet their love ignited divine jealousy. Now, Cupid readies his arrows, seeking not to incite mere whimsy but to remind all gods that even amidst the fury of battle, love remains—fierce and unyielding.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:09:05Z",
+          "scraped_at": "2026-04-15T05:22:18Z",
           "skins": {
             "cupid-cupid": {
               "id": "cupid-cupid",
@@ -9314,7 +9314,7 @@
           "attack_range": "Ranged",
           "lore": "Discordia, once known as Eris, Goddess of Strife, thrives in the chaos of ambition and pride. With a single golden apple inscribed \"For the Fairest,\" she sparked the Trojan War, unraveling alliances and shattering civilizations. Guiding the exiled Aeneas from Troy to Rome, she reshaped herself as a Roman goddess of prominence. Discordia now revels in disorder, a master of manipulation, wielding chaos to reshape the fate of gods and men.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:09:07Z",
+          "scraped_at": "2026-04-15T05:22:19Z",
           "skins": {
             "discordia-discordia": {
               "id": "discordia-discordia",
@@ -9453,9 +9453,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Brave Hercules, a demigod son of Jupiter, born with impossible strength and force of will; for whom no task is insurmountable, no heroic deed unachievable. Yet, Like all of Jupiter's illegitimate children, Hercules once drew the ire of Juno, and though he is now known as a hero, his greatest achievements might never have been done without Juno's initial tragic involvement.\n\nShe struck Hercules mad, and he slew his own children.\n\nOnce recovered, grief stricken, Hercules sought penance for his crimes. An oracle of Jupiter advised he should pledge his service to the king Eurystheus, and so Hercules reluctantly did so. Jealous of the demigod, the king set him to twelve impossible tasks, expecting him to fail at the first, to slay the Nemean Lion and return with its hide.\n\nThe Nemean Lion captured women and devoured soldiers. Its fur was so thick no weapon could pierce it, and its claws so sharp, no armor could guard against them. Hercules tracked the lion to its mountain caves and drew it out, firing arrows that shattered against the beast's impenetrable coat. Agilely, he dodged as the lion leapt to maul him. In the end, Hercules aimed a powerful shot straight into the lion's roaring maw, a place the powerful fur did not protect, and slew it. Then, using the beasts own claws, he skinned the hide, wearing the mantle proudly as his new armor.\n\nEurystheus was aghast upon the hero's return. Immediately the legend of Hercules began to grow. Eleven more labours the confounded king set against him, but time after time, year after year, Hercules performed what could not be done, earning fame, glory, and the peace he so desperately sought.",
+          "lore": "Hercules, son of Jupiter, whose strength is as legendary as his trials. Cursed to madness by Juno, his journey to redemption began with twelve labors, his courage proven in each impossible feat. With every task, Hercules reclaimed his honor, but his glory came at the price of peace, his deeds marred by the tragedy from which they sprang. Though his triumphs are celebrated, Hercules remains haunted, forever a hero yet forever scarred, his strength a double-edged gift he bears alone.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:21Z",
+          "scraped_at": "2026-04-15T05:22:21Z",
           "skins": {
             "hercules-hercules": {
               "id": "hercules-hercules",
@@ -9572,7 +9572,7 @@
           "attack_range": "Ranged",
           "lore": "Janus, God of Portals and Transitions, stands at every threshold, watching both past and future unfold. With two faces ever turned to what was and what will be, Janus is the keeper of change itself. Doorways, seasons, and the shifting tides of fate all bend to his will. His followers seek him in times of uncertainty, knowing he alone can open the way forward. In battle, Janus is a master of space, bending reality with portals and passages unseen. For him, life is not a straight path but an endless series of doors — and he alone holds the keys.",
           "unreleased": false,
-          "scraped_at": "2026-03-18T06:43:24Z",
+          "scraped_at": "2026-04-15T05:22:22Z",
           "skins": {
             "janus-janus": {
               "id": "janus-janus",
@@ -9699,9 +9699,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Melee",
-          "lore": "Mercurial. A word that evokes volatility, quickness, and cunning. But to compare anything to the speed and wit of the Messenger God Mercury would be to compare a hot day to the searing forge of Vulcan, or a blooming rose to the glory of Venus. It is but a pale comparison. Mercury can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.As an infant, Mercury escaped the watchful eye of his half-brother, Apollo, stole his cattle, fashioned a lyre from a tortoise shell, and snuck in a nap, all before Apollo found him missing. His father, Jupiter, found the child’s mischief boisterously entertaining, and awarded him the task of delivering messages for the Gods, traveling between the Heavens, the Earth, and even to the depths of the Underworld.Now war looms and Mercury races to keep the lines of communication open, though he is often caught in the thick of battle. No stranger to combat, he once slew the monster Argus, the demon with one hundred watchful eyes, using speed and guile alone. But this war is different. The foes are stronger, the stakes higher, and Mercury a pivotal cog in the machine. Should he fail to deliver even a single order the balance could tip, and the time left for this world would be truly mercurial.",
+          "lore": "Mercury, the Messenger God, moves like lightning across Heaven, Earth, and the Underworld, carrying the words of gods and mortals alike. Born a trickster, Mercury’s cleverness and speed are legendary—stealing Apollo’s cattle as an infant, crafting the first lyre, and even slaying Argus, the hundred-eyed monster. Worshiped by travelers, merchants, and those who rely on cunning, Mercury represents swiftness and adaptability. With his winged sandals, he weaves through battlefields, delivering vital messages and striking with blinding speed. Quick-witted and unpredictable, Mercury’s presence on the battlefield turns the tide, ensuring the gods’ plans are carried out with precision.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:24Z",
+          "scraped_at": "2026-04-15T05:22:24Z",
           "skins": {
             "mercury-mercury": {
               "id": "mercury-mercury",
@@ -9792,9 +9792,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Sylvanus, Keeper of the Wilds, is the spirit of field and forest, a guardian whose laughter is heard in the rustling leaves and whose touch coaxes blossoms from the soil. Gentle and wise, he walks beside fawns, wolves, and even trees that stir to life at his call. Worshiped by farmers, sheperds, and those who seek harmony with nature, Sylvanus nurtures all who respect his domain. Yet his kindness carries sorrow-for it was his grief that birthed the cypress tree from the boy Cyparissus. Slow to anger, he is rarely seen on battlefields, but with war spilling into his sacred groves, Sylvanus rises, bringing the calm and fury of nature iteself. For those who value patience, protection, and the steady strength of the natural world, Sylvanus offers roots that hold firm when all else falters.",
+          "lore": "Sylvanus, Keeper of the Wilds, is the spirit of field and forest, a guardian whose laughter is heard in the rustling leaves and whose touch coaxes blossoms from the soil. Gentle and wise, he walks beside fawns, wolves, and even trees that stir to life at his call. Worshiped by farmers, shepherds, and those who seek harmony with nature, Sylvanus nurtures all who respect his domain. Yet his kindness carries sorrow—for it was his grief that birthed the cypress tree from the boy Cyparissus. Slow to anger, he is rarely seen on battlefields, but with war spilling into his sacred groves, Sylvanus rises, bringing the calm and fury of nature itself. For those who value patience, protection, and the steady strength of the natural world, Sylvanus offers roots that hold firm when all else falters.",
           "unreleased": false,
-          "scraped_at": "2026-04-03T05:02:26Z",
+          "scraped_at": "2026-04-15T05:22:25Z",
           "skins": {
             "sylvanus-sylvanus": {
               "id": "sylvanus-sylvanus",
@@ -9885,9 +9885,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "When the Gods of Rome ride chariots across the sky, it is Vulcan that made them. When they reach for weapons to wield in battle, it is Vulcan that forged them. When the very earth rumbles and mountains erupt in searing flame, it is Vulcan's rage that burns. Smith of the Gods, Vulcan crafts with fire and forge as an artist would with paint and brush.\n\nAs an infant, so hideous was Vulcan that his disgusted mother, Juno, cast him into the sea from the heights of Mount Olympus. So great was the fall, it smashed one of Vulcan's legs, a wound from which he would never recover. Beneath the waves, a sea nymph, Thetis, rescued the child-god and raised him as her own. As Vulcan grew, he ventured to the surface and discovered fire and the art of smithing. His natural talents emerged and he forged wondrous jewels for his adopted mother.\n\nSummoned to a gala on Mount Olympus, Thetis wore Vulcan's glittering gifts, but when Juno discovered Vulcan had made them, she jealously demanded he return to Mount Olympus. Angrily, Vulcan refused. In his stead, he sent a magnificent throne of gold and gems that imprisoned Juno when she sat upon it.\n\nFor three days Juno was so entombed, and would have remained so had not Jupiter, Vulcan's father, interjected. To Vulcan he offered an exchange, Juno's freedom for the hand of Venus, the most beautiful Goddess of Love. Vulcan agreed.\n\nThough his vengeance was served cold, the fire of spite still burns in Vulcan's chest. Unable to truly forgive, he loses himself at the forge. None of the wondrous chariots, jewelry or weapons he crafts can ever fill the hurt in his heart, but each one is worthy of a God.",
+          "lore": "Vulcan, master smith of the Roman gods, shapes divine weapons and chariots in the heat of his forge. Cast from Olympus by his own mother, Juno, Vulcan’s craft embodies the fire of resilience and the steel of revenge. His followers—blacksmiths, warriors, and those shaped by hardship—see in him the power to rise from ruin. Despite his skill, bitterness drives him, his forge’s flame fueled as much by resentment as by artistry. Now, as war beckons, Vulcan’s hammer falls, each blow a testament to strength born from scorn and tempered by the fires of his past.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:27Z",
+          "scraped_at": "2026-04-15T05:22:27Z",
           "skins": {
             "vulcan-vulcan": {
               "id": "vulcan-vulcan",
@@ -9987,7 +9987,7 @@
           "attack_range": "Melee",
           "lore": "Aladdin, dreamed of Wealth, Immortality, and Power but found himself bound by a life of toil and obscurity. When a stranger lured him into a mysterious cavern to retrieve a simple lamp, Aladdin’s courage and resourcefulness were tested. Betrayed and trapped, he uncovered the lamp’s secret—a powerful genie bound to grant a single wish. Instead of claiming riches or power, Aladdin sought the genie’s wisdom, forging a bond built on mutual respect. With newfound confidence and purpose, Aladdin had made a powerful friend in the genie, gaining not just a loyal companion but the clarity to shape his own destiny. Aladdin values strategic foresight, resourcefulness, and adaptability, proving that greatness is forged through courage, not just magic.",
           "unreleased": false,
-          "scraped_at": "2026-04-13T05:38:38Z",
+          "scraped_at": "2026-04-15T05:22:28Z",
           "skins": {
             "aladdin-aladdin": {
               "id": "aladdin-aladdin",
@@ -10097,9 +10097,9 @@
           "damage_type": "Magical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Death. If you think that it means the end, then allow me to introduce you to someone.\n\nYou thought it was all over, but Baron Samedi is going to change your mind. The only fire here is in the water, so share a drink with him. Let the sights and sounds entrance you. Join the celebration, feel your pulse pounding so hard you've forgotten your heart stopped beating.\n\nForget what you think you know. There is a life after death, and Baron Samedi will be your guide. So come along and let Baron Samedi show you the wonders of a whole new world, and that even a god of death can be the life of the party.\n\nAfter all, what have you got to lose?",
+          "lore": "Death is not the end but a doorway to the liveliest of afterparties with Baron Samedi as your host. Laughter trails his every step, a jest always on his lips, yet he commands death with an authority few dare question. With top hat and cane, he invites mortals to dance their final dance, for only he knows what lies beyond. So, pour a drink and raise a glass—for in the Baron’s world, death is the greatest adventure of all.",
           "unreleased": false,
-          "scraped_at": "2026-03-12T09:01:31Z",
+          "scraped_at": "2026-04-15T05:22:30Z",
           "skins": {
             "baron-samedi-baron-samedi": {
               "id": "baron-samedi-baron-samedi",
@@ -10209,9 +10209,9 @@
           "damage_type": "Physical",
           "scaling": "100% Strength + 20% Intelligence + 100% Basic Attack Power",
           "attack_range": "Ranged",
-          "lore": "Every river must have its beginning, and that beginning is Yemoja. The Goddess of the Ogun River is mother to the Yoruba pantheon, and from her floodwaters sprang the first mortals. She is the mistress of all rivers and the eternal guardian of the ancient mysteries of life itself. Fishermen and sailors seek her blessings, for she is the protector of all who travel on water. Mothers-to-be ask for her aid, for she is the patron spirit of women and governs everything pertaining to the feminine – especially childbirth. After all, who better than the mother of all life to oversee its continuation?\n\nAs such, she considers herself the caretaker of all that lives. She cares deeply for all of her children, be they mortal or god, comforting them and cleansing them of their sorrows. At Yemoja's blessed touch, wounds are healed and sickness is cured.\n\nBut even her kindness has its limits and should she be roused to anger, she becomes as violent and as destructive as the most turbulent of floodwaters. All who would dare stand against her are swept aside by her roaring fury. To challenge Yemoja is to challenge the river itself. But like the rivers, Yemoja has ever followed her own course.\n\nShe keeps to her spheres of influence and attends only those who seek out her blessings. Content in her solitude, she has maintained her distance from the affairs of the gods, for war does not interest her and she has power enough to suit her. But the advent of Olorun has changed things and even rivers must turn with the will of the heavens.\n\nAnd now, as her children cry out for aid, the river rises and Yemoja rises with it.",
+          "lore": "Yemoja, goddess of rivers and mother of the Yoruba pantheon, is a healer and protector, her waters cleansing sorrow and washing away sickness. Her worshipers are those who seek solace and strength, travelers of water, and the brokenhearted. She watches over women and children, her nurturing embrace as fierce as it is gentle. But when provoked, her wrath surges as fiercely as a flood. Now, as her children cry out amidst the gods’ chaos, Yemoja rises from her waters, an unstoppable current, shielding all who turn to her from the coming storm.",
           "unreleased": false,
-          "scraped_at": "2026-04-08T05:09:12Z",
+          "scraped_at": "2026-04-15T05:22:31Z",
           "skins": {
             "yemoja-yemoja": {
               "id": "yemoja-yemoja",
@@ -10369,7 +10369,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-13T05:38:40Z",
+          "scraped_at": "2026-04-15T05:22:32Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10400,7 +10400,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-13T05:38:41Z",
+          "scraped_at": "2026-04-15T05:22:33Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
