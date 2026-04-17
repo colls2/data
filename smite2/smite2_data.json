@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-04-15T05:22:33Z",
+    "generated_at": "2026-04-17T05:25:24Z",
     "source": "https://wiki.smite2.com",
     "data": "https://github.com/colls2/data",
     "stats": {
@@ -400,7 +400,7 @@
           "title": null,
           "pantheon": "Babylonian",
           "page_url": "https://wiki.smite2.com/w/Ishtar",
-          "thumbnail_url": "https://wiki.smite2.com/images/T_Ishtar_Default_Icon.png?26054",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Ishtar%28S2%29_Default_Icon.png?6ca68",
           "card_art_url": null,
           "roles": [],
           "role_icon_url": null,
@@ -409,7 +409,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-15T05:20:35Z",
+          "scraped_at": "2026-04-17T05:24:40Z",
           "skins": {
             "ishtar-ishtar": {
               "id": "ishtar-ishtar",
@@ -1462,7 +1462,7 @@
           "attack_range": "Ranged",
           "lore": "Nu Wa, guardian of heaven and earth, who sculpted humankind from clay and saved creation from collapse with her elemental stones. When the world pillar shattered, she restored balance, sacrificing her peace to protect her people. Her followers are those who revere life’s harmony and the delicate balance between nature and civilization. In times of crisis, they call upon her strength to hold their world together. As the gods’ chaos threatens devastation once more, Nu Wa raises her elemental stones, determined to defend her creation from the ruinous path of divine strife.",
           "unreleased": false,
-          "scraped_at": "2026-04-15T05:20:50Z",
+          "scraped_at": "2026-04-17T05:24:46Z",
           "skins": {
             "nu-wa-nu-wa": {
               "id": "nu-wa-nu-wa",
@@ -5304,7 +5304,7 @@
           "title": null,
           "pantheon": "Greek",
           "page_url": "https://wiki.smite2.com/w/Atlas",
-          "thumbnail_url": "https://wiki.smite2.com/images/T_Atlas_Default_Icon.png?b208a",
+          "thumbnail_url": "https://wiki.smite2.com/images/T_Atlas%28S2%29_Default_Icon.png?782ee",
           "card_art_url": null,
           "roles": [],
           "role_icon_url": null,
@@ -5313,7 +5313,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-15T05:21:33Z",
+          "scraped_at": "2026-04-17T05:25:01Z",
           "skins": {
             "atlas-atlas": {
               "id": "atlas-atlas",
@@ -5346,7 +5346,7 @@
           "attack_range": "Ranged",
           "lore": "Charybdis, The Ceaseless Whirlpool, is a living vortex of endless hunger, a force of nature said to swallow entire seas along with anything unfortunate enough to drift too close. Legends describe her as a cursed being or manifestation of the ocean’s wrath, forever circling in a deadly rhythm opposite her counterpart Scylla, dragging ships into a crushing abyss where escape is impossible. \n\nNow, in a completely believable turn of events, she was almost set to appear in SMITE 2 until the budget was allegedly cut when Zeus personally struck down the funding with a lightning bolt, declaring that “two sea monsters was too many, and her Ultimate was kinda garbage” rendering her addition impossible and leaving her eternally trapped in the realm of “maybe next patch,” forever spinning in the ocean while Scylla got the spotlight instead. \n\n\"Womp womp,\" Scylla smirked, racking up daily pentakills with ease. Meanwhile, Charybdis sat abandoned in the strait, clutching a silent Greek Iphone 17 and waiting for a call from Hi-Rez that never came. To this day, she’s still waiting. \n\nPoor Charybdis.\n\n(This is a April Fool joke, so anything below is not real or Canon, I kinda Use Scylla as a References, and her Kit.)\n(Fill Free to Edit. We must stick together to make Her fit in SMITE 2)",
           "unreleased": true,
-          "scraped_at": "2026-04-15T05:21:34Z",
+          "scraped_at": "2026-04-17T05:25:02Z",
           "skins": {
             "charybdis-charybdis": {
               "id": "charybdis-charybdis",
@@ -8667,7 +8667,7 @@
           "attack_range": "Melee",
           "lore": "Ratatoskr, the sly and mischievous squirrel of Yggdrasil, dances between the Nine Realms, stirring chaos wherever he goes. As the eternal messenger between the wise Eagle atop the World Tree and Nidhogg, the serpent below, Ratatoskr delivers not only words but barbed insults that fuel their unending feud. No one knows where he came from, but all the gods acknowledge his knack for gossip and manipulation. Worshipped by tricksters and storytellers, Ratatoskr thrives on wit and cleverness. His playstyle reflects his nature: unpredictable, swift, and ever-ready to disrupt his foes. As gods clash, Ratatoskr seizes the chance to incite new rivalries and leave his mark on the divine battlefield.",
           "unreleased": false,
-          "scraped_at": "2026-04-15T05:22:12Z",
+          "scraped_at": "2026-04-17T05:25:15Z",
           "skins": {
             "ratatoskr-ratatoskr": {
               "id": "ratatoskr-ratatoskr",
@@ -10369,7 +10369,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-15T05:22:32Z",
+          "scraped_at": "2026-04-17T05:25:23Z",
           "skins": {
             "cthulhu-cthulhu": {
               "id": "cthulhu-cthulhu",
@@ -10400,7 +10400,7 @@
           "attack_range": null,
           "lore": null,
           "unreleased": true,
-          "scraped_at": "2026-04-15T05:22:33Z",
+          "scraped_at": "2026-04-17T05:25:24Z",
           "skins": {
             "hastur-hastur": {
               "id": "hastur-hastur",
